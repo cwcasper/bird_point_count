@@ -6,6 +6,7 @@
 library(bigrquery)
 library(dplyr)
 library(sf)
+
 # import data -------------------------------------------------------------
 # Functions
 ## Pull from Big Query
@@ -56,5 +57,6 @@ hab_types<-st_read(hab_type_path)
 st_crs(hab_types)
 hab_types<-st_transform(hab_types, 26911)
 
-# wrangle and clean -------------------------------------------------------
-
+## pull from local working directory
+## points sent by Kate that have associated bird data used for bird manuscript January 2025
+bird_gp<-read.csv("raw_data/tabular/bird_grid_points.csv")

@@ -1,0 +1,1211 @@
+"grid_point","Year","Objective","type1_biome","type2_vegetation_community","type3_vegetation_indicators","type4_indicators_history","OBJECTID","Action","Method","Type","layer","bird_MS_pt"
+1,NA,NA,"forest","upland","mixed canopy conifer","mixed canopy conifer",NA,NA,NA,NA,NA,NA
+2,NA,NA,"rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",NA,NA,NA,NA,NA,NA
+3,"2019","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",81,"Chemical","pre-emergent","broadcast","WC_2019","bird_MS_pt"
+4,"2019","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",81,"Chemical","pre-emergent","broadcast","WC_2019","bird_MS_pt"
+5,"2019","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",81,"Chemical","pre-emergent","broadcast","WC_2019","bird_MS_pt"
+6,NA,NA,"rangeland","shrubland","bitterbrush","bitterbrush",NA,NA,NA,NA,NA,"bird_MS_pt"
+7,NA,NA,"rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",NA,NA,NA,NA,NA,NA
+8,NA,NA,"rangeland","shrubland","bitterbrush","bitterbrush",NA,NA,NA,NA,NA,NA
+9,"2015","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",0,"Chemical",NA,"broadcast","WC_2015","bird_MS_pt"
+9,"2019","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",81,"Chemical","pre-emergent","broadcast","WC_2019","bird_MS_pt"
+10,"2019","Weed Control","forest","upland","wooded draw","wooded draw",81,"Chemical","pre-emergent","broadcast","WC_2019","bird_MS_pt"
+11,NA,NA,"rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",NA,NA,NA,NA,NA,"bird_MS_pt"
+12,NA,NA,"rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",NA,NA,NA,NA,NA,"bird_MS_pt"
+13,NA,NA,"rangeland","shrubland","bitterbrush","bitterbrush",NA,NA,NA,NA,NA,NA
+14,NA,NA,"rangeland","shrubland","bitterbrush","bitterbrush",NA,NA,NA,NA,NA,NA
+15,NA,NA,"rangeland","shrubland","bitterbrush","bitterbrush",NA,NA,NA,NA,NA,NA
+16,NA,NA,"forest","upland","mixed canopy conifer","mixed canopy conifer",NA,NA,NA,NA,NA,NA
+17,"2018","Weed Control","forest","upland","mixed canopy conifer","mixed canopy conifer",110,"Chemical","pre-emergent","broadcast","WC_2018",NA
+17,"2021","Weed Control","forest","upland","mixed canopy conifer","mixed canopy conifer",0,"Chemical","post-emergent","broadcast","WC_2021",NA
+18,NA,NA,"forest","upland","mixed canopy conifer","mixed canopy conifer",NA,NA,NA,NA,NA,NA
+19,"2015","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",0,"Chemical",NA,"broadcast","WC_2015","bird_MS_pt"
+19,"2019","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",81,"Chemical","pre-emergent","broadcast","WC_2019","bird_MS_pt"
+20,"2015","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",0,"Chemical",NA,"broadcast","WC_2015","bird_MS_pt"
+20,"2019","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",81,"Chemical","pre-emergent","broadcast","WC_2019","bird_MS_pt"
+21,"2015","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",0,"Chemical",NA,"broadcast","WC_2015","bird_MS_pt"
+21,"2019","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",81,"Chemical","pre-emergent","broadcast","WC_2019","bird_MS_pt"
+22,"2015","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",0,"Chemical",NA,"broadcast","WC_2015","bird_MS_pt"
+22,"2019","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",81,"Chemical","pre-emergent","broadcast","WC_2019","bird_MS_pt"
+23,NA,NA,"rangeland","shrubland","bitterbrush","bitterbrush",NA,NA,NA,NA,NA,"bird_MS_pt"
+24,NA,NA,"rangeland","shrubland","sagebrush","sagebrush",NA,NA,NA,NA,NA,"bird_MS_pt"
+25,NA,NA,"forest","upland","wooded draw","wooded draw",NA,NA,NA,NA,NA,NA
+26,NA,NA,"rangeland","shrubland","wooded draw non-forest","wooded draw non-forest",NA,NA,NA,NA,NA,NA
+27,"2019","Weed Control","rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",81,"Chemical","pre-emergent","broadcast","WC_2019","bird_MS_pt"
+28,"2015","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",0,"Chemical",NA,"broadcast","WC_2015","bird_MS_pt"
+28,"2019","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",81,"Chemical","pre-emergent","broadcast","WC_2019","bird_MS_pt"
+29,"2019","Weed Control","rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",81,"Chemical","pre-emergent","broadcast","WC_2019",NA
+30,"2019","Weed Control","rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",81,"Chemical","pre-emergent","broadcast","WC_2019","bird_MS_pt"
+31,"2015","Weed Control","rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",0,"Chemical",NA,"broadcast","WC_2015","bird_MS_pt"
+31,"2019","Weed Control","rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",81,"Chemical","pre-emergent","broadcast","WC_2019","bird_MS_pt"
+32,"2015","Weed Control","rangeland","shrubland","other shrub deciduous","other shrub deciduous",0,"Chemical",NA,"broadcast","WC_2015",NA
+33,"2018","Revegetation","rangeland","shrubland","sagebrush","sagebrush",379,"Seeding","Broadcast","bare seed","RV_2018",NA
+33,"2016","Vegetation Management","rangeland","shrubland","sagebrush","sagebrush",52,"Sage Thinning","chemical","tebuthiuron","VM_2016",NA
+33,"2022","Vegetation Management","rangeland","shrubland","sagebrush","sagebrush",NA,"Sage Thinning","Mechanical","masticator","VM_2022",NA
+34,NA,NA,"forest","upland","wooded draw","wooded draw",NA,NA,NA,NA,NA,NA
+35,NA,NA,"forest","upland","mixed canopy conifer","mixed canopy conifer",NA,NA,NA,NA,NA,NA
+36,NA,NA,"rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",NA,NA,NA,NA,NA,NA
+37,NA,NA,"rangeland","shrubland","bitterbrush","bitterbrush",NA,NA,NA,NA,NA,"bird_MS_pt"
+38,NA,NA,"rangeland","shrubland","bitterbrush","bitterbrush",NA,NA,NA,NA,NA,"bird_MS_pt"
+39,NA,NA,"rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",NA,NA,NA,NA,NA,"bird_MS_pt"
+40,NA,NA,"rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",NA,NA,NA,NA,NA,"bird_MS_pt"
+41,NA,NA,"forest","upland","wooded draw","wooded draw",NA,NA,NA,NA,NA,NA
+42,"2018","Revegetation","forest","upland","closed canopy conifer","closed canopy conifer",379,"Seeding","Broadcast","bare seed","RV_2018",NA
+42,"2016","Vegetation Management","forest","upland","closed canopy conifer","closed canopy conifer",52,"Sage Thinning","chemical","tebuthiuron","VM_2016",NA
+42,"2019","Weed Control","forest","upland","closed canopy conifer","closed canopy conifer",73,"Chemical","post-emergent","broadcast","WC_2019",NA
+43,NA,NA,"rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",NA,NA,NA,NA,NA,NA
+44,NA,NA,"rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",NA,NA,NA,NA,NA,NA
+45,"2013","Revegetation","rangeland","grassland","former cultivated","forage grass restoration",33,"Seeding","Drill","continuous","RV_2013","bird_MS_pt"
+45,"2015","Revegetation","rangeland","grassland","former cultivated","forage grass restoration",56,"Seeding","Drill","continuous","RV_2015","bird_MS_pt"
+45,"2019","Revegetation","rangeland","grassland","former cultivated","forage grass restoration",277,"Seeding","Drill","island","RV_2019","bird_MS_pt"
+45,"2011","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",0,"Chemical","pre-emergent","broadcast","WC_2011","bird_MS_pt"
+45,"2011","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",27,"Cultural","Burn","Prep","WC_2011","bird_MS_pt"
+45,"2012","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",0,"Chemical",NA,"spot","WC_2012","bird_MS_pt"
+45,"2012","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",0,"Chemical",NA,"spot","WC_2012","bird_MS_pt"
+45,"2012","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",0,"Chemical",NA,"spot","WC_2012","bird_MS_pt"
+45,"2016","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",191,"Chemical","pre-emergent","broadcast","WC_2016","bird_MS_pt"
+46,"2011","Weed Control","rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",0,"Chemical","pre-emergent","broadcast","WC_2011","bird_MS_pt"
+47,"2011","Weed Control","rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",0,"Chemical","pre-emergent","broadcast","WC_2011",NA
+48,NA,NA,"rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",NA,NA,NA,NA,NA,NA
+49,NA,NA,"rangeland","shrubland","bitterbrush","bitterbrush",NA,NA,NA,NA,NA,"bird_MS_pt"
+50,NA,NA,"rangeland","shrubland","bitterbrush","bitterbrush",NA,NA,NA,NA,NA,"bird_MS_pt"
+51,NA,NA,"rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",NA,NA,NA,NA,NA,"bird_MS_pt"
+52,NA,NA,"rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",NA,NA,NA,NA,NA,"bird_MS_pt"
+53,"2013","Revegetation","rangeland","grassland","former cultivated","forage grass restoration",33,"Seeding","Drill","continuous","RV_2013","bird_MS_pt"
+53,"2015","Revegetation","rangeland","grassland","former cultivated","forage grass restoration",56,"Seeding","Drill","continuous","RV_2015","bird_MS_pt"
+53,"2019","Revegetation","rangeland","grassland","former cultivated","forage grass restoration",277,"Seeding","Drill","island","RV_2019","bird_MS_pt"
+53,"2011","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",0,"Chemical","pre-emergent","broadcast","WC_2011","bird_MS_pt"
+53,"2011","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",27,"Cultural","Burn","Prep","WC_2011","bird_MS_pt"
+53,"2012","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",0,"Chemical",NA,"spot","WC_2012","bird_MS_pt"
+53,"2012","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",0,"Chemical",NA,"spot","WC_2012","bird_MS_pt"
+53,"2012","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",0,"Chemical",NA,"spot","WC_2012","bird_MS_pt"
+53,"2016","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",191,"Chemical","pre-emergent","broadcast","WC_2016","bird_MS_pt"
+54,"2011","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",0,"Chemical","pre-emergent","broadcast","WC_2011","bird_MS_pt"
+54,"2011","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",27,"Cultural","Burn","Prep","WC_2011","bird_MS_pt"
+54,"2012","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",0,"Chemical",NA,"spot","WC_2012","bird_MS_pt"
+54,"2012","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",0,"Chemical",NA,"spot","WC_2012","bird_MS_pt"
+54,"2012","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",0,"Chemical",NA,"spot","WC_2012","bird_MS_pt"
+54,"2022","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",0,"Chemical","post-emergent","broadcast","WC_2022","bird_MS_pt"
+55,"2011","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",27,"Cultural","Burn","Prep","WC_2011","bird_MS_pt"
+56,"2012","Revegetation","rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",0,"Seeding","Drill",NA,"RV_2012","bird_MS_pt"
+56,"2011","Weed Control","rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",0,"Chemical","pre-emergent","broadcast","WC_2011","bird_MS_pt"
+57,"2011","Weed Control","rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",0,"Chemical","pre-emergent","broadcast","WC_2011",NA
+58,"2011","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",0,"Chemical","pre-emergent","broadcast","WC_2011",NA
+59,NA,NA,"rangeland","shrubland","wooded draw non-forest","wooded draw non-forest",NA,NA,NA,NA,NA,NA
+60,NA,NA,"rangeland","shrubland","bitterbrush","bitterbrush",NA,NA,NA,NA,NA,NA
+61,NA,NA,"rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",NA,NA,NA,NA,NA,NA
+62,"2016","Vegetation Management","rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",53,"Sage Thinning","chemical","tebuthiuron","VM_2016",NA
+62,"2017","Weed Control","rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",174,"Chemical","pre-emergent","broadcast","WC_2017",NA
+62,"2018","Weed Control","rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",47,"Cultural","Burn","prep","WC_2018",NA
+62,"2019","Weed Control","rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",73,"Chemical","post-emergent","broadcast","WC_2019",NA
+63,NA,NA,"rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",NA,NA,NA,NA,NA,"bird_MS_pt"
+64,NA,NA,"rangeland","shrubland","wooded draw non-forest","wooded draw non-forest",NA,NA,NA,NA,NA,"bird_MS_pt"
+65,"2011","Weed Control","rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",0,"Chemical","pre-emergent","broadcast","WC_2011","bird_MS_pt"
+66,"2011","Weed Control","rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",0,"Chemical","pre-emergent","broadcast","WC_2011","bird_MS_pt"
+67,"2016","Vegetation Management","rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",54,"Sage Thinning","chemical","tebuthiuron","VM_2016","bird_MS_pt"
+67,"2022","Vegetation Management","rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",NA,"Sage Thinning","Mechanical","masticator","VM_2022","bird_MS_pt"
+68,"2016","Vegetation Management","rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",54,"Sage Thinning","chemical","tebuthiuron","VM_2016",NA
+68,"2022","Vegetation Management","rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",NA,"Sage Thinning","Mechanical","masticator","VM_2022",NA
+69,NA,NA,"rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",NA,NA,NA,NA,NA,NA
+70,"2012","Revegetation","rangeland","grassland","former cultivated","forage grass restoration",18,"Seeding","Drill","continuous","RV_2012","bird_MS_pt"
+70,"2013","Revegetation","rangeland","grassland","former cultivated","forage grass restoration",34,"Seeding","Drill","continuous","RV_2013","bird_MS_pt"
+70,"2012","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",0,"Chemical","pre-emergent","broadcast","WC_2012","bird_MS_pt"
+70,"2012","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",0,"Chemical",NA,"spot","WC_2012","bird_MS_pt"
+70,"2012","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",0,"Chemical",NA,"spot","WC_2012","bird_MS_pt"
+70,"2012","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",0,"Chemical",NA,"spot","WC_2012","bird_MS_pt"
+70,"2016","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",191,"Chemical","pre-emergent","broadcast","WC_2016","bird_MS_pt"
+70,"2021","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",17,"Chemical","post-emergent","spot","WC_2021","bird_MS_pt"
+70,"2022","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",NA,"Chemical","post-emergent","broadcast","WC_2022","bird_MS_pt"
+71,"2011","Revegetation","rangeland","grassland","former cultivated","forage grass restoration",0,"Seeding","Drill","continuous","RV_2011","bird_MS_pt"
+71,"2012","Revegetation","rangeland","grassland","former cultivated","forage grass restoration",18,"Seeding","Drill","continuous","RV_2012","bird_MS_pt"
+71,"2013","Revegetation","rangeland","grassland","former cultivated","forage grass restoration",34,"Seeding","Drill","continuous","RV_2013","bird_MS_pt"
+71,"2020","Revegetation","rangeland","grassland","former cultivated","forage grass restoration",308,"Seeding","Drill","continuous","RV_2020","bird_MS_pt"
+71,"2012","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",0,"Chemical","pre-emergent","broadcast","WC_2012","bird_MS_pt"
+71,"2012","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",0,"Chemical",NA,"spot","WC_2012","bird_MS_pt"
+71,"2012","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",0,"Chemical",NA,"spot","WC_2012","bird_MS_pt"
+71,"2012","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",0,"Chemical",NA,"spot","WC_2012","bird_MS_pt"
+71,"2016","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",191,"Chemical","pre-emergent","broadcast","WC_2016","bird_MS_pt"
+71,"2021","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",18,"Chemical","post-emergent","spot","WC_2021","bird_MS_pt"
+72,"2011","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",0,"Chemical","pre-emergent","broadcast","WC_2011","bird_MS_pt"
+72,"2011","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",27,"Cultural","Burn","Prep","WC_2011","bird_MS_pt"
+72,"2012","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",0,"Chemical","post-emergent","broadcast","WC_2012","bird_MS_pt"
+72,"2022","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",0,"Chemical","post-emergent","broadcast","WC_2022","bird_MS_pt"
+73,"2011","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",0,"Chemical","pre-emergent","broadcast","WC_2011","bird_MS_pt"
+73,"2011","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",27,"Cultural","Burn","Prep","WC_2011","bird_MS_pt"
+73,"2012","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",0,"Chemical","pre-emergent","broadcast","WC_2012","bird_MS_pt"
+74,"2018","Revegetation","rangeland","grassland","former cultivated","forage grass diversification",254,"Seeding","Drill","continuous","RV_2018","bird_MS_pt"
+75,"2016","Vegetation Management","rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",54,"Sage Thinning","chemical","tebuthiuron","VM_2016","bird_MS_pt"
+76,"2016","Vegetation Management","rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",54,"Sage Thinning","chemical","tebuthiuron","VM_2016","bird_MS_pt"
+77,"2012","Revegetation","rangeland","grassland","former cultivated","forage grass restoration",18,"Seeding","Drill","continuous","RV_2012","bird_MS_pt"
+77,"2013","Revegetation","rangeland","grassland","former cultivated","forage grass restoration",34,"Seeding","Drill","continuous","RV_2013","bird_MS_pt"
+77,"2011","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",0,"Chemical","pre-emergent","broadcast","WC_2011","bird_MS_pt"
+77,"2012","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",0,"Chemical","pre-emergent","broadcast","WC_2012","bird_MS_pt"
+77,"2012","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",0,"Chemical","post-emergent","spot","WC_2012","bird_MS_pt"
+77,"2012","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",0,"Chemical",NA,"spot","WC_2012","bird_MS_pt"
+77,"2012","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",0,"Chemical",NA,"spot","WC_2012","bird_MS_pt"
+77,"2012","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",0,"Chemical",NA,"spot","WC_2012","bird_MS_pt"
+77,"2016","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",191,"Chemical","pre-emergent","broadcast","WC_2016","bird_MS_pt"
+77,"2021","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",18,"Chemical","post-emergent","spot","WC_2021","bird_MS_pt"
+77,"2022","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",0,"Chemical","post-emergent","broadcast","WC_2022","bird_MS_pt"
+78,"2011","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",0,"Chemical","pre-emergent","broadcast","WC_2011","bird_MS_pt"
+78,"2011","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",27,"Cultural","Burn","Prep","WC_2011","bird_MS_pt"
+78,"2012","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",0,"Chemical","post-emergent","broadcast","WC_2012","bird_MS_pt"
+78,"2022","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",0,"Chemical","post-emergent","broadcast","WC_2022","bird_MS_pt"
+79,"2018","Revegetation","rangeland","grassland","former cultivated","forage grass diversification",254,"Seeding","Drill","continuous","RV_2018","bird_MS_pt"
+79,"2011","Weed Control","rangeland","grassland","former cultivated","forage grass diversification",0,"Chemical","pre-emergent","broadcast","WC_2011","bird_MS_pt"
+79,"2012","Weed Control","rangeland","grassland","former cultivated","forage grass diversification",0,"Chemical","pre-emergent","broadcast","WC_2012","bird_MS_pt"
+79,"2022","Weed Control","rangeland","grassland","former cultivated","forage grass diversification",0,"Chemical","post-emergent","broadcast","WC_2022","bird_MS_pt"
+80,"2018","Revegetation","rangeland","grassland","former cultivated","forage grass diversification",254,"Seeding","Drill","continuous","RV_2018","bird_MS_pt"
+81,"2018","Revegetation","rangeland","grassland","former cultivated","forage grass diversification",254,"Seeding","Drill","continuous","RV_2018",NA
+82,"2018","Revegetation","rangeland","grassland","former cultivated","forage grass diversification",254,"Seeding","Drill","continuous","RV_2018",NA
+82,"2017","Weed Control","rangeland","grassland","former cultivated","forage grass diversification",173,"Chemical","pre-emergent","broadcast","WC_2017",NA
+83,"2015","Revegetation","rangeland","grassland","former cultivated","forage grass diversification",66,"Seeding","Drill","continuous","RV_2015","bird_MS_pt"
+83,"2018","Revegetation","rangeland","grassland","former cultivated","forage grass diversification",382,"Seeding","Drill","islands","RV_2018","bird_MS_pt"
+83,"2017","Weed Control","rangeland","grassland","former cultivated","forage grass diversification",173,"Chemical","pre-emergent","broadcast","WC_2017","bird_MS_pt"
+84,"2018","Revegetation","rangeland","grassland","former cultivated","forage grass diversification",382,"Seeding","Drill","islands","RV_2018","bird_MS_pt"
+84,"2016","Vegetation Management","rangeland","grassland","former cultivated","forage grass diversification",54,"Sage Thinning","chemical","tebuthiuron","VM_2016","bird_MS_pt"
+84,"2017","Weed Control","rangeland","grassland","former cultivated","forage grass diversification",173,"Chemical","pre-emergent","broadcast","WC_2017","bird_MS_pt"
+85,"2016","Vegetation Management","rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",54,"Sage Thinning","chemical","tebuthiuron","VM_2016","bird_MS_pt"
+86,"2015","Revegetation","rangeland","grassland","former cultivated","forage grass restoration",71,"Seeding","Drill","continuous","RV_2015","bird_MS_pt"
+86,"2017","Revegetation","rangeland","grassland","former cultivated","forage grass restoration",153,"Seeding","Drill","continuous","RV_2017","bird_MS_pt"
+86,"2016","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",3,"Mechanical","Machine","Rotary Mower","VM_2016","bird_MS_pt"
+86,"2012","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",0,"Chemical",NA,"spot","WC_2012","bird_MS_pt"
+86,"2012","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",0,"Chemical",NA,"spot","WC_2012","bird_MS_pt"
+87,"2012","Revegetation","rangeland","grassland","former cultivated","forage grass restoration",339,"Live Plant","Transplant","ELYCIN","RV_2012","bird_MS_pt"
+87,"2015","Revegetation","rangeland","grassland","former cultivated","forage grass restoration",71,"Seeding","Drill","continuous","RV_2015","bird_MS_pt"
+87,"2017","Revegetation","rangeland","grassland","former cultivated","forage grass restoration",153,"Seeding","Drill","continuous","RV_2017","bird_MS_pt"
+87,"2021","Revegetation","rangeland","grassland","former cultivated","forage grass restoration",315,"Seeding","Drill","islands","RV_2021","bird_MS_pt"
+87,"2016","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",3,"Mechanical","Machine","Rotary Mower","VM_2016","bird_MS_pt"
+87,"2012","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",0,"Chemical",NA,"spot","WC_2012","bird_MS_pt"
+87,"2012","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",0,"Chemical",NA,"spot","WC_2012","bird_MS_pt"
+88,"2012","Revegetation","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",339,"Live Plant","Transplant","ELYCIN","RV_2012","bird_MS_pt"
+88,"2020","Vegetation Management","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",113,"Barrier","Buck-N-Rail","Buck-N-Rail","VM_2020","bird_MS_pt"
+88,"2011","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",0,"Chemical","pre-emergent","broadcast","WC_2011","bird_MS_pt"
+88,"2011","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",28,"Cultural","Burn","Prep","WC_2011","bird_MS_pt"
+88,"2012","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",0,"Chemical",NA,"spot","WC_2012","bird_MS_pt"
+88,"2012","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",0,"Chemical",NA,"spot","WC_2012","bird_MS_pt"
+88,"2022","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",0,"Chemical","post-emergent","broadcast","WC_2022","bird_MS_pt"
+89,"2015","Revegetation","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",71,"Seeding","Drill","continuous","RV_2015","bird_MS_pt"
+89,"2011","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",28,"Cultural","Burn","Prep","WC_2011","bird_MS_pt"
+89,"2012","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",0,"Chemical",NA,"spot","WC_2012","bird_MS_pt"
+89,"2015","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",0,"Chemical",NA,"spot","WC_2015","bird_MS_pt"
+89,"2015","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",0,"Chemical",NA,"broadcast","WC_2015","bird_MS_pt"
+89,"2022","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",0,"Chemical","post-emergent","broadcast","WC_2022","bird_MS_pt"
+90,"2011","Weed Control","rangeland","shrubland","bitterbrush","bitterbrush",0,"Chemical","pre-emergent","broadcast","WC_2011","bird_MS_pt"
+90,"2017","Weed Control","rangeland","shrubland","bitterbrush","bitterbrush",173,"Chemical","pre-emergent","broadcast","WC_2017","bird_MS_pt"
+91,"2011","Weed Control","rangeland","shrubland","other shrub deciduous","other shrub deciduous",0,"Chemical","pre-emergent","broadcast","WC_2011","bird_MS_pt"
+92,"2017","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",173,"Chemical","pre-emergent","broadcast","WC_2017","bird_MS_pt"
+93,"2017","Weed Control","rangeland","shrubland","bitterbrush","bitterbrush",173,"Chemical","pre-emergent","broadcast","WC_2017","bird_MS_pt"
+94,"2017","Weed Control","rangeland","shrubland","bitterbrush","bitterbrush",173,"Chemical","pre-emergent","broadcast","WC_2017","bird_MS_pt"
+95,NA,NA,"rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",NA,NA,NA,NA,NA,"bird_MS_pt"
+96,NA,NA,"rangeland","shrubland","wooded draw non-forest","wooded draw non-forest",NA,NA,NA,NA,NA,"bird_MS_pt"
+97,NA,NA,"forest","upland","wooded draw","wooded draw",NA,NA,NA,NA,NA,NA
+98,"2012","Weed Control","rangeland","grassland","former cultivated","forage grass diversification",0,"Chemical",NA,"spot","WC_2012","bird_MS_pt"
+98,"2013","Weed Control","rangeland","grassland","former cultivated","forage grass diversification",44,"Cultural","Burn","prep","WC_2013","bird_MS_pt"
+98,"2015","Weed Control","rangeland","grassland","former cultivated","forage grass diversification",0,"Chemical",NA,"broadcast","WC_2015","bird_MS_pt"
+99,"2017","Revegetation","rangeland","grassland","former cultivated","forage grass diversification",187,"Seeding","Drill","continuous","RV_2017","bird_MS_pt"
+99,"2017","Revegetation","rangeland","grassland","former cultivated","forage grass diversification",229,"Seeding","Drill","island","RV_2017","bird_MS_pt"
+99,"2012","Weed Control","rangeland","grassland","former cultivated","forage grass diversification",0,"Chemical",NA,"spot","WC_2012","bird_MS_pt"
+99,"2013","Weed Control","rangeland","grassland","former cultivated","forage grass diversification",44,"Cultural","Burn","prep","WC_2013","bird_MS_pt"
+99,"2015","Weed Control","rangeland","grassland","former cultivated","forage grass diversification",0,"Chemical",NA,"broadcast","WC_2015","bird_MS_pt"
+100,NA,NA,"rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",NA,NA,NA,NA,NA,"bird_MS_pt"
+101,NA,NA,"rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",NA,NA,NA,NA,NA,"bird_MS_pt"
+102,NA,NA,"rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",NA,NA,NA,NA,NA,"bird_MS_pt"
+103,NA,NA,"rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",NA,NA,NA,NA,NA,"bird_MS_pt"
+104,"2018","Revegetation","rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",378,"Seeding","Broadcast","bare seed","RV_2018","bird_MS_pt"
+105,NA,NA,"rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",NA,NA,NA,NA,NA,NA
+106,NA,NA,"forest","upland","wooded draw","wooded draw",NA,NA,NA,NA,NA,NA
+107,"2014","Revegetation","rangeland","grassland","former cultivated","forage grass restoration",44,"Seeding","Drill","continuous","RV_2014","bird_MS_pt"
+107,"2015","Revegetation","rangeland","grassland","former cultivated","forage grass restoration",71,"Seeding","Drill","continuous","RV_2015","bird_MS_pt"
+107,"2017","Revegetation","rangeland","grassland","former cultivated","forage grass restoration",153,"Seeding","Drill","continuous","RV_2017","bird_MS_pt"
+107,"2016","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",3,"Mechanical","Machine","Rotary Mower","VM_2016","bird_MS_pt"
+107,"2012","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",0,"Chemical",NA,"spot","WC_2012","bird_MS_pt"
+107,"2012","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",0,"Chemical",NA,"spot","WC_2012","bird_MS_pt"
+107,"2020","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",25,"Cultural","Burn","prep","WC_2020","bird_MS_pt"
+108,"2015","Revegetation","rangeland","grassland","former cultivated","forage grass restoration",71,"Seeding","Drill","continuous","RV_2015","bird_MS_pt"
+108,"2017","Revegetation","rangeland","grassland","former cultivated","forage grass restoration",153,"Seeding","Drill","continuous","RV_2017","bird_MS_pt"
+108,"2016","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",3,"Mechanical","Machine","Rotary Mower","VM_2016","bird_MS_pt"
+108,"2012","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",0,"Chemical",NA,"spot","WC_2012","bird_MS_pt"
+108,"2013","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",44,"Cultural","Burn","prep","WC_2013","bird_MS_pt"
+109,"2015","Revegetation","rangeland","grassland","former cultivated","forage grass restoration",71,"Seeding","Drill","continuous","RV_2015","bird_MS_pt"
+109,"2017","Revegetation","rangeland","grassland","former cultivated","forage grass restoration",153,"Seeding","Drill","continuous","RV_2017","bird_MS_pt"
+109,"2019","Revegetation","rangeland","grassland","former cultivated","forage grass restoration",284,"Seeding","Drill","continuous","RV_2019","bird_MS_pt"
+109,"2016","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",3,"Mechanical","Machine","Rotary Mower","VM_2016","bird_MS_pt"
+109,"2012","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",0,"Chemical",NA,"spot","WC_2012","bird_MS_pt"
+109,"2013","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",44,"Cultural","Burn","prep","WC_2013","bird_MS_pt"
+110,NA,NA,"rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",NA,NA,NA,NA,NA,"bird_MS_pt"
+111,"2020","Vegetation Management","rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",24,"Sage Thinning","Burn",NA,"VM_2020","bird_MS_pt"
+112,NA,NA,"rangeland","shrubland","bitterbrush","bitterbrush",NA,NA,NA,NA,NA,NA
+113,NA,NA,"rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",NA,NA,NA,NA,NA,NA
+114,NA,NA,"rangeland","shrubland","bitterbrush","bitterbrush",NA,NA,NA,NA,NA,NA
+115,NA,NA,"forest","upland","wooded draw","wooded draw",NA,NA,NA,NA,NA,NA
+116,NA,NA,"forest","upland","wooded draw","wooded draw",NA,NA,NA,NA,NA,NA
+117,NA,NA,"forest","upland","mixed canopy conifer","mixed canopy conifer",NA,NA,NA,NA,NA,NA
+118,"2015","Revegetation","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",73,"Seeding","Drill","continuous","RV_2015","bird_MS_pt"
+118,"2015","Revegetation","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",79,"Seeding","Broadcast","bare seed","RV_2015","bird_MS_pt"
+118,"2011","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",0,"Chemical","pre-emergent","broadcast","WC_2011","bird_MS_pt"
+118,"2011","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",31,"Cultural","Burn","Prep","WC_2011","bird_MS_pt"
+118,"2012","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",0,"Chemical",NA,"spot","WC_2012","bird_MS_pt"
+118,"2012","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",42,"Cultural","Burn","prep","WC_2012","bird_MS_pt"
+118,"2017","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",162,"Chemical","post-emergent","spot","WC_2017","bird_MS_pt"
+118,"2018","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",135,"Chemical","pre-emergent","broadcast","WC_2018","bird_MS_pt"
+119,"2015","Revegetation","rangeland","grassland","former cultivated","forage grass restoration",81,"Seeding","Drill","continuous","RV_2015","bird_MS_pt"
+119,"2015","Revegetation","rangeland","grassland","former cultivated","forage grass restoration",0,"Seeding","Drill",NA,"RV_2015","bird_MS_pt"
+119,"2019","Revegetation","rangeland","grassland","former cultivated","forage grass restoration",281,"Seeding","Drill","continuous","RV_2019","bird_MS_pt"
+119,"2021","Revegetation","rangeland","grassland","former cultivated","forage grass restoration",317,"Seeding","Broadcast","bare seed","RV_2021","bird_MS_pt"
+119,"2016","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",2,"Mechanical","Machine","Rotary Mower","VM_2016","bird_MS_pt"
+119,"2011","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",0,"Chemical","pre-emergent","broadcast","WC_2011","bird_MS_pt"
+119,"2012","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",0,"Chemical",NA,"spot","WC_2012","bird_MS_pt"
+119,"2012","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",42,"Cultural","Burn","prep","WC_2012","bird_MS_pt"
+120,"2012","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",0,"Chemical",NA,"spot","WC_2012","bird_MS_pt"
+120,"2012","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",0,"Chemical",NA,"spot","WC_2012","bird_MS_pt"
+120,"2013","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",43,"Cultural","Burn","prep","WC_2013","bird_MS_pt"
+120,"2016","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",183,"Chemical","pre-emergent","broadcast","WC_2016","bird_MS_pt"
+120,"2021","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",20,"Chemical","post-emergent","spot","WC_2021","bird_MS_pt"
+120,"2022","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",177,"Chemical","post-emergent","spot","WC_2022","bird_MS_pt"
+120,"2022","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",0,"Chemical","pre-emergent","broadcast","WC_2022","bird_MS_pt"
+121,"2015","Revegetation","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",75,"Seeding","Drill","continuous","RV_2015","bird_MS_pt"
+121,"2016","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",4,"Mechanical","Machine","Rotary Mower","VM_2016","bird_MS_pt"
+121,"2012","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",0,"Chemical",NA,"spot","WC_2012","bird_MS_pt"
+121,"2012","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",0,"Chemical",NA,"spot","WC_2012","bird_MS_pt"
+121,"2013","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",43,"Cultural","Burn","prep","WC_2013","bird_MS_pt"
+121,"2022","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",177,"Chemical","post-emergent","spot","WC_2022","bird_MS_pt"
+122,"2012","Weed Control","rangeland","grassland","former cultivated","forage grass diversification",0,"Chemical",NA,"spot","WC_2012","bird_MS_pt"
+122,"2013","Weed Control","rangeland","grassland","former cultivated","forage grass diversification",44,"Cultural","Burn","prep","WC_2013","bird_MS_pt"
+122,"2015","Weed Control","rangeland","grassland","former cultivated","forage grass diversification",0,"Chemical",NA,"broadcast","WC_2015","bird_MS_pt"
+123,"2012","Weed Control","rangeland","grassland","former cultivated","forage grass diversification",0,"Chemical",NA,"spot","WC_2012","bird_MS_pt"
+123,"2013","Weed Control","rangeland","grassland","former cultivated","forage grass diversification",44,"Cultural","Burn","prep","WC_2013","bird_MS_pt"
+123,"2015","Weed Control","rangeland","grassland","former cultivated","forage grass diversification",0,"Chemical",NA,"broadcast","WC_2015","bird_MS_pt"
+124,"2017","Revegetation","rangeland","grassland","former cultivated","forage grass diversification",187,"Seeding","Drill","continuous","RV_2017","bird_MS_pt"
+124,"2017","Revegetation","rangeland","grassland","former cultivated","forage grass diversification",194,"Seeding","Drill","island","RV_2017","bird_MS_pt"
+124,"2017","Revegetation","rangeland","grassland","former cultivated","forage grass diversification",227,"Seeding","Drill","island","RV_2017","bird_MS_pt"
+124,"2013","Weed Control","rangeland","grassland","former cultivated","forage grass diversification",44,"Cultural","Burn","prep","WC_2013","bird_MS_pt"
+124,"2015","Weed Control","rangeland","grassland","former cultivated","forage grass diversification",0,"Chemical",NA,"broadcast","WC_2015","bird_MS_pt"
+125,"2015","Weed Control","rangeland","shrubland","sagebrush","sagebrush",0,"Chemical",NA,"broadcast","WC_2015","bird_MS_pt"
+126,NA,NA,"rangeland","shrubland","bitterbrush","bitterbrush",NA,NA,NA,NA,NA,"bird_MS_pt"
+127,NA,NA,"rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",NA,NA,NA,NA,NA,"bird_MS_pt"
+128,NA,NA,"rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",NA,NA,NA,NA,NA,NA
+129,NA,NA,"forest","upland","wooded draw","wooded draw",NA,NA,NA,NA,NA,NA
+130,NA,NA,"forest","upland","mixed canopy conifer","mixed canopy conifer",NA,NA,NA,NA,NA,NA
+131,NA,NA,"forest","upland","mixed canopy conifer","mixed canopy conifer",NA,NA,NA,NA,NA,NA
+132,NA,NA,"forest","riparian","riparian woodland","riparian woodland",NA,NA,NA,NA,NA,"bird_MS_pt"
+133,"2018","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",135,"Chemical","pre-emergent","broadcast","WC_2018","bird_MS_pt"
+134,"2015","Revegetation","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",80,"Seeding","Drill","continuous","RV_2015","bird_MS_pt"
+134,"2011","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",0,"Chemical","pre-emergent","broadcast","WC_2011","bird_MS_pt"
+134,"2011","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",31,"Cultural","Burn","Prep","WC_2011","bird_MS_pt"
+134,"2012","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",0,"Chemical",NA,"spot","WC_2012","bird_MS_pt"
+134,"2012","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",39,"Cultural","Burn","prep","WC_2012","bird_MS_pt"
+134,"2017","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",157,"Chemical","post-emergent","spot","WC_2017","bird_MS_pt"
+134,"2018","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",135,"Chemical","pre-emergent","broadcast","WC_2018","bird_MS_pt"
+134,"2020","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",20,"Cultural","Burn","prep","WC_2020","bird_MS_pt"
+134,"2021","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",7,"Chemical","post-emergent","spot","WC_2021","bird_MS_pt"
+135,"2014","Revegetation","rangeland","grassland","former cultivated","forage grass restoration",43,"Seeding","Drill","continuous","RV_2014","bird_MS_pt"
+135,"2015","Revegetation","rangeland","grassland","former cultivated","forage grass restoration",74,"Seeding","Drill","continuous","RV_2015","bird_MS_pt"
+135,"2019","Revegetation","rangeland","grassland","former cultivated","forage grass restoration",282,"Seeding","Drill","continuous","RV_2019","bird_MS_pt"
+135,"2016","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",4,"Mechanical","Machine","Rotary Mower","VM_2016","bird_MS_pt"
+135,"2011","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",0,"Chemical","pre-emergent","broadcast","WC_2011","bird_MS_pt"
+135,"2011","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",31,"Cultural","Burn","Prep","WC_2011","bird_MS_pt"
+135,"2012","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",39,"Cultural","Burn","prep","WC_2012","bird_MS_pt"
+135,"2013","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",43,"Cultural","Burn","prep","WC_2013","bird_MS_pt"
+135,"2016","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",190,"Chemical","pre-emergent","broadcast","WC_2016","bird_MS_pt"
+135,"2021","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",2,"Chemical","post-emergent","spot","WC_2021","bird_MS_pt"
+136,"2015","Revegetation","rangeland","grassland","former cultivated","forage grass restoration",75,"Seeding","Drill","continuous","RV_2015","bird_MS_pt"
+136,"2017","Revegetation","rangeland","grassland","former cultivated","forage grass restoration",152,"Seeding","Drill","continuous","RV_2017","bird_MS_pt"
+136,"2016","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",4,"Mechanical","Machine","Rotary Mower","VM_2016","bird_MS_pt"
+136,"2012","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",0,"Chemical",NA,"spot","WC_2012","bird_MS_pt"
+136,"2013","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",43,"Cultural","Burn","prep","WC_2013","bird_MS_pt"
+136,"2018","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",108,"Chemical","post-emergent","spot","WC_2018","bird_MS_pt"
+136,"2021","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",11,"Chemical","post-emergent","spot","WC_2021","bird_MS_pt"
+136,"2022","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",177,"Chemical","post-emergent","spot","WC_2022","bird_MS_pt"
+137,"2015","Revegetation","rangeland","grassland","former cultivated","forage grass restoration",75,"Seeding","Drill","continuous","RV_2015","bird_MS_pt"
+137,"2017","Revegetation","rangeland","grassland","former cultivated","forage grass restoration",152,"Seeding","Drill","continuous","RV_2017","bird_MS_pt"
+137,"2016","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",4,"Mechanical","Machine","Rotary Mower","VM_2016","bird_MS_pt"
+137,"2011","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",0,"Chemical","pre-emergent","broadcast","WC_2011","bird_MS_pt"
+137,"2012","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",0,"Chemical",NA,"spot","WC_2012","bird_MS_pt"
+138,"2012","Weed Control","rangeland","grassland","former cultivated","forage grass diversification",0,"Chemical",NA,"spot","WC_2012","bird_MS_pt"
+138,"2013","Weed Control","rangeland","grassland","former cultivated","forage grass diversification",44,"Cultural","Burn","prep","WC_2013","bird_MS_pt"
+138,"2015","Weed Control","rangeland","grassland","former cultivated","forage grass diversification",0,"Chemical",NA,"broadcast","WC_2015","bird_MS_pt"
+139,"2017","Revegetation","rangeland","grassland","former cultivated","forage grass diversification",226,"Seeding","Drill","island","RV_2017","bird_MS_pt"
+139,"2013","Weed Control","rangeland","grassland","former cultivated","forage grass diversification",44,"Cultural","Burn","prep","WC_2013","bird_MS_pt"
+139,"2015","Weed Control","rangeland","grassland","former cultivated","forage grass diversification",0,"Chemical",NA,"broadcast","WC_2015","bird_MS_pt"
+140,"2017","Revegetation","rangeland","grassland","former cultivated","forage grass diversification",187,"Seeding","Drill","continuous","RV_2017","bird_MS_pt"
+140,"2015","Weed Control","rangeland","grassland","former cultivated","forage grass diversification",0,"Chemical",NA,"broadcast","WC_2015","bird_MS_pt"
+141,"2015","Weed Control","rangeland","grassland","former cultivated","forage grass diversification",0,"Chemical",NA,"broadcast","WC_2015","bird_MS_pt"
+141,"2022","Weed Control","rangeland","grassland","former cultivated","forage grass diversification",179,"Chemical","post-emergent","spot","WC_2022","bird_MS_pt"
+142,"2015","Weed Control","rangeland","grassland","former cultivated","forage grass diversification",0,"Chemical",NA,"broadcast","WC_2015","bird_MS_pt"
+142,"2022","Weed Control","rangeland","grassland","former cultivated","forage grass diversification",179,"Chemical","post-emergent","spot","WC_2022","bird_MS_pt"
+143,"2018","Weed Control","rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",108,"Chemical","post-emergent","spot","WC_2018","bird_MS_pt"
+143,"2021","Weed Control","rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",11,"Chemical","post-emergent","spot","WC_2021","bird_MS_pt"
+144,NA,NA,"rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",NA,NA,NA,NA,NA,NA
+145,"2020","Vegetation Management","rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",23,"Sage Thinning","Burn",NA,"VM_2020",NA
+146,NA,NA,"forest","upland","wooded draw","wooded draw",NA,NA,NA,NA,NA,NA
+147,"2015","Revegetation","rangeland","grassland","former cultivated","forage grass restoration",74,"Seeding","Drill","continuous","RV_2015","bird_MS_pt"
+147,"2017","Revegetation","rangeland","grassland","former cultivated","forage grass restoration",152,"Seeding","Drill","continuous","RV_2017","bird_MS_pt"
+147,"2016","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",4,"Mechanical","Machine","Rotary Mower","VM_2016","bird_MS_pt"
+147,"2012","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",0,"Chemical",NA,"spot","WC_2012","bird_MS_pt"
+147,"2013","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",43,"Cultural","Burn","prep","WC_2013","bird_MS_pt"
+147,"2018","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",117,"Chemical","pre-emergent","broadcast","WC_2018","bird_MS_pt"
+147,"2021","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",11,"Chemical","post-emergent","spot","WC_2021","bird_MS_pt"
+148,"2015","Revegetation","rangeland","grassland","former cultivated","forage grass restoration",75,"Seeding","Drill","continuous","RV_2015","bird_MS_pt"
+148,"2017","Revegetation","rangeland","grassland","former cultivated","forage grass restoration",152,"Seeding","Drill","continuous","RV_2017","bird_MS_pt"
+148,"2018","Revegetation","rangeland","grassland","former cultivated","forage grass restoration",387,"Live Plant","Container","PURTRI","RV_2018","bird_MS_pt"
+148,"2016","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",4,"Mechanical","Machine","Rotary Mower","VM_2016","bird_MS_pt"
+148,"2011","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",0,"Chemical","pre-emergent","broadcast","WC_2011","bird_MS_pt"
+148,"2012","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",0,"Chemical",NA,"spot","WC_2012","bird_MS_pt"
+148,"2013","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",43,"Cultural","Burn","prep","WC_2013","bird_MS_pt"
+149,"2017","Revegetation","rangeland","grassland","former cultivated","forage grass diversification",187,"Seeding","Drill","continuous","RV_2017","bird_MS_pt"
+149,"2015","Weed Control","rangeland","grassland","former cultivated","forage grass diversification",0,"Chemical",NA,"broadcast","WC_2015","bird_MS_pt"
+150,"2017","Revegetation","rangeland","grassland","former cultivated","forage grass diversification",187,"Seeding","Drill","continuous","RV_2017","bird_MS_pt"
+150,"2015","Weed Control","rangeland","grassland","former cultivated","forage grass diversification",0,"Chemical",NA,"broadcast","WC_2015","bird_MS_pt"
+151,"2018","Weed Control","rangeland","shrubland","sagebrush","sagebrush",108,"Chemical","post-emergent","spot","WC_2018",NA
+152,"2015","Weed Control","rangeland","grassland","former cultivated","forage grass diversification",0,"Chemical",NA,"broadcast","WC_2015",NA
+153,NA,NA,"rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",NA,NA,NA,NA,NA,NA
+154,"2014","Vegetation Management","rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",NA,"Sage Thinning","Manual","hand tool","VM_2014",NA
+155,"2016","Vegetation Management","rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",55,"Sage Thinning","chemical","tebuthiuron","VM_2016",NA
+156,"2016","Vegetation Management","rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",55,"Sage Thinning","chemical","tebuthiuron","VM_2016",NA
+157,NA,NA,"rangeland","shrubland","bitterbrush","bitterbrush",NA,NA,NA,NA,NA,NA
+158,NA,NA,"rangeland","shrubland","other shrub deciduous","other shrub deciduous",NA,NA,NA,NA,NA,NA
+159,NA,NA,"rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",NA,NA,NA,NA,NA,NA
+160,NA,NA,"rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",NA,NA,NA,NA,NA,NA
+161,"2012","Revegetation","forest","upland","wooded draw","wooded draw",0,"Live Plant","Container","Mix","RV_2012",NA
+162,NA,NA,"forest","riparian","riparian woodland","riparian woodland",NA,NA,NA,NA,NA,"bird_MS_pt"
+163,"2018","Revegetation","forest","riparian","riparian woodland","riparian woodland",391,"Live Plant","Transplant","bulrush","RV_2018","bird_MS_pt"
+163,"2018","Revegetation","forest","riparian","riparian woodland","riparian woodland",392,"Live Plant","Transplant","Mix","RV_2018","bird_MS_pt"
+164,"2015","Revegetation","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",80,"Seeding","Drill","continuous","RV_2015","bird_MS_pt"
+164,"2011","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",0,"Chemical","pre-emergent","broadcast","WC_2011","bird_MS_pt"
+164,"2011","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",31,"Cultural","Burn","Prep","WC_2011","bird_MS_pt"
+164,"2012","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",0,"Chemical",NA,"spot","WC_2012","bird_MS_pt"
+164,"2012","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",39,"Cultural","Burn","prep","WC_2012","bird_MS_pt"
+164,"2017","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",157,"Chemical","post-emergent","spot","WC_2017","bird_MS_pt"
+164,"2018","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",135,"Chemical","pre-emergent","broadcast","WC_2018","bird_MS_pt"
+164,"2020","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",20,"Cultural","Burn","prep","WC_2020","bird_MS_pt"
+164,"2021","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",7,"Chemical","post-emergent","spot","WC_2021","bird_MS_pt"
+165,"2011","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",0,"Chemical","pre-emergent","broadcast","WC_2011","bird_MS_pt"
+165,"2011","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",31,"Cultural","Burn","Prep","WC_2011","bird_MS_pt"
+165,"2012","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",39,"Cultural","Burn","prep","WC_2012","bird_MS_pt"
+165,"2015","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",0,"Chemical",NA,"broadcast","WC_2015","bird_MS_pt"
+165,"2017","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",156,"Chemical","post-emergent","spot","WC_2017","bird_MS_pt"
+165,"2018","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",135,"Chemical","pre-emergent","broadcast","WC_2018","bird_MS_pt"
+165,"2021","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",2,"Chemical","post-emergent","spot","WC_2021","bird_MS_pt"
+166,"2015","Revegetation","rangeland","grassland","former cultivated","forage grass restoration",74,"Seeding","Drill","continuous","RV_2015","bird_MS_pt"
+166,"2016","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",4,"Mechanical","Machine","Rotary Mower","VM_2016","bird_MS_pt"
+166,"2013","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",43,"Cultural","Burn","prep","WC_2013","bird_MS_pt"
+166,"2018","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",117,"Chemical","pre-emergent","broadcast","WC_2018","bird_MS_pt"
+166,"2021","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",2,"Chemical","post-emergent","spot","WC_2021","bird_MS_pt"
+167,NA,NA,"rangeland","shrubland","other shrub deciduous","other shrub deciduous",NA,NA,NA,NA,NA,NA
+168,NA,NA,"rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",NA,NA,NA,NA,NA,NA
+169,NA,NA,"rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",NA,NA,NA,NA,NA,NA
+170,NA,NA,"forest","upland","wooded draw","wooded draw",NA,NA,NA,NA,NA,NA
+171,NA,NA,"forest","upland","wooded draw","wooded draw",NA,NA,NA,NA,NA,NA
+172,NA,NA,"rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",NA,NA,NA,NA,NA,NA
+173,NA,NA,"forest","upland","wooded draw","wooded draw",NA,NA,NA,NA,NA,NA
+174,NA,NA,"rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",NA,NA,NA,NA,NA,NA
+175,"2013","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",0,"Biological","Biocontrol","Cyphocleonus achates","WC_2013","bird_MS_pt"
+175,"2017","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",157,"Chemical","post-emergent","spot","WC_2017","bird_MS_pt"
+175,"2018","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",135,"Chemical","pre-emergent","broadcast","WC_2018","bird_MS_pt"
+176,"2011","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",0,"Chemical","pre-emergent","broadcast","WC_2011","bird_MS_pt"
+176,"2011","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",31,"Cultural","Burn","Prep","WC_2011","bird_MS_pt"
+176,"2012","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",39,"Cultural","Burn","prep","WC_2012","bird_MS_pt"
+176,"2015","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",0,"Chemical",NA,"spot","WC_2015","bird_MS_pt"
+176,"2017","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",156,"Chemical","post-emergent","spot","WC_2017","bird_MS_pt"
+176,"2018","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",135,"Chemical","pre-emergent","broadcast","WC_2018","bird_MS_pt"
+176,"2021","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",2,"Chemical","post-emergent","spot","WC_2021","bird_MS_pt"
+177,"2012","Revegetation","rangeland","grassland","former cultivated","forage grass restoration",0,"Seeding","Drill",NA,"RV_2012","bird_MS_pt"
+177,"2015","Revegetation","rangeland","grassland","former cultivated","forage grass restoration",76,"Seeding","Drill","continuous","RV_2015","bird_MS_pt"
+177,"2017","Revegetation","rangeland","grassland","former cultivated","forage grass restoration",244,"Seeding","Hand seed","bare seed","RV_2017","bird_MS_pt"
+177,"2016","Vegetation Management","rangeland","grassland","former cultivated","forage grass restoration",6,"Other","Road Maintenance","Rotary Mower","VM_2016","bird_MS_pt"
+177,"2011","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",0,"Chemical","pre-emergent","broadcast","WC_2011","bird_MS_pt"
+177,"2011","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",31,"Cultural","Burn","Prep","WC_2011","bird_MS_pt"
+177,"2012","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",39,"Cultural","Burn","prep","WC_2012","bird_MS_pt"
+177,"2018","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",102,"Chemical","post-emergent","broadcast","WC_2018","bird_MS_pt"
+177,"2018","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",117,"Chemical","pre-emergent","broadcast","WC_2018","bird_MS_pt"
+177,"2021","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",2,"Chemical","post-emergent","spot","WC_2021","bird_MS_pt"
+178,"2014","Revegetation","rangeland","grassland","former cultivated","forage grass restoration",43,"Seeding","Drill","continuous","RV_2014","bird_MS_pt"
+178,"2015","Revegetation","rangeland","grassland","former cultivated","forage grass restoration",349,"Live Plant","Container","Mix","RV_2015","bird_MS_pt"
+178,"2018","Revegetation","rangeland","grassland","former cultivated","forage grass restoration",384,"Seeding","Drill","continuous","RV_2018","bird_MS_pt"
+178,"2020","Revegetation","rangeland","grassland","former cultivated","forage grass restoration",299,"Seeding","Drill","continuous","RV_2020","bird_MS_pt"
+178,"2016","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",4,"Mechanical","Machine","Rotary Mower","VM_2016","bird_MS_pt"
+178,"2013","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",43,"Cultural","Burn","prep","WC_2013","bird_MS_pt"
+178,"2018","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",117,"Chemical","pre-emergent","broadcast","WC_2018","bird_MS_pt"
+178,"2020","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",56,"Chemical","post-emergent","broadcast","WC_2020","bird_MS_pt"
+179,"2015","Weed Control","rangeland","grassland","former cultivated","forage grass diversification",0,"Chemical",NA,"broadcast","WC_2015","bird_MS_pt"
+179,"2018","Weed Control","rangeland","grassland","former cultivated","forage grass diversification",108,"Chemical","post-emergent","spot","WC_2018","bird_MS_pt"
+179,"2021","Weed Control","rangeland","grassland","former cultivated","forage grass diversification",11,"Chemical","post-emergent","spot","WC_2021","bird_MS_pt"
+179,"2021","Weed Control","rangeland","grassland","former cultivated","forage grass diversification",23,"Chemical","pre-emergent","broadcast","WC_2021","bird_MS_pt"
+180,"2015","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",0,"Chemical",NA,"broadcast","WC_2015","bird_MS_pt"
+180,"2018","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",108,"Chemical","post-emergent","spot","WC_2018","bird_MS_pt"
+180,"2021","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",11,"Chemical","post-emergent","spot","WC_2021","bird_MS_pt"
+181,"2018","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",108,"Chemical","post-emergent","spot","WC_2018","bird_MS_pt"
+181,"2021","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",23,"Chemical","pre-emergent","broadcast","WC_2021","bird_MS_pt"
+182,NA,NA,"forest","upland","wooded draw","wooded draw",NA,NA,NA,NA,NA,NA
+183,NA,NA,"rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",NA,NA,NA,NA,NA,NA
+184,NA,NA,"rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",NA,NA,NA,NA,NA,NA
+185,"2011","Revegetation","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",0,"Live Plant","Container","PINFLE","RV_2011",NA
+186,NA,NA,"forest","upland","wooded draw","wooded draw",NA,NA,NA,NA,NA,NA
+187,NA,NA,"forest","upland","mixed canopy conifer","mixed canopy conifer",NA,NA,NA,NA,NA,NA
+188,"2013","Revegetation","rangeland","grassland","former cultivated","forage grass restoration",37,"Seeding","Broadcast","bare seed","RV_2013","bird_MS_pt"
+189,"2012","Revegetation","rangeland","grassland","former cultivated","forage grass restoration",0,"Seeding","Drill",NA,"RV_2012","bird_MS_pt"
+189,"2016","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",5,"Mechanical","Machine","Rotary Mower","VM_2016","bird_MS_pt"
+189,"2011","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",0,"Chemical","pre-emergent","broadcast","WC_2011","bird_MS_pt"
+189,"2012","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",0,"Chemical","pre-emergent","broadcast","WC_2012","bird_MS_pt"
+189,"2012","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",39,"Cultural","Burn","prep","WC_2012","bird_MS_pt"
+189,"2017","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",169,"Chemical","pre-emergent","broadcast","WC_2017","bird_MS_pt"
+190,"2015","Revegetation","rangeland","grassland","former cultivated","forage grass restoration",76,"Seeding","Drill","continuous","RV_2015","bird_MS_pt"
+190,"2011","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",0,"Chemical","pre-emergent","broadcast","WC_2011","bird_MS_pt"
+190,"2018","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",96,"Chemical","post-emergent","broadcast","WC_2018","bird_MS_pt"
+190,"2018","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",134,"Chemical","pre-emergent","broadcast","WC_2018","bird_MS_pt"
+190,"2020","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",50,"Chemical","pre-emergent","broadcast","WC_2020","bird_MS_pt"
+190,"2021","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",1,"Chemical","post-emergent","spot","WC_2021","bird_MS_pt"
+191,"2015","Revegetation","rangeland","grassland","former cultivated","forage grass restoration",76,"Seeding","Drill","continuous","RV_2015","bird_MS_pt"
+191,"2011","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",0,"Chemical","pre-emergent","broadcast","WC_2011","bird_MS_pt"
+191,"2015","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",0,"Chemical",NA,"broadcast","WC_2015","bird_MS_pt"
+191,"2017","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",161,"Chemical","post-emergent","spot","WC_2017","bird_MS_pt"
+191,"2018","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",96,"Chemical","post-emergent","broadcast","WC_2018","bird_MS_pt"
+191,"2020","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",59,"Chemical","post-emergent","broadcast","WC_2020","bird_MS_pt"
+191,"2021","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",1,"Chemical","post-emergent","spot","WC_2021","bird_MS_pt"
+192,"2017","Revegetation","rangeland","grassland","former cultivated","forage grass diversification",113,"Seeding","Drill","continuous","RV_2017","bird_MS_pt"
+192,"2011","Weed Control","rangeland","grassland","former cultivated","forage grass diversification",0,"Chemical","pre-emergent","broadcast","WC_2011","bird_MS_pt"
+192,"2015","Weed Control","rangeland","grassland","former cultivated","forage grass diversification",0,"Chemical",NA,"broadcast","WC_2015","bird_MS_pt"
+192,"2019","Weed Control","rangeland","grassland","former cultivated","forage grass diversification",90,"Chemical","pre-emergent","broadcast","WC_2019","bird_MS_pt"
+192,"2022","Weed Control","rangeland","grassland","former cultivated","forage grass diversification",0,"Chemical","post-emergent","broadcast","WC_2022","bird_MS_pt"
+193,"2017","Revegetation","rangeland","grassland","former cultivated","forage grass diversification",113,"Seeding","Drill","continuous","RV_2017",NA
+193,"2019","Revegetation","rangeland","grassland","former cultivated","forage grass diversification",399,"Seeding","Drill","islands","RV_2019",NA
+193,"2011","Weed Control","rangeland","grassland","former cultivated","forage grass diversification",0,"Chemical","pre-emergent","broadcast","WC_2011",NA
+193,"2015","Weed Control","rangeland","grassland","former cultivated","forage grass diversification",0,"Chemical",NA,"broadcast","WC_2015",NA
+193,"2019","Weed Control","rangeland","grassland","former cultivated","forage grass diversification",90,"Chemical","pre-emergent","broadcast","WC_2019",NA
+194,"2017","Revegetation","rangeland","grassland","former cultivated","forage grass diversification",113,"Seeding","Drill","continuous","RV_2017",NA
+194,"2011","Weed Control","rangeland","grassland","former cultivated","forage grass diversification",0,"Chemical","pre-emergent","broadcast","WC_2011",NA
+194,"2015","Weed Control","rangeland","grassland","former cultivated","forage grass diversification",0,"Chemical",NA,"broadcast","WC_2015",NA
+194,"2019","Weed Control","rangeland","grassland","former cultivated","forage grass diversification",90,"Chemical","pre-emergent","broadcast","WC_2019",NA
+194,"2021","Weed Control","rangeland","grassland","former cultivated","forage grass diversification",23,"Chemical","pre-emergent","broadcast","WC_2021",NA
+195,"2017","Revegetation","rangeland","grassland","former cultivated","forage grass diversification",113,"Seeding","Drill","continuous","RV_2017",NA
+195,"2015","Weed Control","rangeland","grassland","former cultivated","forage grass diversification",0,"Chemical",NA,"broadcast","WC_2015",NA
+195,"2019","Weed Control","rangeland","grassland","former cultivated","forage grass diversification",90,"Chemical","pre-emergent","broadcast","WC_2019",NA
+196,NA,NA,"rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",NA,NA,NA,NA,NA,NA
+197,"2012","Revegetation","rangeland","grassland","former cultivated","irrigated agriculture restoration",331,"Seeding","Drill","continuous","RV_2012","bird_MS_pt"
+197,"2019","Revegetation","rangeland","grassland","former cultivated","irrigated agriculture restoration",291,"Seeding","Drill","continuous","RV_2019","bird_MS_pt"
+197,"2017","Weed Control","rangeland","grassland","former cultivated","irrigated agriculture restoration",154,"Chemical","post-emergent","broadcast","WC_2017","bird_MS_pt"
+197,"2018","Weed Control","rangeland","grassland","former cultivated","irrigated agriculture restoration",103,"Chemical","post-emergent","broadcast","WC_2018","bird_MS_pt"
+198,"2014","Revegetation","rangeland","grassland","former cultivated","forage grass restoration",54,"Seeding","Drill","continuous","RV_2014","bird_MS_pt"
+198,"2016","Vegetation Management","rangeland","grassland","former cultivated","forage grass restoration",208,"Barrier","Buck-N-Rail","Buck-N-Rail","VM_2016","bird_MS_pt"
+198,"2018","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",118,"Chemical","pre-emergent","broadcast","WC_2018","bird_MS_pt"
+198,"2021","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",20,"Chemical","post-emergent","spot","WC_2021","bird_MS_pt"
+199,"2015","Revegetation","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",76,"Seeding","Drill","continuous","RV_2015","bird_MS_pt"
+199,"2011","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",0,"Chemical","pre-emergent","broadcast","WC_2011","bird_MS_pt"
+199,"2015","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",0,"Chemical",NA,"broadcast","WC_2015","bird_MS_pt"
+199,"2017","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",161,"Chemical","post-emergent","spot","WC_2017","bird_MS_pt"
+199,"2018","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",134,"Chemical","pre-emergent","broadcast","WC_2018","bird_MS_pt"
+199,"2020","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",59,"Chemical","post-emergent","broadcast","WC_2020","bird_MS_pt"
+199,"2021","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",1,"Chemical","post-emergent","spot","WC_2021","bird_MS_pt"
+200,"2015","Revegetation","rangeland","grassland","former cultivated","forage grass diversification",76,"Seeding","Drill","continuous","RV_2015","bird_MS_pt"
+200,"2011","Weed Control","rangeland","grassland","former cultivated","forage grass diversification",0,"Chemical","pre-emergent","broadcast","WC_2011","bird_MS_pt"
+200,"2017","Weed Control","rangeland","grassland","former cultivated","forage grass diversification",161,"Chemical","post-emergent","spot","WC_2017","bird_MS_pt"
+200,"2018","Weed Control","rangeland","grassland","former cultivated","forage grass diversification",134,"Chemical","pre-emergent","broadcast","WC_2018","bird_MS_pt"
+200,"2022","Weed Control","rangeland","grassland","former cultivated","forage grass diversification",184,"Chemical","post-emergent","spot","WC_2022","bird_MS_pt"
+201,"2011","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",0,"Chemical","pre-emergent","broadcast","WC_2011",NA
+201,"2017","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",171,"Chemical","pre-emergent","broadcast","WC_2017",NA
+201,"2018","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",134,"Chemical","pre-emergent","broadcast","WC_2018",NA
+201,"2019","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",90,"Chemical","pre-emergent","broadcast","WC_2019",NA
+201,"2022","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",184,"Chemical","post-emergent","spot","WC_2022",NA
+202,"2019","Revegetation","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",288,"Seeding","Drill","islands","RV_2019",NA
+202,"2011","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",0,"Chemical","pre-emergent","broadcast","WC_2011",NA
+202,"2017","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",171,"Chemical","pre-emergent","broadcast","WC_2017",NA
+202,"2018","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",111,"Chemical","pre-emergent","broadcast","WC_2018",NA
+203,"2011","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",0,"Chemical","pre-emergent","broadcast","WC_2011",NA
+203,"2017","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",171,"Chemical","pre-emergent","broadcast","WC_2017",NA
+203,"2018","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",111,"Chemical","pre-emergent","broadcast","WC_2018",NA
+204,"2011","Weed Control","rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",0,"Chemical","pre-emergent","broadcast","WC_2011",NA
+204,"2017","Weed Control","rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",171,"Chemical","pre-emergent","broadcast","WC_2017",NA
+204,"2018","Weed Control","rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",130,"Chemical","pre-emergent","broadcast","WC_2018",NA
+205,NA,NA,"rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",NA,NA,NA,NA,NA,NA
+206,NA,NA,"rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",NA,NA,NA,NA,NA,NA
+207,NA,NA,"rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",NA,NA,NA,NA,NA,NA
+208,NA,NA,"rangeland","shrubland","sagebrush","sagebrush",NA,NA,NA,NA,NA,NA
+209,NA,NA,"rangeland","shrubland","sagebrush","sagebrush",NA,NA,NA,NA,NA,NA
+210,NA,NA,"rangeland","shrubland","bitterbrush","bitterbrush",NA,NA,NA,NA,NA,NA
+211,"2012","Weed Control","forest","riparian","riparian woodland","riparian woodland",0,"Mechanical","Manual","dig","WC_2012","bird_MS_pt"
+211,"2016","Weed Control","forest","riparian","riparian woodland","riparian woodland",186,"Chemical","pre-emergent","broadcast","WC_2016","bird_MS_pt"
+212,"2017","Revegetation","rangeland","grassland","former cultivated","forage grass diversification",83,"Seeding","Drill","continuous","RV_2017",NA
+212,"2013","Weed Control","rangeland","grassland","former cultivated","forage grass diversification",45,"Cultural","Burn","prep","WC_2013",NA
+212,"2018","Weed Control","rangeland","grassland","former cultivated","forage grass diversification",112,"Chemical","pre-emergent","broadcast","WC_2018",NA
+212,"2022","Weed Control","rangeland","grassland","former cultivated","forage grass diversification",0,"Chemical","post-emergent","spot","WC_2022",NA
+213,"2011","Weed Control","rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",0,"Chemical","pre-emergent","broadcast","WC_2011",NA
+213,"2017","Weed Control","rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",171,"Chemical","pre-emergent","broadcast","WC_2017",NA
+213,"2018","Weed Control","rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",130,"Chemical","pre-emergent","broadcast","WC_2018",NA
+214,"2011","Weed Control","rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",0,"Chemical","pre-emergent","broadcast","WC_2011",NA
+214,"2017","Weed Control","rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",171,"Chemical","pre-emergent","broadcast","WC_2017",NA
+214,"2018","Weed Control","rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",130,"Chemical","pre-emergent","broadcast","WC_2018",NA
+215,NA,NA,"rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",NA,NA,NA,NA,NA,NA
+216,NA,NA,"rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",NA,NA,NA,NA,NA,NA
+217,NA,NA,"rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",NA,NA,NA,NA,NA,NA
+218,NA,NA,"rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",NA,NA,NA,NA,NA,NA
+219,NA,NA,"rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",NA,NA,NA,NA,NA,NA
+220,NA,NA,"rangeland","shrubland","sagebrush","sagebrush",NA,NA,NA,NA,NA,NA
+221,NA,NA,"forest","upland","wooded draw","wooded draw",NA,NA,NA,NA,NA,NA
+222,NA,NA,"rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",NA,NA,NA,NA,NA,NA
+223,NA,NA,"rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",NA,NA,NA,NA,NA,NA
+224,"2012","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",0,"Mechanical","Manual","dig","WC_2012","bird_MS_pt"
+224,"2016","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",186,"Chemical","pre-emergent","broadcast","WC_2016","bird_MS_pt"
+224,"2019","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",76,"Chemical","post-emergent","spot","WC_2019","bird_MS_pt"
+225,"2010","Revegetation","rangeland","grassland","former cultivated","irrigated agriculture restoration",0,"Seeding",NA,NA,"RV_2011","bird_MS_pt"
+225,"2010","Revegetation","rangeland","grassland","former cultivated","irrigated agriculture restoration",0,"Seeding",NA,NA,"RV_2011","bird_MS_pt"
+225,"2012","Revegetation","rangeland","grassland","former cultivated","irrigated agriculture restoration",20,"Seeding","Drill","continuous","RV_2012","bird_MS_pt"
+225,"2013","Revegetation","rangeland","grassland","former cultivated","irrigated agriculture restoration",27,"Seeding","Drill","continuous","RV_2013","bird_MS_pt"
+225,"2016","Vegetation Management","rangeland","grassland","former cultivated","irrigated agriculture restoration",1,"Other","forage production","Rotary Mower","VM_2016","bird_MS_pt"
+225,"2012","Weed Control","rangeland","grassland","former cultivated","irrigated agriculture restoration",0,"Chemical","pre-emergent","broadcast","WC_2012","bird_MS_pt"
+225,"2012","Weed Control","rangeland","grassland","former cultivated","irrigated agriculture restoration",0,"Mechanical","Manual","dig","WC_2012","bird_MS_pt"
+226,"2010","Revegetation","rangeland","grassland","former cultivated","irrigated agriculture restoration",0,"Seeding",NA,NA,"RV_2011","bird_MS_pt"
+226,"2011","Revegetation","rangeland","grassland","former cultivated","irrigated agriculture restoration",0,"Live Plant","Container","Mix","RV_2011","bird_MS_pt"
+226,"2010","Revegetation","rangeland","grassland","former cultivated","irrigated agriculture restoration",0,"Seeding",NA,NA,"RV_2011","bird_MS_pt"
+226,"2012","Revegetation","rangeland","grassland","former cultivated","irrigated agriculture restoration",22,"Seeding","Drill","continuous","RV_2012","bird_MS_pt"
+226,"2013","Revegetation","rangeland","grassland","former cultivated","irrigated agriculture restoration",27,"Seeding","Drill","continuous","RV_2013","bird_MS_pt"
+226,"2016","Vegetation Management","rangeland","grassland","former cultivated","irrigated agriculture restoration",1,"Other","forage production","Rotary Mower","VM_2016","bird_MS_pt"
+226,"2011","Weed Control","rangeland","grassland","former cultivated","irrigated agriculture restoration",0,"Chemical","post-emergent","broadcast","WC_2011","bird_MS_pt"
+226,"2012","Weed Control","rangeland","grassland","former cultivated","irrigated agriculture restoration",0,"Chemical","pre-emergent","broadcast","WC_2012","bird_MS_pt"
+226,"2016","Weed Control","rangeland","grassland","former cultivated","irrigated agriculture restoration",189,"Chemical","pre-emergent","broadcast","WC_2016","bird_MS_pt"
+227,"2015","Revegetation","rangeland","grassland","former cultivated","forage grass restoration",61,"Seeding","Drill","continuous","RV_2015","bird_MS_pt"
+227,"2018","Revegetation","rangeland","grassland","former cultivated","forage grass restoration",255,"Seeding","Drill","continuous","RV_2018","bird_MS_pt"
+227,"2013","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",45,"Cultural","Burn","prep","WC_2013","bird_MS_pt"
+227,"2018","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",95,"Chemical","post-emergent","broadcast","WC_2018","bird_MS_pt"
+227,"2018","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",111,"Chemical","pre-emergent","broadcast","WC_2018","bird_MS_pt"
+227,"2022","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",0,"Chemical","pre-emergent","broadcast","WC_2022","bird_MS_pt"
+228,"2015","Revegetation","rangeland","grassland","former cultivated","forage grass restoration",61,"Seeding","Drill","continuous","RV_2015","bird_MS_pt"
+228,"2018","Revegetation","rangeland","grassland","former cultivated","forage grass restoration",255,"Seeding","Drill","continuous","RV_2018","bird_MS_pt"
+228,"2011","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",0,"Chemical","pre-emergent","broadcast","WC_2011","bird_MS_pt"
+228,"2013","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",45,"Cultural","Burn","prep","WC_2013","bird_MS_pt"
+228,"2018","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",95,"Chemical","post-emergent","broadcast","WC_2018","bird_MS_pt"
+228,"2018","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",111,"Chemical","pre-emergent","broadcast","WC_2018","bird_MS_pt"
+228,"2022","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",0,"Chemical","pre-emergent","broadcast","WC_2022","bird_MS_pt"
+229,"2015","Revegetation","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",76,"Seeding","Drill","continuous","RV_2015",NA
+229,"2011","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",0,"Chemical","pre-emergent","broadcast","WC_2011",NA
+229,"2017","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",171,"Chemical","pre-emergent","broadcast","WC_2017",NA
+229,"2018","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",111,"Chemical","pre-emergent","broadcast","WC_2018",NA
+230,NA,NA,"rangeland","shrubland","bitterbrush","bitterbrush",NA,NA,NA,NA,NA,NA
+231,NA,NA,"rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",NA,NA,NA,NA,NA,NA
+232,NA,NA,"rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",NA,NA,NA,NA,NA,NA
+233,"2017","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",172,"Chemical","pre-emergent","broadcast","WC_2017",NA
+233,"2018","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",131,"Chemical","pre-emergent","broadcast","WC_2018",NA
+234,NA,NA,"rangeland","shrubland","bitterbrush","bitterbrush",NA,NA,NA,NA,NA,NA
+235,NA,NA,"forest","upland","wooded draw","wooded draw",NA,NA,NA,NA,NA,NA
+236,NA,NA,"rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",NA,NA,NA,NA,NA,NA
+237,NA,NA,"rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",NA,NA,NA,NA,NA,NA
+238,NA,NA,"rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",NA,NA,NA,NA,NA,NA
+239,NA,NA,"forest","riparian","riparian woodland","riparian woodland",NA,NA,NA,NA,NA,"bird_MS_pt"
+240,"2010","Revegetation","rangeland","grassland","former cultivated","irrigated agriculture restoration",0,"Seeding",NA,NA,"RV_2011","bird_MS_pt"
+240,"2021","Revegetation","rangeland","grassland","former cultivated","irrigated agriculture restoration",314,"Seeding","Drill","islands","RV_2021","bird_MS_pt"
+240,"2016","Vegetation Management","rangeland","grassland","former cultivated","irrigated agriculture restoration",1,"Other","forage production","Rotary Mower","VM_2016","bird_MS_pt"
+240,"2020","Vegetation Management","rangeland","grassland","former cultivated","irrigated agriculture restoration",17,"Other","Forage production","Rotary mower","VM_2020","bird_MS_pt"
+240,"2011","Weed Control","rangeland","grassland","former cultivated","irrigated agriculture restoration",0,"Chemical","post-emergent","broadcast","WC_2011","bird_MS_pt"
+240,"2012","Weed Control","rangeland","grassland","former cultivated","irrigated agriculture restoration",0,"Chemical","pre-emergent","broadcast","WC_2012","bird_MS_pt"
+240,"2012","Weed Control","rangeland","grassland","former cultivated","irrigated agriculture restoration",0,"Chemical","post-emergent","broadcast","WC_2012","bird_MS_pt"
+240,"2012","Weed Control","rangeland","grassland","former cultivated","irrigated agriculture restoration",0,"Mechanical","Manual","dig","WC_2012","bird_MS_pt"
+241,"2010","Revegetation","rangeland","grassland","former cultivated","irrigated agriculture restoration",0,"Seeding",NA,NA,"RV_2011","bird_MS_pt"
+241,"2010","Revegetation","rangeland","grassland","former cultivated","irrigated agriculture restoration",0,"Seeding",NA,NA,"RV_2011","bird_MS_pt"
+241,"2012","Revegetation","rangeland","grassland","former cultivated","irrigated agriculture restoration",22,"Seeding","Drill","continuous","RV_2012","bird_MS_pt"
+241,"2013","Revegetation","rangeland","grassland","former cultivated","irrigated agriculture restoration",27,"Seeding","Drill","continuous","RV_2013","bird_MS_pt"
+241,"2016","Vegetation Management","rangeland","grassland","former cultivated","irrigated agriculture restoration",1,"Other","forage production","Rotary Mower","VM_2016","bird_MS_pt"
+241,"2012","Weed Control","rangeland","grassland","former cultivated","irrigated agriculture restoration",0,"Chemical","pre-emergent","broadcast","WC_2012","bird_MS_pt"
+241,"2012","Weed Control","rangeland","grassland","former cultivated","irrigated agriculture restoration",0,"Mechanical","Manual","dig","WC_2012","bird_MS_pt"
+242,"2011","Revegetation","rangeland","grassland","former cultivated","irrigated agriculture restoration",0,"Live Plant","Container","Mix","RV_2011","bird_MS_pt"
+242,"2016","Vegetation Management","rangeland","grassland","former cultivated","irrigated agriculture restoration",1,"Other","forage production","Rotary Mower","VM_2016","bird_MS_pt"
+242,"2011","Weed Control","rangeland","grassland","former cultivated","irrigated agriculture restoration",0,"Chemical","post-emergent","broadcast","WC_2011","bird_MS_pt"
+242,"2012","Weed Control","rangeland","grassland","former cultivated","irrigated agriculture restoration",0,"Chemical","pre-emergent","broadcast","WC_2012","bird_MS_pt"
+242,"2016","Weed Control","rangeland","grassland","former cultivated","irrigated agriculture restoration",189,"Chemical","pre-emergent","broadcast","WC_2016","bird_MS_pt"
+243,"2010","Revegetation","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",0,"Seeding",NA,NA,"RV_2011","bird_MS_pt"
+243,"2011","Revegetation","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",0,"Live Plant","Container","Mix","RV_2011","bird_MS_pt"
+243,"2011","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",0,"Chemical","pre-emergent","broadcast","WC_2011","bird_MS_pt"
+243,"2012","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",0,"Chemical",NA,"spot","WC_2012","bird_MS_pt"
+243,"2017","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",170,"Chemical","pre-emergent","broadcast","WC_2017","bird_MS_pt"
+243,"2018","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",112,"Chemical","pre-emergent","broadcast","WC_2018","bird_MS_pt"
+244,"2014","Revegetation","rangeland","grassland","former cultivated","forage grass restoration",48,"Seeding","Drill","continuous","RV_2014","bird_MS_pt"
+244,"2015","Revegetation","rangeland","grassland","former cultivated","forage grass restoration",60,"Seeding","Drill","continuous","RV_2015","bird_MS_pt"
+244,"2013","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",45,"Cultural","Burn","prep","WC_2013","bird_MS_pt"
+244,"2016","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",199,"Chemical","pre-emergent","broadcast","WC_2016","bird_MS_pt"
+244,"2017","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",168,"Chemical","pre-emergent","broadcast","WC_2017","bird_MS_pt"
+245,"2012","Revegetation","rangeland","grassland","former cultivated","forage grass restoration",0,"Seeding","Drill",NA,"RV_2012",NA
+245,"2014","Revegetation","rangeland","grassland","former cultivated","forage grass restoration",48,"Seeding","Drill","continuous","RV_2014",NA
+245,"2015","Revegetation","rangeland","grassland","former cultivated","forage grass restoration",60,"Seeding","Drill","continuous","RV_2015",NA
+245,"2013","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",45,"Cultural","Burn","prep","WC_2013",NA
+245,"2016","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",199,"Chemical","pre-emergent","broadcast","WC_2016",NA
+246,"2017","Revegetation","rangeland","grassland","former cultivated","forage grass diversification",83,"Seeding","Drill","continuous","RV_2017",NA
+246,"2013","Weed Control","rangeland","grassland","former cultivated","forage grass diversification",45,"Cultural","Burn","prep","WC_2013",NA
+246,"2018","Weed Control","rangeland","grassland","former cultivated","forage grass diversification",112,"Chemical","pre-emergent","broadcast","WC_2018",NA
+247,"2011","Weed Control","rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",0,"Chemical","pre-emergent","broadcast","WC_2011",NA
+247,"2017","Weed Control","rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",171,"Chemical","pre-emergent","broadcast","WC_2017",NA
+247,"2018","Weed Control","rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",130,"Chemical","pre-emergent","broadcast","WC_2018",NA
+248,"2011","Weed Control","rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",0,"Chemical","pre-emergent","broadcast","WC_2011",NA
+248,"2017","Weed Control","rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",171,"Chemical","pre-emergent","broadcast","WC_2017",NA
+248,"2018","Weed Control","rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",130,"Chemical","pre-emergent","broadcast","WC_2018",NA
+249,"2011","Weed Control","rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",0,"Chemical","pre-emergent","broadcast","WC_2011",NA
+250,NA,NA,"rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",NA,NA,NA,NA,NA,NA
+251,"2015","Revegetation","forest","upland","wooded draw","wooded draw",82,"Live Plant","Transplant","Mix","RV_2015",NA
+252,NA,NA,"rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",NA,NA,NA,NA,NA,NA
+253,NA,NA,"rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",NA,NA,NA,NA,NA,NA
+254,NA,NA,"rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",NA,NA,NA,NA,NA,NA
+255,NA,NA,"rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",NA,NA,NA,NA,NA,NA
+256,"2010","Revegetation","rangeland","grassland","former cultivated","irrigated agriculture restoration",0,"Seeding",NA,NA,"RV_2011","bird_MS_pt"
+256,"2013","Revegetation","rangeland","grassland","former cultivated","irrigated agriculture restoration",27,"Seeding","Drill","continuous","RV_2013","bird_MS_pt"
+256,"2021","Revegetation","rangeland","grassland","former cultivated","irrigated agriculture restoration",314,"Seeding","Drill","islands","RV_2021","bird_MS_pt"
+256,"2016","Vegetation Management","rangeland","grassland","former cultivated","irrigated agriculture restoration",1,"Other","forage production","Rotary Mower","VM_2016","bird_MS_pt"
+256,"2012","Weed Control","rangeland","grassland","former cultivated","irrigated agriculture restoration",0,"Chemical","pre-emergent","broadcast","WC_2012","bird_MS_pt"
+256,"2012","Weed Control","rangeland","grassland","former cultivated","irrigated agriculture restoration",0,"Chemical","post-emergent","broadcast","WC_2012","bird_MS_pt"
+256,"2012","Weed Control","rangeland","grassland","former cultivated","irrigated agriculture restoration",0,"Mechanical","Manual","dig","WC_2012","bird_MS_pt"
+256,"2016","Weed Control","rangeland","grassland","former cultivated","irrigated agriculture restoration",189,"Chemical","pre-emergent","broadcast","WC_2016","bird_MS_pt"
+257,"2010","Revegetation","rangeland","grassland","former cultivated","irrigated agriculture restoration",0,"Seeding",NA,NA,"RV_2011","bird_MS_pt"
+257,"2013","Revegetation","rangeland","grassland","former cultivated","irrigated agriculture restoration",31,"Seeding","Drill","continuous","RV_2013","bird_MS_pt"
+257,"2018","Weed Control","rangeland","grassland","former cultivated","irrigated agriculture restoration",0,"Cultural","Burn","prep","WC_2018","bird_MS_pt"
+258,"2013","Revegetation","rangeland","grassland","former cultivated","irrigated agriculture restoration",30,"Seeding","Drill","continuous","RV_2013","bird_MS_pt"
+258,"2021","Revegetation","rangeland","grassland","former cultivated","irrigated agriculture restoration",309,"Seeding","Drill","continuous","RV_2021","bird_MS_pt"
+258,"2016","Weed Control","rangeland","grassland","former cultivated","irrigated agriculture restoration",200,"Chemical","pre-emergent","broadcast","WC_2016","bird_MS_pt"
+258,"2018","Weed Control","rangeland","grassland","former cultivated","irrigated agriculture restoration",105,"Chemical","post-emergent","broadcast","WC_2018","bird_MS_pt"
+258,"2020","Weed Control","rangeland","grassland","former cultivated","irrigated agriculture restoration",44,"Chemical","post-emergent","broadcast","WC_2020","bird_MS_pt"
+258,"2021","Weed Control","rangeland","grassland","former cultivated","irrigated agriculture restoration",3,"Chemical","post-emergent","broadcast","WC_2021","bird_MS_pt"
+258,"2021","Weed Control","rangeland","grassland","former cultivated","irrigated agriculture restoration",20,"Chemical","post-emergent","spot","WC_2021","bird_MS_pt"
+258,"2022","Weed Control","rangeland","grassland","former cultivated","irrigated agriculture restoration",NA,"Chemical","post-emergent","broadcast","WC_2022","bird_MS_pt"
+259,"2014","Revegetation","rangeland","grassland","former cultivated","forage grass restoration",48,"Seeding","Drill","continuous","RV_2014","bird_MS_pt"
+259,"2015","Revegetation","rangeland","grassland","former cultivated","forage grass restoration",60,"Seeding","Drill","continuous","RV_2015","bird_MS_pt"
+259,"2013","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",45,"Cultural","Burn","prep","WC_2013","bird_MS_pt"
+259,"2016","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",199,"Chemical","pre-emergent","broadcast","WC_2016","bird_MS_pt"
+260,"2014","Revegetation","rangeland","grassland","former cultivated","forage grass restoration",48,"Seeding","Drill","continuous","RV_2014","bird_MS_pt"
+260,"2015","Revegetation","rangeland","grassland","former cultivated","forage grass restoration",60,"Seeding","Drill","continuous","RV_2015","bird_MS_pt"
+260,"2013","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",45,"Cultural","Burn","prep","WC_2013","bird_MS_pt"
+260,"2016","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",199,"Chemical","pre-emergent","broadcast","WC_2016","bird_MS_pt"
+260,"2017","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",168,"Chemical","pre-emergent","broadcast","WC_2017","bird_MS_pt"
+261,"2017","Revegetation","rangeland","grassland","former cultivated","forage grass diversification",83,"Seeding","Drill","continuous","RV_2017",NA
+261,"2013","Weed Control","rangeland","grassland","former cultivated","forage grass diversification",45,"Cultural","Burn","prep","WC_2013",NA
+261,"2018","Weed Control","rangeland","grassland","former cultivated","forage grass diversification",112,"Chemical","pre-emergent","broadcast","WC_2018",NA
+262,"2017","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",171,"Chemical","pre-emergent","broadcast","WC_2017",NA
+263,"2017","Weed Control","rangeland","shrubland","wooded draw non-forest","wooded draw non-forest",171,"Chemical","pre-emergent","broadcast","WC_2017",NA
+263,"2018","Weed Control","rangeland","shrubland","wooded draw non-forest","wooded draw non-forest",130,"Chemical","pre-emergent","broadcast","WC_2018",NA
+264,"2017","Weed Control","rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",171,"Chemical","pre-emergent","broadcast","WC_2017",NA
+264,"2018","Weed Control","rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",115,"Chemical","pre-emergent","broadcast","WC_2018",NA
+265,"2011","Weed Control","rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",0,"Chemical","pre-emergent","broadcast","WC_2011",NA
+265,"2018","Weed Control","rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",130,"Chemical","pre-emergent","broadcast","WC_2018",NA
+266,NA,NA,"rangeland","shrubland","wooded draw non-forest","wooded draw non-forest",NA,NA,NA,NA,NA,NA
+267,NA,NA,"rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",NA,NA,NA,NA,NA,NA
+268,"2018","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",131,"Chemical","pre-emergent","broadcast","WC_2018",NA
+269,"2017","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",172,"Chemical","pre-emergent","broadcast","WC_2017",NA
+269,"2018","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",131,"Chemical","pre-emergent","broadcast","WC_2018",NA
+270,"2017","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",172,"Chemical","pre-emergent","broadcast","WC_2017",NA
+271,NA,NA,"rangeland","shrubland","other shrub deciduous","other shrub deciduous",NA,NA,NA,NA,NA,NA
+272,"2017","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",171,"Chemical","pre-emergent","broadcast","WC_2017","bird_MS_pt"
+272,"2018","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",130,"Chemical","pre-emergent","broadcast","WC_2018","bird_MS_pt"
+273,"2015","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",0,"Chemical",NA,"broadcast","WC_2015","bird_MS_pt"
+273,"2017","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",171,"Chemical","pre-emergent","broadcast","WC_2017","bird_MS_pt"
+274,"2017","Revegetation","rangeland","grassland","former cultivated","forage grass diversification",115,"Seeding","Drill","continuous","RV_2017",NA
+274,"2015","Weed Control","rangeland","grassland","former cultivated","forage grass diversification",0,"Chemical",NA,"broadcast","WC_2015",NA
+274,"2018","Weed Control","rangeland","grassland","former cultivated","forage grass diversification",115,"Chemical","pre-emergent","broadcast","WC_2018",NA
+275,"2018","Revegetation","rangeland","grassland","former cultivated","forage grass diversification",386,"Seeding","Drill","islands","RV_2018",NA
+275,"2015","Weed Control","rangeland","grassland","former cultivated","forage grass diversification",0,"Chemical",NA,"broadcast","WC_2015",NA
+275,"2018","Weed Control","rangeland","grassland","former cultivated","forage grass diversification",100,"Chemical","post-emergent","broadcast","WC_2018",NA
+275,"2018","Weed Control","rangeland","grassland","former cultivated","forage grass diversification",115,"Chemical","pre-emergent","broadcast","WC_2018",NA
+276,"2015","Weed Control","rangeland","grassland","former cultivated","forage grass diversification",0,"Chemical",NA,NA,"WC_2015",NA
+276,"2018","Weed Control","rangeland","grassland","former cultivated","forage grass diversification",115,"Chemical","pre-emergent","broadcast","WC_2018",NA
+277,NA,NA,"rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",NA,NA,NA,NA,NA,NA
+278,"2017","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",172,"Chemical","pre-emergent","broadcast","WC_2017",NA
+279,"2017","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",172,"Chemical","pre-emergent","broadcast","WC_2017",NA
+279,"2018","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",131,"Chemical","pre-emergent","broadcast","WC_2018",NA
+280,"2017","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",172,"Chemical","pre-emergent","broadcast","WC_2017",NA
+280,"2018","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",131,"Chemical","pre-emergent","broadcast","WC_2018",NA
+281,"2017","Weed Control","rangeland","shrubland","bitterbrush","bitterbrush",172,"Chemical","pre-emergent","broadcast","WC_2017",NA
+282,NA,NA,"forest","upland","wooded draw","wooded draw",NA,NA,NA,NA,NA,NA
+283,NA,NA,"rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",NA,NA,NA,NA,NA,NA
+284,NA,NA,"rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",NA,NA,NA,NA,NA,NA
+285,NA,NA,"rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",NA,NA,NA,NA,NA,NA
+286,NA,NA,"rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",NA,NA,NA,NA,NA,NA
+287,"2010","Revegetation","rangeland","shrubland","other shrub deciduous","other shrub deciduous",0,"Seeding",NA,NA,"RV_2011","bird_MS_pt"
+287,"2013","Revegetation","rangeland","shrubland","other shrub deciduous","other shrub deciduous",32,"Seeding","Drill","continuous","RV_2013","bird_MS_pt"
+287,"2017","Revegetation","rangeland","shrubland","other shrub deciduous","other shrub deciduous",247,"Seeding","Broadcast","bare seed","RV_2017","bird_MS_pt"
+287,"2017","Revegetation","rangeland","shrubland","other shrub deciduous","other shrub deciduous",370,"Live Plant","Container","Mix","RV_2017","bird_MS_pt"
+287,"2012","Weed Control","rangeland","shrubland","other shrub deciduous","other shrub deciduous",0,"Mechanical","Manual","dig","WC_2012","bird_MS_pt"
+288,"2012","Revegetation","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",0,"Seeding","Drill",NA,"RV_2012","bird_MS_pt"
+288,"2011","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",0,"Chemical","pre-emergent","broadcast","WC_2011","bird_MS_pt"
+288,"2011","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",34,"Cultural","Burn","Prep","WC_2011","bird_MS_pt"
+288,"2012","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",0,"Chemical",NA,"spot","WC_2012","bird_MS_pt"
+288,"2017","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",145,"Chemical","post-emergent","broadcast","WC_2017","bird_MS_pt"
+288,"2018","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",116,"Chemical","pre-emergent","broadcast","WC_2018","bird_MS_pt"
+289,"2011","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",0,"Chemical","post-emergent","broadcast","WC_2011","bird_MS_pt"
+289,"2012","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",0,"Chemical",NA,"spot","WC_2012","bird_MS_pt"
+290,"2011","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",0,"Chemical","post-emergent","broadcast","WC_2011","bird_MS_pt"
+291,"2018","Revegetation","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",380,"Seeding","Broadcast","bare seed","RV_2018",NA
+291,"2015","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",0,"Chemical",NA,NA,"WC_2015",NA
+292,"2017","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",172,"Chemical","pre-emergent","broadcast","WC_2017",NA
+293,"2017","Weed Control","rangeland","shrubland","bitterbrush","bitterbrush",172,"Chemical","pre-emergent","broadcast","WC_2017",NA
+293,"2018","Weed Control","rangeland","shrubland","bitterbrush","bitterbrush",131,"Chemical","pre-emergent","broadcast","WC_2018",NA
+294,"2017","Weed Control","rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",172,"Chemical","pre-emergent","broadcast","WC_2017",NA
+295,NA,NA,"rangeland","shrubland","bitterbrush","bitterbrush",NA,NA,NA,NA,NA,NA
+296,NA,NA,"rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",NA,NA,NA,NA,NA,NA
+297,NA,NA,"rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",NA,NA,NA,NA,NA,NA
+298,NA,NA,"rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",NA,NA,NA,NA,NA,NA
+299,NA,NA,"rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",NA,NA,NA,NA,NA,NA
+300,NA,NA,"forest","upland","wooded draw","wooded draw",NA,NA,NA,NA,NA,NA
+301,"2011","Revegetation","rangeland","grassland","former cultivated","irrigated agriculture restoration",3,"Seeding","Drill","continuous","RV_2011","bird_MS_pt"
+301,"2012","Revegetation","rangeland","grassland","former cultivated","irrigated agriculture restoration",0,"Seeding","Drill",NA,"RV_2012","bird_MS_pt"
+301,"2013","Revegetation","rangeland","grassland","former cultivated","irrigated agriculture restoration",28,"Seeding","Drill","continuous","RV_2013","bird_MS_pt"
+301,"2015","Revegetation","rangeland","grassland","former cultivated","irrigated agriculture restoration",59,"Seeding","Drill","continuous","RV_2015","bird_MS_pt"
+301,"2016","Weed Control","rangeland","grassland","former cultivated","irrigated agriculture restoration",8,"Mechanical","Machine","Rotary Mower","VM_2016","bird_MS_pt"
+301,"2012","Weed Control","rangeland","grassland","former cultivated","irrigated agriculture restoration",0,"Chemical",NA,"spot","WC_2012","bird_MS_pt"
+301,"2017","Weed Control","rangeland","grassland","former cultivated","irrigated agriculture restoration",144,"Chemical","post-emergent","broadcast","WC_2017","bird_MS_pt"
+301,"2020","Weed Control","rangeland","grassland","former cultivated","irrigated agriculture restoration",46,"Chemical","pre-emergent","broadcast","WC_2020","bird_MS_pt"
+302,"2013","Revegetation","rangeland","grassland","former cultivated","forage grass restoration",35,"Seeding","Broadcast","bare seed","RV_2013","bird_MS_pt"
+302,"2014","Revegetation","rangeland","grassland","former cultivated","forage grass restoration",49,"Seeding","Drill","continuous","RV_2014","bird_MS_pt"
+302,"2015","Revegetation","rangeland","grassland","former cultivated","forage grass restoration",62,"Seeding","Drill","continuous","RV_2015","bird_MS_pt"
+302,"2012","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",0,"Chemical",NA,"spot","WC_2012","bird_MS_pt"
+302,"2017","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",164,"Chemical","pre-emergent","broadcast","WC_2017","bird_MS_pt"
+302,"2018","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",113,"Chemical","pre-emergent","broadcast","WC_2018","bird_MS_pt"
+303,"2012","Revegetation","rangeland","grassland","former cultivated","forage grass restoration",0,"Seeding","Drill",NA,"RV_2012","bird_MS_pt"
+303,"2013","Revegetation","rangeland","grassland","former cultivated","forage grass restoration",35,"Seeding","Broadcast","bare seed","RV_2013","bird_MS_pt"
+303,"2014","Revegetation","rangeland","grassland","former cultivated","forage grass restoration",49,"Seeding","Drill","continuous","RV_2014","bird_MS_pt"
+303,"2015","Revegetation","rangeland","grassland","former cultivated","forage grass restoration",62,"Seeding","Drill","continuous","RV_2015","bird_MS_pt"
+303,"2017","Revegetation","rangeland","grassland","former cultivated","forage grass restoration",84,"Seeding","Drill","continuous","RV_2017","bird_MS_pt"
+303,"2016","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",11,"Mechanical","Machine","Rotary Mower","VM_2016","bird_MS_pt"
+303,"2012","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",0,"Chemical",NA,"spot","WC_2012","bird_MS_pt"
+303,"2017","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",144,"Chemical","post-emergent","broadcast","WC_2017","bird_MS_pt"
+303,"2017","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",164,"Chemical","pre-emergent","broadcast","WC_2017","bird_MS_pt"
+303,"2018","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",113,"Chemical","pre-emergent","broadcast","WC_2018","bird_MS_pt"
+304,"2012","Revegetation","rangeland","grassland","former cultivated","forage grass diversification",0,"Seeding","Drill",NA,"RV_2012","bird_MS_pt"
+304,"2013","Revegetation","rangeland","grassland","former cultivated","forage grass diversification",35,"Seeding","Broadcast","bare seed","RV_2013","bird_MS_pt"
+304,"2014","Revegetation","rangeland","grassland","former cultivated","forage grass diversification",49,"Seeding","Drill","continuous","RV_2014","bird_MS_pt"
+304,"2018","Weed Control","rangeland","grassland","former cultivated","forage grass diversification",113,"Chemical","pre-emergent","broadcast","WC_2018","bird_MS_pt"
+305,"2018","Weed Control","rangeland","grassland","former cultivated","forage grass diversification",113,"Chemical","pre-emergent","broadcast","WC_2018",NA
+306,"2015","Revegetation","rangeland","grassland","former cultivated","forage grass diversification",70,"Seeding","Drill","continuous","RV_2015",NA
+306,"2018","Revegetation","rangeland","grassland","former cultivated","forage grass diversification",386,"Seeding","Drill","islands","RV_2018",NA
+306,"2015","Weed Control","rangeland","grassland","former cultivated","forage grass diversification",0,"Chemical",NA,"broadcast","WC_2015",NA
+306,"2018","Weed Control","rangeland","grassland","former cultivated","forage grass diversification",115,"Chemical","pre-emergent","broadcast","WC_2018",NA
+306,"2020","Weed Control","rangeland","grassland","former cultivated","forage grass diversification",54,"Chemical","pre-emergent","broadcast","WC_2020",NA
+307,"2015","Weed Control","rangeland","grassland","former cultivated","forage grass diversification",0,"Chemical",NA,NA,"WC_2015",NA
+307,"2018","Weed Control","rangeland","grassland","former cultivated","forage grass diversification",100,"Chemical","post-emergent","broadcast","WC_2018",NA
+307,"2018","Weed Control","rangeland","grassland","former cultivated","forage grass diversification",115,"Chemical","pre-emergent","broadcast","WC_2018",NA
+307,"2020","Weed Control","rangeland","grassland","former cultivated","forage grass diversification",54,"Chemical","pre-emergent","broadcast","WC_2020",NA
+308,"2018","Revegetation","rangeland","grassland","former cultivated","forage grass diversification",380,"Seeding","Broadcast","bare seed","RV_2018",NA
+308,"2018","Weed Control","rangeland","grassland","former cultivated","forage grass diversification",115,"Chemical","pre-emergent","broadcast","WC_2018",NA
+308,"2018","Weed Control","rangeland","grassland","former cultivated","forage grass diversification",0,"Cultural","Burn","prep","WC_2018",NA
+308,"2020","Weed Control","rangeland","grassland","former cultivated","forage grass diversification",55,"Chemical","pre-emergent","broadcast","WC_2020",NA
+309,NA,NA,"rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",NA,NA,NA,NA,NA,NA
+310,NA,NA,"rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",NA,NA,NA,NA,NA,NA
+311,NA,NA,"rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",NA,NA,NA,NA,NA,NA
+312,NA,NA,"rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",NA,NA,NA,NA,NA,NA
+313,"2015","Revegetation","rangeland","grassland","former cultivated","irrigated agriculture restoration",59,"Seeding","Drill","continuous","RV_2015","bird_MS_pt"
+313,"2020","Vegetation Management","rangeland","grassland","former cultivated","irrigated agriculture restoration",87,"Barrier","Buck-N-Rail","Buck-N-Rail","VM_2020","bird_MS_pt"
+313,"2011","Weed Control","rangeland","grassland","former cultivated","irrigated agriculture restoration",0,"Chemical","post-emergent","broadcast","WC_2011","bird_MS_pt"
+313,"2011","Weed Control","rangeland","grassland","former cultivated","irrigated agriculture restoration",36,"Cultural","Burn","Prep","WC_2011","bird_MS_pt"
+313,"2012","Weed Control","rangeland","grassland","former cultivated","irrigated agriculture restoration",0,"Chemical",NA,"spot","WC_2012","bird_MS_pt"
+313,"2017","Weed Control","rangeland","grassland","former cultivated","irrigated agriculture restoration",144,"Chemical","post-emergent","broadcast","WC_2017","bird_MS_pt"
+313,"2018","Weed Control","rangeland","grassland","former cultivated","irrigated agriculture restoration",113,"Chemical","pre-emergent","broadcast","WC_2018","bird_MS_pt"
+314,"2010","Revegetation","rangeland","grassland","former cultivated","irrigated agriculture restoration",0,"Seeding",NA,NA,"RV_2011","bird_MS_pt"
+314,"2011","Revegetation","rangeland","grassland","former cultivated","irrigated agriculture restoration",0,"Seeding",NA,NA,"RV_2011","bird_MS_pt"
+314,"2013","Revegetation","rangeland","grassland","former cultivated","irrigated agriculture restoration",25,"Seeding","Drill","continuous","RV_2013","bird_MS_pt"
+314,"2015","Revegetation","rangeland","grassland","former cultivated","irrigated agriculture restoration",57,"Seeding","Drill","continuous","RV_2015","bird_MS_pt"
+314,"2020","Vegetation Management","rangeland","grassland","former cultivated","irrigated agriculture restoration",12,"Other","Forage production","Rotary mower","VM_2020","bird_MS_pt"
+314,"2012","Weed Control","rangeland","grassland","former cultivated","irrigated agriculture restoration",0,"Mechanical","Manual","dig","WC_2012","bird_MS_pt"
+314,"2017","Weed Control","rangeland","grassland","former cultivated","irrigated agriculture restoration",153,"Chemical","post-emergent","broadcast","WC_2017","bird_MS_pt"
+314,"2018","Weed Control","rangeland","grassland","former cultivated","irrigated agriculture restoration",104,"Chemical","post-emergent","broadcast","WC_2018","bird_MS_pt"
+315,"2010","Revegetation","rangeland","grassland","former cultivated","irrigated agriculture restoration",0,"Seeding",NA,NA,"RV_2011","bird_MS_pt"
+315,"2011","Revegetation","rangeland","grassland","former cultivated","irrigated agriculture restoration",0,"Seeding",NA,NA,"RV_2011","bird_MS_pt"
+315,"2013","Revegetation","rangeland","grassland","former cultivated","irrigated agriculture restoration",25,"Seeding","Drill","continuous","RV_2013","bird_MS_pt"
+315,"2012","Weed Control","rangeland","grassland","former cultivated","irrigated agriculture restoration",0,"Mechanical","Manual","dig","WC_2012","bird_MS_pt"
+315,"2012","Weed Control","rangeland","grassland","former cultivated","irrigated agriculture restoration",0,"Chemical",NA,"spot","WC_2012","bird_MS_pt"
+315,"2018","Weed Control","rangeland","grassland","former cultivated","irrigated agriculture restoration",113,"Chemical","pre-emergent","broadcast","WC_2018","bird_MS_pt"
+316,"2012","Revegetation","rangeland","grassland","former cultivated","forage grass restoration",0,"Seeding","Drill",NA,"RV_2012","bird_MS_pt"
+316,"2013","Revegetation","rangeland","grassland","former cultivated","forage grass restoration",35,"Seeding","Broadcast","bare seed","RV_2013","bird_MS_pt"
+316,"2014","Revegetation","rangeland","grassland","former cultivated","forage grass restoration",49,"Seeding","Drill","continuous","RV_2014","bird_MS_pt"
+316,"2014","Vegetation Management","rangeland","grassland","former cultivated","forage grass restoration",314,"Barrier","Permanent","Seed Farm","VM_2014","bird_MS_pt"
+316,"2016","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",11,"Mechanical","Machine","Rotary Mower","VM_2016","bird_MS_pt"
+316,"2018","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",113,"Chemical","pre-emergent","broadcast","WC_2018","bird_MS_pt"
+316,"2021","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",4,"Chemical","post-emergent","broadcast","WC_2021","bird_MS_pt"
+317,"2017","Revegetation","rangeland","grassland","former cultivated","forage grass diversification",114,"Seeding","Drill","continuous","RV_2017","bird_MS_pt"
+317,"2019","Revegetation","rangeland","grassland","former cultivated","forage grass diversification",285,"Seeding","Drill","continuous","RV_2019","bird_MS_pt"
+317,"2018","Weed Control","rangeland","grassland","former cultivated","forage grass diversification",113,"Chemical","pre-emergent","broadcast","WC_2018","bird_MS_pt"
+317,"2018","Weed Control","rangeland","grassland","former cultivated","forage grass diversification",49,"Cultural","Burn","prep","WC_2018","bird_MS_pt"
+317,"2020","Weed Control","rangeland","grassland","former cultivated","forage grass diversification",53,"Chemical","pre-emergent","broadcast","WC_2020","bird_MS_pt"
+318,"2017","Revegetation","rangeland","grassland","former cultivated","forage grass diversification",114,"Seeding","Drill","continuous","RV_2017","bird_MS_pt"
+318,"2018","Weed Control","rangeland","grassland","former cultivated","forage grass diversification",113,"Chemical","pre-emergent","broadcast","WC_2018","bird_MS_pt"
+319,"2018","Revegetation","rangeland","grassland","former cultivated","forage grass diversification",250,"Seeding","Drill","islands","RV_2018","bird_MS_pt"
+319,"2015","Weed Control","rangeland","grassland","former cultivated","forage grass diversification",0,"Chemical",NA,NA,"WC_2015","bird_MS_pt"
+320,"2018","Revegetation","rangeland","grassland","former cultivated","forage grass diversification",250,"Seeding","Drill","islands","RV_2018",NA
+321,NA,NA,"rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",NA,NA,NA,NA,NA,NA
+322,"2017","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",172,"Chemical","pre-emergent","broadcast","WC_2017",NA
+323,NA,NA,"rangeland","shrubland","bitterbrush","bitterbrush",NA,NA,NA,NA,NA,NA
+324,"2017","Weed Control","rangeland","shrubland","bitterbrush","bitterbrush",172,"Chemical","pre-emergent","broadcast","WC_2017",NA
+325,NA,NA,"rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",NA,NA,NA,NA,NA,NA
+326,"2015","Revegetation","rangeland","grassland","former cultivated","irrigated agriculture restoration",57,"Seeding","Drill","continuous","RV_2015","bird_MS_pt"
+326,"2017","Weed Control","rangeland","grassland","former cultivated","irrigated agriculture restoration",153,"Chemical","post-emergent","broadcast","WC_2017","bird_MS_pt"
+326,"2018","Weed Control","rangeland","grassland","former cultivated","irrigated agriculture restoration",104,"Chemical","post-emergent","broadcast","WC_2018","bird_MS_pt"
+327,"2010","Revegetation","rangeland","grassland","former cultivated","irrigated agriculture restoration",0,"Seeding",NA,NA,"RV_2011","bird_MS_pt"
+327,"2011","Revegetation","rangeland","grassland","former cultivated","irrigated agriculture restoration",0,"Seeding",NA,NA,"RV_2011","bird_MS_pt"
+327,"2013","Revegetation","rangeland","grassland","former cultivated","irrigated agriculture restoration",25,"Seeding","Drill","continuous","RV_2013","bird_MS_pt"
+327,"2012","Weed Control","rangeland","grassland","former cultivated","irrigated agriculture restoration",0,"Mechanical","Manual","dig","WC_2012","bird_MS_pt"
+327,"2018","Weed Control","rangeland","grassland","former cultivated","irrigated agriculture restoration",113,"Chemical","pre-emergent","broadcast","WC_2018","bird_MS_pt"
+328,"2012","Revegetation","rangeland","grassland","former cultivated","forage grass restoration",0,"Seeding","Drill",NA,"RV_2012","bird_MS_pt"
+328,"2013","Revegetation","rangeland","grassland","former cultivated","forage grass restoration",35,"Seeding","Broadcast","bare seed","RV_2013","bird_MS_pt"
+328,"2014","Revegetation","rangeland","grassland","former cultivated","forage grass restoration",49,"Seeding","Drill","continuous","RV_2014","bird_MS_pt"
+328,"2018","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",113,"Chemical","pre-emergent","broadcast","WC_2018","bird_MS_pt"
+329,"2018","Weed Control","rangeland","grassland","former cultivated","forage grass diversification",113,"Chemical","pre-emergent","broadcast","WC_2018","bird_MS_pt"
+330,"2018","Revegetation","rangeland","grassland","former cultivated","forage grass diversification",250,"Seeding","Drill","islands","RV_2018","bird_MS_pt"
+330,"2015","Weed Control","rangeland","grassland","former cultivated","forage grass diversification",0,"Chemical",NA,NA,"WC_2015","bird_MS_pt"
+331,"2015","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",0,"Chemical",NA,NA,"WC_2015","bird_MS_pt"
+331,"2018","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",113,"Chemical","pre-emergent","broadcast","WC_2018","bird_MS_pt"
+332,NA,NA,"forest","upland","wooded draw","wooded draw",NA,NA,NA,NA,NA,NA
+333,NA,NA,"forest","upland","wooded draw","wooded draw",NA,NA,NA,NA,NA,NA
+334,NA,NA,"forest","upland","wooded draw","wooded draw",NA,NA,NA,NA,NA,NA
+335,"2013","Revegetation","rangeland","grassland","former cultivated","irrigated agriculture restoration",29,"Seeding","Drill","continuous","RV_2013","bird_MS_pt"
+335,"2014","Revegetation","rangeland","grassland","former cultivated","irrigated agriculture restoration",53,"Seeding","Drill","continuous","RV_2014","bird_MS_pt"
+335,"2015","Revegetation","rangeland","grassland","former cultivated","irrigated agriculture restoration",57,"Seeding","Drill","continuous","RV_2015","bird_MS_pt"
+335,"2017","Weed Control","rangeland","grassland","former cultivated","irrigated agriculture restoration",153,"Chemical","post-emergent","broadcast","WC_2017","bird_MS_pt"
+335,"2018","Weed Control","rangeland","grassland","former cultivated","irrigated agriculture restoration",104,"Chemical","post-emergent","broadcast","WC_2018","bird_MS_pt"
+336,"2012","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",41,"Cultural","Burn","prep","WC_2012","bird_MS_pt"
+336,"2018","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",132,"Chemical","pre-emergent","broadcast","WC_2018","bird_MS_pt"
+337,NA,NA,"rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",NA,NA,NA,NA,NA,NA
+338,NA,NA,"rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",NA,NA,NA,NA,NA,NA
+339,NA,NA,"forest","upland","wooded draw","wooded draw",NA,NA,NA,NA,NA,NA
+340,"2017","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",155,"Chemical","post-emergent","spot","WC_2017","bird_MS_pt"
+340,"2018","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",109,"Chemical","post-emergent","spot","WC_2018","bird_MS_pt"
+340,"2018","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",114,"Chemical","pre-emergent","broadcast","WC_2018","bird_MS_pt"
+341,"2011","Revegetation","rangeland","grassland","former cultivated","forage grass restoration",5,"Seeding","Drill","continuous","RV_2011","bird_MS_pt"
+341,"2011","Revegetation","rangeland","grassland","former cultivated","forage grass restoration",0,"Seeding",NA,NA,"RV_2011","bird_MS_pt"
+341,"2012","Vegetation Management","rangeland","grassland","former cultivated","forage grass restoration",0,"Other","Tilling","Harrow","VM_2012","bird_MS_pt"
+341,"2011","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",0,"Chemical","post-emergent","broadcast","WC_2011","bird_MS_pt"
+341,"2017","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",136,"Chemical","post-emergent","broadcast","WC_2017","bird_MS_pt"
+341,"2017","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",178,"Chemical","post-emergent","broadcast","WC_2017","bird_MS_pt"
+341,"2018","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",106,"Chemical","post-emergent","spot","WC_2018","bird_MS_pt"
+341,"2020","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",47,"Chemical","pre-emergent","broadcast","WC_2020","bird_MS_pt"
+342,"2015","Revegetation","rangeland","grassland","former cultivated","irrigated agriculture restoration",57,"Seeding","Drill","continuous","RV_2015","bird_MS_pt"
+342,"2017","Weed Control","rangeland","grassland","former cultivated","irrigated agriculture restoration",153,"Chemical","post-emergent","broadcast","WC_2017","bird_MS_pt"
+342,"2018","Weed Control","rangeland","grassland","former cultivated","irrigated agriculture restoration",104,"Chemical","post-emergent","broadcast","WC_2018","bird_MS_pt"
+343,"2015","Revegetation","rangeland","grassland","former cultivated","irrigated agriculture restoration",58,"Seeding","Drill","continuous","RV_2015","bird_MS_pt"
+343,"2018","Revegetation","rangeland","grassland","former cultivated","irrigated agriculture restoration",385,"Seeding","Drill","continuous","RV_2018","bird_MS_pt"
+343,"2018","Weed Control","rangeland","grassland","former cultivated","irrigated agriculture restoration",104,"Chemical","post-emergent","broadcast","WC_2018","bird_MS_pt"
+343,"2018","Weed Control","rangeland","grassland","former cultivated","irrigated agriculture restoration",113,"Chemical","pre-emergent","broadcast","WC_2018","bird_MS_pt"
+344,"2012","Revegetation","rangeland","grassland","former cultivated","forage grass diversification",0,"Seeding","Drill",NA,"RV_2012","bird_MS_pt"
+344,"2013","Revegetation","rangeland","grassland","former cultivated","forage grass diversification",35,"Seeding","Broadcast","bare seed","RV_2013","bird_MS_pt"
+344,"2014","Revegetation","rangeland","grassland","former cultivated","forage grass diversification",49,"Seeding","Drill","continuous","RV_2014","bird_MS_pt"
+344,"2019","Revegetation","rangeland","grassland","former cultivated","forage grass diversification",279,"Seeding","Drill","continuous","RV_2019","bird_MS_pt"
+344,"2016","Weed Control","rangeland","grassland","former cultivated","forage grass diversification",10,"Mechanical","Machine","Rotary Mower","VM_2016","bird_MS_pt"
+344,"2012","Weed Control","rangeland","grassland","former cultivated","forage grass diversification",41,"Cultural","Burn","prep","WC_2012","bird_MS_pt"
+344,"2016","Weed Control","rangeland","grassland","former cultivated","forage grass diversification",201,"Chemical","pre-emergent","broadcast","WC_2016","bird_MS_pt"
+344,"2017","Weed Control","rangeland","grassland","former cultivated","forage grass diversification",143,"Chemical","post-emergent","broadcast","WC_2017","bird_MS_pt"
+344,"2018","Weed Control","rangeland","grassland","former cultivated","forage grass diversification",99,"Chemical","post-emergent","broadcast","WC_2018","bird_MS_pt"
+345,"2012","Revegetation","rangeland","grassland","former cultivated","forage grass diversification",0,"Seeding","Drill",NA,"RV_2012","bird_MS_pt"
+345,"2013","Revegetation","rangeland","grassland","former cultivated","forage grass diversification",35,"Seeding","Broadcast","bare seed","RV_2013","bird_MS_pt"
+345,"2014","Revegetation","rangeland","grassland","former cultivated","forage grass diversification",49,"Seeding","Drill","continuous","RV_2014","bird_MS_pt"
+345,"2019","Revegetation","rangeland","grassland","former cultivated","forage grass diversification",279,"Seeding","Drill","continuous","RV_2019","bird_MS_pt"
+345,"2016","Weed Control","rangeland","grassland","former cultivated","forage grass diversification",10,"Mechanical","Machine","Rotary Mower","VM_2016","bird_MS_pt"
+345,"2012","Weed Control","rangeland","grassland","former cultivated","forage grass diversification",41,"Cultural","Burn","prep","WC_2012","bird_MS_pt"
+345,"2016","Weed Control","rangeland","grassland","former cultivated","forage grass diversification",201,"Chemical","pre-emergent","broadcast","WC_2016","bird_MS_pt"
+345,"2017","Weed Control","rangeland","grassland","former cultivated","forage grass diversification",143,"Chemical","post-emergent","broadcast","WC_2017","bird_MS_pt"
+345,"2018","Weed Control","rangeland","grassland","former cultivated","forage grass diversification",99,"Chemical","post-emergent","broadcast","WC_2018","bird_MS_pt"
+345,"2018","Weed Control","rangeland","grassland","former cultivated","forage grass diversification",113,"Chemical","pre-emergent","broadcast","WC_2018","bird_MS_pt"
+345,"2022","Weed Control","rangeland","grassland","former cultivated","forage grass diversification",0,"Chemical","post-emergent","broadcast","WC_2022","bird_MS_pt"
+346,"2012","Revegetation","rangeland","grassland","former cultivated","forage grass diversification",0,"Seeding","Drill",NA,"RV_2012","bird_MS_pt"
+346,"2018","Revegetation","rangeland","grassland","former cultivated","forage grass diversification",256,"Seeding","Drill","continuous","RV_2018","bird_MS_pt"
+346,"2012","Weed Control","rangeland","grassland","former cultivated","forage grass diversification",41,"Cultural","Burn","prep","WC_2012","bird_MS_pt"
+346,"2018","Weed Control","rangeland","grassland","former cultivated","forage grass diversification",97,"Chemical","post-emergent","broadcast","WC_2018","bird_MS_pt"
+346,"2018","Weed Control","rangeland","grassland","former cultivated","forage grass diversification",113,"Chemical","pre-emergent","broadcast","WC_2018","bird_MS_pt"
+347,"2021","Weed Control","rangeland","shrubland","sagebrush","sagebrush",22,"Chemical","post-emergent","spot","WC_2021","bird_MS_pt"
+348,"2021","Weed Control","rangeland","shrubland","sagebrush","sagebrush",22,"Chemical","post-emergent","spot","WC_2021","bird_MS_pt"
+349,NA,NA,"forest","riparian","riparian woodland","riparian woodland",NA,NA,NA,NA,NA,"bird_MS_pt"
+350,NA,NA,"forest","riparian","riparian woodland","riparian woodland",NA,NA,NA,NA,NA,"bird_MS_pt"
+351,"2013","Revegetation","rangeland","grassland","former cultivated","forage grass restoration",36,"Seeding","Broadcast","bare seed","RV_2013","bird_MS_pt"
+351,"2014","Revegetation","rangeland","grassland","former cultivated","forage grass restoration",52,"Seeding","Drill","continuous","RV_2014","bird_MS_pt"
+351,"2011","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",0,"Chemical","post-emergent","broadcast","WC_2011","bird_MS_pt"
+351,"2013","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",46,"Cultural","Burn","prep","WC_2013","bird_MS_pt"
+351,"2018","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",98,"Chemical","post-emergent","broadcast","WC_2018","bird_MS_pt"
+352,"2011","Weed Control","rangeland","shrubland","sagebrush","sagebrush",0,"Chemical","post-emergent","broadcast","WC_2011","bird_MS_pt"
+353,"2021","Weed Control","rangeland","shrubland","sagebrush","sagebrush",22,"Chemical","post-emergent","spot","WC_2021","bird_MS_pt"
+354,NA,NA,"rangeland","shrubland","sagebrush","sagebrush",NA,NA,NA,NA,NA,"bird_MS_pt"
+355,NA,NA,"rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",NA,NA,NA,NA,NA,"bird_MS_pt"
+356,"2014","Vegetation Management","rangeland","shrubland","sagebrush","sagebrush",NA,"Sage Thinning","Chemical","tebuthiuron","VM_2014","bird_MS_pt"
+357,NA,NA,"rangeland","shrubland","sagebrush","sagebrush",NA,NA,NA,NA,NA,"bird_MS_pt"
+358,NA,NA,"forest","upland","open canopy conifer","open canopy conifer",NA,NA,NA,NA,NA,NA
+359,NA,NA,"forest","upland","mixed canopy conifer","mixed canopy conifer",NA,NA,NA,NA,NA,NA
+360,NA,NA,"forest","upland","mixed canopy conifer","mixed canopy conifer",NA,NA,NA,NA,NA,NA
+361,NA,NA,"rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",NA,NA,NA,NA,NA,NA
+362,NA,NA,"forest","upland","mixed canopy conifer","mixed canopy conifer",NA,NA,NA,NA,NA,NA
+363,NA,NA,"forest","upland","mixed canopy conifer","mixed canopy conifer",NA,NA,NA,NA,NA,NA
+364,NA,NA,"forest","upland","open canopy conifer","open canopy conifer",NA,NA,NA,NA,NA,NA
+365,NA,NA,"forest","upland","open canopy conifer","open canopy conifer",NA,NA,NA,NA,NA,NA
+366,NA,NA,"forest","upland","mixed canopy conifer","mixed canopy conifer",NA,NA,NA,NA,NA,NA
+367,NA,NA,"rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",NA,NA,NA,NA,NA,NA
+368,NA,NA,"forest","upland","mixed canopy conifer","mixed canopy conifer",NA,NA,NA,NA,NA,NA
+369,NA,NA,"forest","upland","mixed canopy conifer","mixed canopy conifer",NA,NA,NA,NA,NA,NA
+370,NA,NA,"rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",NA,NA,NA,NA,NA,NA
+371,NA,NA,"forest","upland","open canopy conifer","open canopy conifer",NA,NA,NA,NA,NA,NA
+372,NA,NA,"forest","upland","mixed canopy conifer","mixed canopy conifer",NA,NA,NA,NA,NA,NA
+373,NA,NA,"forest","upland","mixed canopy conifer","mixed canopy conifer",NA,NA,NA,NA,NA,NA
+374,NA,NA,"forest","upland","mixed canopy conifer","mixed canopy conifer",NA,NA,NA,NA,NA,NA
+375,NA,NA,"forest","upland","mixed canopy conifer","mixed canopy conifer",NA,NA,NA,NA,NA,NA
+376,"2012","Weed Control","forest","upland","mixed canopy conifer","mixed canopy conifer",0,"Chemical","post-emergent","broadcast","WC_2012",NA
+377,NA,NA,"forest","upland","mixed canopy conifer","mixed canopy conifer",NA,NA,NA,NA,NA,NA
+378,NA,NA,"forest","upland","mixed canopy conifer","mixed canopy conifer",NA,NA,NA,NA,NA,NA
+379,NA,NA,"forest","upland","mixed canopy conifer","mixed canopy conifer",NA,NA,NA,NA,NA,NA
+380,NA,NA,"forest","upland","mixed canopy conifer","mixed canopy conifer",NA,NA,NA,NA,NA,NA
+381,NA,NA,"forest","upland","mixed canopy conifer","mixed canopy conifer",NA,NA,NA,NA,NA,NA
+382,NA,NA,"forest","upland","mixed canopy conifer","mixed canopy conifer",NA,NA,NA,NA,NA,NA
+383,NA,NA,"forest","upland","mixed canopy conifer","mixed canopy conifer",NA,NA,NA,NA,NA,NA
+384,NA,NA,"rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",NA,NA,NA,NA,NA,NA
+385,NA,NA,"forest","upland","mixed canopy conifer","mixed canopy conifer",NA,NA,NA,NA,NA,NA
+386,NA,NA,"forest","upland","mixed canopy conifer","mixed canopy conifer",NA,NA,NA,NA,NA,NA
+387,NA,NA,"forest","upland","mixed canopy conifer","mixed canopy conifer",NA,NA,NA,NA,NA,NA
+388,NA,NA,"forest","upland","mixed canopy conifer","mixed canopy conifer",NA,NA,NA,NA,NA,NA
+389,NA,NA,"rangeland","shrubland","other shrub deciduous","other shrub deciduous",NA,NA,NA,NA,NA,NA
+390,NA,NA,"forest","upland","mixed canopy conifer","mixed canopy conifer",NA,NA,NA,NA,NA,NA
+391,NA,NA,"forest","upland","mixed canopy conifer","mixed canopy conifer",NA,NA,NA,NA,NA,NA
+392,NA,NA,"forest","upland","mixed canopy conifer","mixed canopy conifer",NA,NA,NA,NA,NA,NA
+393,NA,NA,"forest","upland","mixed canopy conifer","mixed canopy conifer",NA,NA,NA,NA,NA,NA
+394,"2017","Weed Control","rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",174,"Chemical","pre-emergent","broadcast","WC_2017",NA
+395,"2017","Weed Control","forest","upland","wooded draw","wooded draw",174,"Chemical","pre-emergent","broadcast","WC_2017",NA
+396,NA,NA,"forest","upland","mixed canopy conifer","mixed canopy conifer",NA,NA,NA,NA,NA,NA
+397,NA,NA,"forest","upland","mixed canopy conifer","mixed canopy conifer",NA,NA,NA,NA,NA,NA
+398,NA,NA,"forest","upland","mixed canopy conifer","mixed canopy conifer",NA,NA,NA,NA,NA,NA
+399,NA,NA,"forest","upland","mixed canopy conifer","mixed canopy conifer",NA,NA,NA,NA,NA,NA
+400,NA,NA,"forest","upland","open canopy conifer","open canopy conifer",NA,NA,NA,NA,NA,NA
+401,NA,NA,"forest","upland","open canopy conifer","open canopy conifer",NA,NA,NA,NA,NA,NA
+402,"2018","Revegetation","rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",379,"Seeding","Broadcast","bare seed","RV_2018",NA
+402,"2016","Vegetation Management","rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",53,"Sage Thinning","chemical","tebuthiuron","VM_2016",NA
+402,"2017","Weed Control","rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",174,"Chemical","pre-emergent","broadcast","WC_2017",NA
+402,"2018","Weed Control","rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",47,"Cultural","Burn","prep","WC_2018",NA
+403,"2017","Weed Control","rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",174,"Chemical","pre-emergent","broadcast","WC_2017",NA
+404,"2017","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",174,"Chemical","pre-emergent","broadcast","WC_2017",NA
+405,"2017","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",174,"Chemical","pre-emergent","broadcast","WC_2017",NA
+406,NA,NA,"forest","upland","mixed canopy conifer","mixed canopy conifer",NA,NA,NA,NA,NA,NA
+407,NA,NA,"forest","upland","mixed canopy conifer","mixed canopy conifer",NA,NA,NA,NA,NA,NA
+408,NA,NA,"forest","upland","mixed canopy conifer","mixed canopy conifer",NA,NA,NA,NA,NA,NA
+409,NA,NA,"forest","upland","open canopy conifer","open canopy conifer",NA,NA,NA,NA,NA,NA
+410,"2012","Weed Control","forest","upland","open canopy conifer","open canopy conifer",0,"Chemical","post-emergent","broadcast","WC_2012",NA
+410,"2021","Weed Control","forest","upland","open canopy conifer","open canopy conifer",0,"Chemical","post-emergent","broadcast","WC_2021",NA
+411,NA,NA,"forest","upland","mixed canopy conifer","mixed canopy conifer",NA,NA,NA,NA,NA,NA
+412,"2018","Revegetation","rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",379,"Seeding","Broadcast","bare seed","RV_2018",NA
+412,"2016","Vegetation Management","rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",53,"Sage Thinning","chemical","tebuthiuron","VM_2016",NA
+412,"2018","Weed Control","rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",47,"Cultural","Burn","prep","WC_2018",NA
+413,"2019","Weed Control","rangeland","shrubland","other shrub deciduous","other shrub deciduous",61,"Chemical","post-emergent","broadcast","WC_2019",NA
+413,"2021","Weed Control","rangeland","shrubland","other shrub deciduous","other shrub deciduous",0,"Chemical","post-emergent","broadcast","WC_2021",NA
+414,NA,NA,"forest","upland","mixed canopy conifer","mixed canopy conifer",NA,NA,NA,NA,NA,NA
+415,NA,NA,"forest","upland","mixed canopy conifer","mixed canopy conifer",NA,NA,NA,NA,NA,NA
+416,NA,NA,"forest","upland","open canopy conifer","open canopy conifer",NA,NA,NA,NA,NA,NA
+417,NA,NA,"forest","upland","mixed canopy conifer","mixed canopy conifer",NA,NA,NA,NA,NA,NA
+418,NA,NA,"forest","upland","mixed canopy conifer","mixed canopy conifer",NA,NA,NA,NA,NA,NA
+419,NA,NA,"rangeland","shrubland","bitterbrush","bitterbrush",NA,NA,NA,NA,NA,NA
+420,NA,NA,"rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",NA,NA,NA,NA,NA,NA
+421,NA,NA,"forest","upland","closed canopy conifer","closed canopy conifer",NA,NA,NA,NA,NA,NA
+422,"2012","Weed Control","forest","upland","mixed canopy conifer","mixed canopy conifer",0,"Chemical","post-emergent","broadcast","WC_2012",NA
+422,"2021","Weed Control","forest","upland","mixed canopy conifer","mixed canopy conifer",0,"Chemical","post-emergent","broadcast","WC_2021",NA
+423,NA,NA,"forest","upland","mixed canopy conifer","mixed canopy conifer",NA,NA,NA,NA,NA,NA
+424,NA,NA,"forest","upland","mixed canopy conifer","mixed canopy conifer",NA,NA,NA,NA,NA,NA
+425,NA,NA,"forest","upland","mixed canopy conifer","mixed canopy conifer",NA,NA,NA,NA,NA,NA
+426,NA,NA,"forest","upland","open canopy conifer","open canopy conifer",NA,NA,NA,NA,NA,NA
+427,"2012","Weed Control","forest","upland","open canopy conifer","open canopy conifer",0,"Chemical","post-emergent","broadcast","WC_2012",NA
+427,"2021","Weed Control","forest","upland","open canopy conifer","open canopy conifer",0,"Chemical","post-emergent","broadcast","WC_2021",NA
+428,NA,NA,"forest","upland","mixed canopy conifer","mixed canopy conifer",NA,NA,NA,NA,NA,NA
+429,NA,NA,"forest","upland","closed canopy conifer","closed canopy conifer",NA,NA,NA,NA,NA,NA
+430,NA,NA,"forest","upland","open canopy conifer","open canopy conifer",NA,NA,NA,NA,NA,NA
+431,NA,NA,"forest","upland","mixed canopy conifer","mixed canopy conifer",NA,NA,NA,NA,NA,NA
+432,NA,NA,"forest","upland","mixed canopy conifer","mixed canopy conifer",NA,NA,NA,NA,NA,NA
+433,NA,NA,"forest","upland","mixed canopy conifer","mixed canopy conifer",NA,NA,NA,NA,NA,NA
+434,NA,NA,"forest","upland","mixed canopy conifer","mixed canopy conifer",NA,NA,NA,NA,NA,NA
+435,NA,NA,"forest","upland","mixed canopy conifer","mixed canopy conifer",NA,NA,NA,NA,NA,NA
+436,NA,NA,"forest","upland","open canopy conifer","open canopy conifer",NA,NA,NA,NA,NA,NA
+437,NA,NA,"forest","upland","mixed canopy conifer","mixed canopy conifer",NA,NA,NA,NA,NA,NA
+438,NA,NA,"forest","upland","mixed canopy conifer","mixed canopy conifer",NA,NA,NA,NA,NA,NA
+439,NA,NA,"forest","upland","mixed canopy conifer","mixed canopy conifer",NA,NA,NA,NA,NA,NA
+440,NA,NA,"forest","upland","closed canopy conifer","closed canopy conifer",NA,NA,NA,NA,NA,NA
+441,NA,NA,"forest","upland","mixed canopy conifer","mixed canopy conifer",NA,NA,NA,NA,NA,NA
+442,NA,NA,"forest","upland","mixed canopy conifer","mixed canopy conifer",NA,NA,NA,NA,NA,NA
+443,NA,NA,"forest","upland","mixed canopy conifer","mixed canopy conifer",NA,NA,NA,NA,NA,NA
+444,"2019","Weed Control","forest","upland","mixed canopy conifer","mixed canopy conifer",63,"Chemical","post-emergent","broadcast","WC_2019",NA
+445,NA,NA,"forest","upland","mixed canopy conifer","mixed canopy conifer",NA,NA,NA,NA,NA,NA
+446,NA,NA,"forest","upland","open canopy conifer","open canopy conifer",NA,NA,NA,NA,NA,NA
+447,NA,NA,"forest","upland","mixed canopy conifer","mixed canopy conifer",NA,NA,NA,NA,NA,NA
+448,NA,NA,"rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",NA,NA,NA,NA,NA,NA
+449,NA,NA,"forest","upland","open canopy conifer","open canopy conifer",NA,NA,NA,NA,NA,NA
+450,NA,NA,"forest","upland","mixed canopy conifer","mixed canopy conifer",NA,NA,NA,NA,NA,NA
+451,NA,NA,"forest","upland","mixed canopy conifer","mixed canopy conifer",NA,NA,NA,NA,NA,NA
+452,NA,NA,"forest","upland","mixed canopy conifer","mixed canopy conifer",NA,NA,NA,NA,NA,NA
+453,NA,NA,"forest","upland","mixed canopy conifer","mixed canopy conifer",NA,NA,NA,NA,NA,NA
+454,NA,NA,"forest","upland","mixed canopy conifer","mixed canopy conifer",NA,NA,NA,NA,NA,NA
+455,NA,NA,"forest","upland","mixed canopy conifer","mixed canopy conifer",NA,NA,NA,NA,NA,NA
+456,NA,NA,"forest","upland","mixed canopy conifer","mixed canopy conifer",NA,NA,NA,NA,NA,NA
+457,NA,NA,"forest","upland","open canopy conifer","open canopy conifer",NA,NA,NA,NA,NA,NA
+458,NA,NA,"forest","upland","mixed canopy conifer","mixed canopy conifer",NA,NA,NA,NA,NA,NA
+459,NA,NA,"forest","upland","mixed canopy conifer","mixed canopy conifer",NA,NA,NA,NA,NA,NA
+460,NA,NA,"forest","upland","open canopy conifer","open canopy conifer",NA,NA,NA,NA,NA,NA
+461,NA,NA,"forest","upland","open canopy conifer","open canopy conifer",NA,NA,NA,NA,NA,NA
+462,NA,NA,"forest","upland","open canopy conifer","open canopy conifer",NA,NA,NA,NA,NA,NA
+463,NA,NA,"forest","upland","open canopy conifer","open canopy conifer",NA,NA,NA,NA,NA,NA
+464,NA,NA,"forest","upland","mixed canopy conifer","mixed canopy conifer",NA,NA,NA,NA,NA,NA
+465,NA,NA,"forest","upland","open canopy conifer","open canopy conifer",NA,NA,NA,NA,NA,NA
+466,"2011","Weed Control","forest","riparian","riparian woodland","riparian woodland",0,"Cultural","Burn","Prep","WC_2011","bird_MS_pt"
+467,"2011","Weed Control","forest","riparian","riparian woodland","riparian woodland",0,"Chemical","pre-emergent","broadcast","WC_2011","bird_MS_pt"
+467,"2012","Weed Control","forest","riparian","riparian woodland","riparian woodland",0,"Chemical","post-emergent","spot","WC_2012","bird_MS_pt"
+467,"2012","Weed Control","forest","riparian","riparian woodland","riparian woodland",0,"Chemical",NA,"spot","WC_2012","bird_MS_pt"
+467,"2012","Weed Control","forest","riparian","riparian woodland","riparian woodland",0,"Chemical",NA,"spot","WC_2012","bird_MS_pt"
+467,"2022","Weed Control","forest","riparian","riparian woodland","riparian woodland",0,"Chemical","post-emergent","broadcast","WC_2022","bird_MS_pt"
+468,NA,NA,"forest","riparian","riparian woodland","riparian woodland",NA,NA,NA,NA,NA,"bird_MS_pt"
+469,NA,NA,"forest","riparian","riparian woodland","riparian woodland",NA,NA,NA,NA,NA,"bird_MS_pt"
+470,NA,NA,"forest","riparian","riparian woodland","riparian woodland",NA,NA,NA,NA,NA,"bird_MS_pt"
+471,"2011","Weed Control","forest","riparian","riparian woodland","riparian woodland",0,"Cultural","Burn","Prep","WC_2011","bird_MS_pt"
+472,NA,NA,"forest","riparian","riparian woodland","riparian woodland",NA,NA,NA,NA,NA,NA
+473,NA,NA,"rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",NA,NA,NA,NA,NA,"bird_MS_pt"
+474,"2012","Revegetation","forest","riparian","riparian woodland","riparian woodland",12,"Seeding","Broadcast","bare seed","RV_2012","bird_MS_pt"
+474,"2015","Revegetation","forest","riparian","riparian woodland","riparian woodland",77,"Seeding","Broadcast","bare seed","RV_2015","bird_MS_pt"
+474,"2011","Weed Control","forest","riparian","riparian woodland","riparian woodland",30,"Cultural","Burn","Prep","WC_2011","bird_MS_pt"
+474,"2017","Weed Control","forest","riparian","riparian woodland","riparian woodland",158,"Chemical","post-emergent","spot","WC_2017","bird_MS_pt"
+474,"2022","Weed Control","forest","riparian","riparian woodland","riparian woodland",176,"Chemical","post-emergent","spot","WC_2022","bird_MS_pt"
+474,"2022","Weed Control","forest","riparian","riparian woodland","riparian woodland",0,"Chemical","post-emergent","broadcast","WC_2022","bird_MS_pt"
+475,NA,NA,"forest","riparian","riparian woodland","riparian woodland",NA,NA,NA,NA,NA,NA
+476,NA,NA,"forest","riparian","riparian woodland","riparian woodland",NA,NA,NA,NA,NA,NA
+477,NA,NA,"forest","riparian","riparian woodland","riparian woodland",NA,NA,NA,NA,NA,NA
+478,"2011","Weed Control","forest","riparian","riparian woodland","riparian woodland",0,"Cultural","Burn","Prep","WC_2011",NA
+479,"2011","Weed Control","forest","riparian","riparian woodland","riparian woodland",0,"Cultural","Burn","Prep","WC_2011",NA
+480,"2011","Weed Control","forest","riparian","riparian woodland","riparian woodland",0,"Cultural","Burn","Prep","WC_2011","bird_MS_pt"
+481,"2011","Weed Control","forest","riparian","riparian woodland","riparian woodland",0,"Cultural","Burn","Prep","WC_2011","bird_MS_pt"
+482,"2011","Weed Control","forest","riparian","riparian woodland","riparian woodland",0,"Cultural","Burn","Prep","WC_2011","bird_MS_pt"
+483,NA,NA,"forest","riparian","riparian woodland","riparian woodland",NA,NA,NA,NA,NA,NA
+484,"2011","Weed Control","forest","riparian","riparian woodland","riparian woodland",0,"Cultural","Burn","Prep","WC_2011","bird_MS_pt"
+485,NA,NA,"forest","riparian","riparian woodland","riparian woodland",NA,NA,NA,NA,NA,"bird_MS_pt"
+486,NA,NA,"forest","upland","mixed canopy conifer","mixed canopy conifer",NA,NA,NA,NA,NA,NA
+487,NA,NA,"forest","upland","mixed canopy conifer","mixed canopy conifer",NA,NA,NA,NA,NA,NA
+488,NA,NA,"forest","upland","mixed canopy conifer","mixed canopy conifer",NA,NA,NA,NA,NA,NA
+489,NA,NA,"forest","upland","mixed canopy conifer","mixed canopy conifer",NA,NA,NA,NA,NA,NA
+490,NA,NA,"forest","upland","mixed canopy conifer","mixed canopy conifer",NA,NA,NA,NA,NA,NA
+491,NA,NA,"forest","upland","mixed canopy conifer","mixed canopy conifer",NA,NA,NA,NA,NA,NA
+492,NA,NA,"forest","upland","mixed canopy conifer","mixed canopy conifer",NA,NA,NA,NA,NA,NA
+493,NA,NA,"forest","upland","mixed canopy conifer","mixed canopy conifer",NA,NA,NA,NA,NA,NA
+494,NA,NA,"forest","upland","mixed canopy conifer","mixed canopy conifer",NA,NA,NA,NA,NA,NA
+495,NA,NA,"forest","upland","mixed canopy conifer","mixed canopy conifer",NA,NA,NA,NA,NA,NA
+496,NA,NA,"forest","upland","mixed canopy conifer","mixed canopy conifer",NA,NA,NA,NA,NA,NA
+497,NA,NA,"forest","upland","mixed canopy conifer","mixed canopy conifer",NA,NA,NA,NA,NA,NA
+498,NA,NA,"forest","upland","wooded draw","wooded draw",NA,NA,NA,NA,NA,NA
+499,NA,NA,"forest","upland","wooded draw","wooded draw",NA,NA,NA,NA,NA,NA
+500,NA,NA,"forest","upland","wooded draw","wooded draw",NA,NA,NA,NA,NA,NA
+501,NA,NA,"forest","upland","wooded draw","wooded draw",NA,NA,NA,NA,NA,NA
+502,NA,NA,"forest","upland","wooded draw","wooded draw",NA,NA,NA,NA,NA,NA
+503,NA,NA,"forest","upland","wooded draw","wooded draw",NA,NA,NA,NA,NA,NA
+504,NA,NA,"forest","upland","wooded draw","wooded draw",NA,NA,NA,NA,NA,NA
+505,NA,NA,"forest","upland","wooded draw","wooded draw",NA,NA,NA,NA,NA,NA
+506,NA,NA,"forest","upland","wooded draw","wooded draw",NA,NA,NA,NA,NA,NA
+507,NA,NA,"forest","upland","wooded draw","wooded draw",NA,NA,NA,NA,NA,NA
+508,NA,NA,"forest","upland","wooded draw","wooded draw",NA,NA,NA,NA,NA,NA
+509,NA,NA,"forest","upland","wooded draw","wooded draw",NA,NA,NA,NA,NA,NA
+510,NA,NA,"forest","upland","wooded draw","wooded draw",NA,NA,NA,NA,NA,NA
+511,NA,NA,"forest","upland","wooded draw","wooded draw",NA,NA,NA,NA,NA,NA
+512,NA,NA,"forest","upland","wooded draw","wooded draw",NA,NA,NA,NA,NA,NA
+513,NA,NA,"forest","upland","wooded draw","wooded draw",NA,NA,NA,NA,NA,NA
+514,NA,NA,"forest","upland","mixed canopy conifer","mixed canopy conifer",NA,NA,NA,NA,NA,NA
+515,NA,NA,"forest","upland","mixed canopy conifer","mixed canopy conifer",NA,NA,NA,NA,NA,NA
+516,NA,NA,"forest","upland","mixed canopy conifer","mixed canopy conifer",NA,NA,NA,NA,NA,NA
+517,NA,NA,"forest","upland","mixed canopy conifer","mixed canopy conifer",NA,NA,NA,NA,NA,NA
+518,NA,NA,"forest","upland","mixed canopy conifer","mixed canopy conifer",NA,NA,NA,NA,NA,NA
+519,NA,NA,"forest","upland","wooded draw","wooded draw",NA,NA,NA,NA,NA,NA
+520,NA,NA,"forest","upland","wooded draw","wooded draw",NA,NA,NA,NA,NA,NA
+521,NA,NA,"forest","upland","wooded draw","wooded draw",NA,NA,NA,NA,NA,NA
+522,NA,NA,"forest","upland","wooded draw","wooded draw",NA,NA,NA,NA,NA,NA
+523,NA,NA,"forest","upland","mixed canopy conifer","mixed canopy conifer",NA,NA,NA,NA,NA,NA
+524,NA,NA,"forest","upland","mixed canopy conifer","mixed canopy conifer",NA,NA,NA,NA,NA,NA
+525,NA,NA,"forest","upland","mixed canopy conifer","mixed canopy conifer",NA,NA,NA,NA,NA,NA
+526,NA,NA,"forest","upland","wooded draw","wooded draw",NA,NA,NA,NA,NA,NA
+527,NA,NA,"forest","upland","mixed canopy conifer","mixed canopy conifer",NA,NA,NA,NA,NA,NA
+528,NA,NA,"forest","upland","mixed canopy conifer","mixed canopy conifer",NA,NA,NA,NA,NA,NA
+529,NA,NA,"forest","upland","mixed canopy conifer","mixed canopy conifer",NA,NA,NA,NA,NA,NA
+530,NA,NA,"forest","upland","closed canopy conifer","closed canopy conifer",NA,NA,NA,NA,NA,NA
+531,NA,NA,"forest","upland","closed canopy conifer","closed canopy conifer",NA,NA,NA,NA,NA,NA
+532,NA,NA,"forest","upland","closed canopy conifer","closed canopy conifer",NA,NA,NA,NA,NA,NA
+533,NA,NA,"forest","upland","closed canopy conifer","closed canopy conifer",NA,NA,NA,NA,NA,NA
+534,NA,NA,"forest","upland","closed canopy conifer","closed canopy conifer",NA,NA,NA,NA,NA,NA
+535,"2015","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",0,"Chemical",NA,NA,"WC_2015",NA
+536,"2018","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",132,"Chemical","pre-emergent","broadcast","WC_2018",NA
+537,NA,NA,"forest","riparian","riparian woodland","riparian woodland",NA,NA,NA,NA,NA,NA
+538,NA,NA,"forest","riparian","riparian woodland","riparian woodland",NA,NA,NA,NA,NA,NA
+539,NA,NA,"rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",NA,NA,NA,NA,NA,"bird_MS_pt"
+540,NA,NA,"rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",NA,NA,NA,NA,NA,NA
+541,NA,NA,"rangeland","shrubland","bitterbrush","bitterbrush",NA,NA,NA,NA,NA,NA
+542,NA,NA,"rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",NA,NA,NA,NA,NA,NA
+543,NA,NA,"forest","riparian","riparian woodland","riparian woodland",NA,NA,NA,NA,NA,NA
+544,NA,NA,"rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",NA,NA,NA,NA,NA,"bird_MS_pt"
+545,"2022","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",0,"Chemical","post-emergent","broadcast","WC_2022",NA
+546,NA,NA,"forest","riparian","riparian woodland","riparian woodland",NA,NA,NA,NA,NA,NA
+547,NA,NA,"rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",NA,NA,NA,NA,NA,NA
+548,NA,NA,"forest","riparian","riparian woodland","riparian woodland",NA,NA,NA,NA,NA,NA
+549,NA,NA,"rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",NA,NA,NA,NA,NA,NA
+550,NA,NA,"rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",NA,NA,NA,NA,NA,NA
+552,NA,NA,"rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",NA,NA,NA,NA,NA,NA
+553,NA,NA,"rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",NA,NA,NA,NA,NA,NA
+554,NA,NA,"rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",NA,NA,NA,NA,NA,NA
+555,NA,NA,"rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",NA,NA,NA,NA,NA,NA
+556,NA,NA,"rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",NA,NA,NA,NA,NA,NA
+557,NA,NA,"rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",NA,NA,NA,NA,NA,NA
+558,NA,NA,"rangeland","shrubland","sagebrush","sagebrush",NA,NA,NA,NA,NA,NA
+559,NA,NA,"rangeland","shrubland","sagebrush","sagebrush",NA,NA,NA,NA,NA,NA
+560,NA,NA,"rangeland","shrubland","sagebrush","sagebrush",NA,NA,NA,NA,NA,NA
+561,NA,NA,"rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",NA,NA,NA,NA,NA,NA
+562,NA,NA,"forest","upland","mixed canopy conifer","mixed canopy conifer",NA,NA,NA,NA,NA,NA
+563,NA,NA,"forest","upland","mixed canopy conifer","mixed canopy conifer",NA,NA,NA,NA,NA,NA
+564,NA,NA,"forest","upland","mixed canopy conifer","mixed canopy conifer",NA,NA,NA,NA,NA,NA
+565,NA,NA,"forest","upland","mixed canopy conifer","mixed canopy conifer",NA,NA,NA,NA,NA,NA
+566,NA,NA,"forest","upland","mixed canopy conifer","mixed canopy conifer",NA,NA,NA,NA,NA,NA
+567,NA,NA,"forest","upland","mixed canopy conifer","mixed canopy conifer",NA,NA,NA,NA,NA,NA
+568,NA,NA,"forest","upland","mixed canopy conifer","mixed canopy conifer",NA,NA,NA,NA,NA,NA
+569,NA,NA,"forest","upland","mixed canopy conifer","mixed canopy conifer",NA,NA,NA,NA,NA,NA
+570,"2011","Revegetation","rangeland","grassland","former cultivated","forage grass restoration",0,"Seeding","Drill","continuous","RV_2011",NA
+570,"2012","Revegetation","rangeland","grassland","former cultivated","forage grass restoration",18,"Seeding","Drill","continuous","RV_2012",NA
+570,"2013","Revegetation","rangeland","grassland","former cultivated","forage grass restoration",34,"Seeding","Drill","continuous","RV_2013",NA
+570,"2018","Revegetation","rangeland","grassland","former cultivated","forage grass restoration",257,"Seeding","Drill","continuous","RV_2018",NA
+570,"2019","Revegetation","rangeland","grassland","former cultivated","forage grass restoration",277,"Seeding","Drill","island","RV_2019",NA
+570,"2012","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",0,"Chemical","pre-emergent","broadcast","WC_2012",NA
+570,"2012","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",0,"Chemical",NA,"spot","WC_2012",NA
+570,"2012","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",0,"Chemical",NA,"spot","WC_2012",NA
+570,"2012","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",0,"Chemical",NA,"spot","WC_2012",NA
+570,"2016","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",191,"Chemical","pre-emergent","broadcast","WC_2016",NA
+571,"2011","Revegetation","rangeland","grassland","former cultivated","forage grass restoration",0,"Seeding","Drill","continuous","RV_2011",NA
+571,"2012","Revegetation","rangeland","grassland","former cultivated","forage grass restoration",18,"Seeding","Drill","continuous","RV_2012",NA
+571,"2013","Revegetation","rangeland","grassland","former cultivated","forage grass restoration",34,"Seeding","Drill","continuous","RV_2013",NA
+571,"2018","Revegetation","rangeland","grassland","former cultivated","forage grass restoration",257,"Seeding","Drill","continuous","RV_2018",NA
+571,"2019","Revegetation","rangeland","grassland","former cultivated","forage grass restoration",277,"Seeding","Drill","island","RV_2019",NA
+571,"2018","Vegetation Management","rangeland","grassland","former cultivated","forage grass restoration",162,"Barrier","Buck-N-Rail","Buck-N-Rail","VM_2018",NA
+571,"2012","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",0,"Chemical","pre-emergent","broadcast","WC_2012",NA
+571,"2012","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",0,"Chemical",NA,"spot","WC_2012",NA
+571,"2012","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",0,"Chemical",NA,"spot","WC_2012",NA
+571,"2012","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",0,"Chemical",NA,"spot","WC_2012",NA
+571,"2016","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",191,"Chemical","pre-emergent","broadcast","WC_2016",NA
+572,"2015","Revegetation","rangeland","grassland","former cultivated","forage grass restoration",71,"Seeding","Drill","continuous","RV_2015",NA
+572,"2017","Revegetation","rangeland","grassland","former cultivated","forage grass restoration",153,"Seeding","Drill","continuous","RV_2017",NA
+572,"2012","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",0,"Chemical","post-emergent","spot","WC_2012",NA
+572,"2012","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",0,"Chemical",NA,"spot","WC_2012",NA
+572,"2012","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",0,"Chemical",NA,"spot","WC_2012",NA
+573,NA,NA,"rangeland","shrubland","bitterbrush","bitterbrush",NA,NA,NA,NA,NA,NA
+574,NA,NA,"rangeland","shrubland","bitterbrush","bitterbrush",NA,NA,NA,NA,NA,NA
+575,NA,NA,"rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",NA,NA,NA,NA,NA,NA
+576,NA,NA,"rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",NA,NA,NA,NA,NA,NA
+577,NA,NA,"rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",NA,NA,NA,NA,NA,NA
+578,NA,NA,"rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",NA,NA,NA,NA,NA,NA
+579,NA,NA,"rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",NA,NA,NA,NA,NA,NA
+580,NA,NA,"rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",NA,NA,NA,NA,NA,NA
+581,NA,NA,"rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",NA,NA,NA,NA,NA,NA
+582,NA,NA,"rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",NA,NA,NA,NA,NA,NA
+583,"2015","Revegetation","rangeland","grassland","former cultivated","forage grass restoration",81,"Seeding","Drill","continuous","RV_2015",NA
+583,"2015","Revegetation","rangeland","grassland","former cultivated","forage grass restoration",0,"Seeding","Drill",NA,"RV_2015",NA
+583,"2016","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",2,"Mechanical","Machine","Rotary Mower","VM_2016",NA
+583,"2012","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",0,"Chemical","post-emergent","spot","WC_2012",NA
+583,"2012","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",0,"Chemical",NA,"spot","WC_2012",NA
+583,"2012","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",0,"Chemical",NA,"spot","WC_2012",NA
+583,"2012","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",42,"Cultural","Burn","prep","WC_2012",NA
+583,"2013","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",43,"Cultural","Burn","prep","WC_2013",NA
+583,"2016","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",183,"Chemical","pre-emergent","broadcast","WC_2016",NA
+583,"2022","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",176,"Chemical","post-emergent","spot","WC_2022",NA
+584,"2011","Weed Control","rangeland","shrubland","mixed sage and bitterbrush","mixed sage and bitterbrush",0,"Chemical","pre-emergent","broadcast","WC_2011",NA
+585,"2012","Weed Control","forest","riparian","riparian woodland","riparian woodland",42,"Cultural","Burn","prep","WC_2012",NA
+586,"2011","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",30,"Cultural","Burn","Prep","WC_2011",NA
+586,"2012","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",0,"Chemical",NA,"spot","WC_2012",NA
+586,"2022","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",0,"Chemical","post-emergent","broadcast","WC_2022",NA
+587,"2013","Revegetation","rangeland","grassland","former cultivated","forage grass restoration",35,"Seeding","Broadcast","bare seed","RV_2013",NA
+587,"2014","Revegetation","rangeland","grassland","former cultivated","forage grass restoration",49,"Seeding","Drill","continuous","RV_2014",NA
+587,"2012","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",0,"Chemical",NA,"spot","WC_2012",NA
+587,"2017","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",164,"Chemical","pre-emergent","broadcast","WC_2017",NA
+587,"2018","Weed Control","rangeland","grassland","former cultivated","forage grass restoration",113,"Chemical","pre-emergent","broadcast","WC_2018",NA
+588,"2011","Revegetation","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",0,"Live Plant","Container","Mix","RV_2011",NA
+588,"2018","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",113,"Chemical","pre-emergent","broadcast","WC_2018",NA
+589,"2011","Revegetation","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",0,"Seeding",NA,NA,"RV_2011",NA
+589,"2013","Revegetation","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",343,"Live Plant","Transplant","ELYCIN","RV_2013",NA
+589,"2015","Revegetation","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",64,"Seeding","Drill","continuous","RV_2015",NA
+589,"2012","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",0,"Chemical","post-emergent","broadcast","WC_2012",NA
+589,"2016","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",184,"Chemical","pre-emergent","broadcast","WC_2016",NA
+589,"2020","Weed Control","rangeland","grassland","uncultivated grassland native or degraded","uncultivated grassland native or degraded",43,"Chemical","pre-emergent","broadcast","WC_2020",NA
