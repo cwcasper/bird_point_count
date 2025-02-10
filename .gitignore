@@ -49,3 +49,6 @@ po/*~
 rsconnect/
 
 raw_data/
+
+# env credentials
+.env
