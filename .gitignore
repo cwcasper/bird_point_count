@@ -50,5 +50,6 @@ rsconnect/
 
 raw_data/
 
-# env credentials
+# credentials
 .env
+.bq_oauth
