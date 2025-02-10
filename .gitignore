@@ -34,6 +34,11 @@ po/*~
 # RStudio Connect folder
 rsconnect/
 raw_data/
+<<<<<<< HEAD
 # env credentials
+=======
+
+# credentials
+>>>>>>> 249d8724f6d1b12a20560c57aeffc647e2229188
 .env
 .bq_oauth
