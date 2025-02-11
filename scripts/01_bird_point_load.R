@@ -10,7 +10,7 @@ library(sf)
 # import data -------------------------------------------------------------
 # Functions
 ## Pull from Big Query
-bq_auth(email = ccasper@mpgranch.com)
+bq_auth(cache=".bq_oauth")
 billing <- "mpg-data-warehouse"
 bq_pull <- function(select="*", from) {
   sql <- paste("SELECT", select, "FROM", from)
