@@ -37,6 +37,8 @@ gp_resto_simple<-gp_resto %>%
 gp_resto_simple <- gp_resto_simple %>%
   mutate(bird_MS_pt = if_else(grid_point %in% bird_gp$Name, "bird_MS_pt", NA_character_))
 
+# attach grid point veg data to confirm habitat type codes
+
 
 # save as Rdata objects and output shapefiles ---------------------------------------------------
 gp_resto_df<-gp_resto_simple %>% st_drop_geometry()
