@@ -6,6 +6,7 @@
 library(bigrquery)
 library(dplyr)
 library(sf)
+library(here)
 
 # import data -------------------------------------------------------------
 # Functions
