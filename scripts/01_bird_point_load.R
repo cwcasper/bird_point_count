@@ -8,8 +8,7 @@ library(dplyr)
 library(sf)
 library(here)
 
-# import data -------------------------------------------------------------
-# Functions
+# functions to direct to BQ warehouse and list of dataset-------------------------------------------------
 ## Pull from Big Query
 bq_auth(cache=".bq_oauth")
 billing <- "mpg-data-warehouse"
@@ -21,6 +20,36 @@ bq_pull <- function(select="*", from) {
       as.data.frame()
   )
 }
+
+## MPG BQ Datasets easier pull
+### Function to load metadata and pull table data
+pull_table_by_name <- function(table_name, metadata_file = "raw_data/tabular/MPG_BQ_datasets.csv", select = "*") {
+  # Read the metadata CSV
+  metadata <- read.csv(metadata_file, stringsAsFactors = FALSE)
+  
+  # Look for the table entry
+  table_info <- metadata[metadata$table_name == table_name, ]
+  
+  if (nrow(table_info) == 0) {
+    stop("Table name not found in metadata!")
+  }
+  
+  # Get the full BigQuery path
+  full_table_path <- table_info$bq_warehouse_path
+  
+  # Pull the data using bq_pull
+  message("Pulling data for table: ", table_name, " from ", full_table_path)
+  data <- bq_pull(select = select, from = full_table_path)
+  return(data)
+}
+
+metadata<-read.csv("raw_data/tabular/MPG_BQ_datasets.csv", stringsAsFactors = FALSE )
+
+# View and pull tables from Chuck's list -----
+View(metadata) # tables listed in chuck's selection from warehouse
+
+gp_meta <- pull_table_by_name("grid_points") # grid point numbers and info
+veg_meta<-pull_table_by_name("veg_meta") # plant list and info
 
 # grid_point location, sample year, other info
 gp_meta <- bq_pull(
