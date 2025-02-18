@@ -45,7 +45,7 @@ pull_table_by_name <- function(table_name, metadata_file = "raw_data/tabular/MPG
 
 metadata<-read.csv("raw_data/tabular/MPG_BQ_datasets.csv", stringsAsFactors = FALSE )
 
-# View and pull tables from Chuck's list -----
+# View and pull tables available in MPG Data Warehouse (annotated) from Chuck's list -----
 View(metadata) # tables listed in chuck's selection from warehouse
 
 gp_meta <- pull_table_by_name("grid_points") # grid point numbers and info
@@ -82,7 +82,7 @@ all_resto <- st_transform(all_resto, 26911)
 st_crs(all_resto)
 
 #load C.Casper's habitat types
-hab_type_path<-get_mpg_data('mpgcloud', 'projects/vegetation_classification/working_habitat_classes/HabTypes/habitat_types_branch4_1.shp')
+hab_type_path<-get_mpg_data('mpgcloud', 'projects/veg_class_archive/nested_class/base_CC_habitat_types.shp')
 hab_types<-st_read(hab_type_path)
 st_crs(hab_types)
 hab_types<-st_transform(hab_types, 26911)
