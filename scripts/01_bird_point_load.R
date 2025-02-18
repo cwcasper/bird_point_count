@@ -7,6 +7,7 @@ library(bigrquery)
 library(dplyr)
 library(sf)
 library(here)
+library(kableExtra)
 
 # functions to direct to BQ warehouse and list of dataset-------------------------------------------------
 ## Pull from Big Query
@@ -46,7 +47,9 @@ pull_table_by_name <- function(table_name, metadata_file = "raw_data/tabular/MPG
 metadata<-read.csv("raw_data/tabular/MPG_BQ_datasets.csv", stringsAsFactors = FALSE )
 
 # View and pull tables available in MPG Data Warehouse (annotated) from Chuck's list -----
-View(metadata) # tables listed in chuck's selection from warehouse
+metadata %>% # tables listed in chuck's selection from warehouse
+  select(table_name, data_description) %>% 
+  kable()
 
 gp_meta <- pull_table_by_name("grid_points") # grid point numbers and info
 veg_meta<-pull_table_by_name("veg_meta") # plant list and info

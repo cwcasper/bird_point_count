@@ -38,12 +38,28 @@ gp_resto_simple <- gp_resto_simple %>%
   mutate(bird_MS_pt = if_else(grid_point %in% bird_gp$Name, "bird_MS_pt", NA_character_))
 
 # attach grid point veg data to confirm habitat type codes
+## recode Veg Meta for planted non-natives which indicate cultivation history ----
+# Define planted species list
+planted_species <- c("AGRCRI","THIINT", "MEDSAT", "ZEAMAY", "TRIAES","TRIINC", "PSAJUN", "PHLPRA",
+                     "ONOVIC","MEDFAL", "GLYMAX")
 
+# Add new column based on native status and species name
+veg_meta <- veg_meta %>%
+  mutate(origin_status = case_when(
+    plant_native_status == "native" ~ NA_character_,  # Keep native species as NA or exclude from classification
+    key_plant_code %in% planted_species ~ "planted",  # Mark known planted species
+    TRUE ~ "unintentional"  # Default to unintentional for other nonnatives
+  ))
 
 # save as Rdata objects and output shapefiles ---------------------------------------------------
+## bird grid point simplified habitat codes----
 gp_resto_df<-gp_resto_simple %>% st_drop_geometry()
 save(gp_resto_df, file ="processed_data/tabular/bird_point_hab1.RData")
 write.csv(gp_resto_df, file="processed_data/tabular/bird_points_hab1.csv", row.names = FALSE)
 
 shapefile_path<-"processed_data/spatial/gp_resto_simple.shp"
 st_write(gp_resto_simple, shapefile_path, delete_layer = TRUE)
+
+## veg metadata with new 'origin_status' planting codes ----
+save(veg_meta, file ="processed_data/tabular/veg_meta_CCmod.RData")
+write.csv(veg_meta, file="processed_data/tabular/veg_meta_CCmod.csv", row.names = FALSE)
