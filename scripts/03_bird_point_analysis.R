@@ -9,6 +9,11 @@ load("processed_data/tabular/bird_points_hab1.RData")
 
 load("processed_data/tabular/gp_mgmt_summary.RData")
 
+load("processed_data/tabular/gp_mgmt_sf.RData")
+
+load("processed_data/spatial/MPG_bound.RData")
+
 #indicator species analysis-do communities change over time-does management intensity explain it? significance test
 # communitiy similarity analysis-NMDS?
+
 

@@ -54,13 +54,7 @@ metadata %>% # tables listed in chuck's selection from warehouse
 gp_meta <- pull_table_by_name("grid_points") # grid point numbers and info
 veg_meta<-pull_table_by_name("veg_meta") # plant list and info
 
-# grid_point location, sample year, other info
-gp_meta <- bq_pull(
-  select= "*",
-  from = "`mpg-data-warehouse.grid_point_summaries.location_position_classification`" # grid points
-)
-
-## Pull spatial data from egnyte
+## Pull spatial data from egnyte ----
 get_mpg_data <- function(cloud_dir, shapefile_name) {
   os_base <- '/Users/ccasper/Library/CloudStorage/Egnyte-mpgcloud/'
   file.path(os_base, 'Shared/Workspace/MPG Ranch/GIS Maps', shapefile_name)

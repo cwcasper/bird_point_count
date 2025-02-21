@@ -7,7 +7,6 @@ library(sf)
 
 # Wrangle objects loaded from 01 script ---------------------------------------------
 # 1 select habitat types from gp_meta, get rid of stuff I don't want
-names(gp_meta)
 grid_point_info<-gp_meta %>% 
   select(grid_point, lat, long, type1_biome, type2_vegetation_community, type3_vegetation_indicators, type4_indicators_history)
 
@@ -99,6 +98,11 @@ gp_mgmt_summary<-gp_resto_2 %>%
   left_join(gp_resto_1 %>% distinct(grid_point, bird_MS_pt, hab_2010, hab_2025),
             by= "grid_point")
 
+# add geometry to make grid point management summary a SF object we can map
+gp_mgmt_sf<-gp_info_utm %>% 
+  select(grid_point) %>% 
+  left_join(gp_mgmt_summary, by = "grid_point")
+
 _# save as Rdata objects and output shapefiles ---------------------------------------------------
 ## bird grid point simplified habitat codes----
 gp_resto_df<-gp_resto_simple %>% st_drop_geometry()
@@ -112,6 +116,10 @@ st_write(gp_resto_simple, shapefile_path, delete_layer = TRUE)
 save(veg_meta, file ="processed_data/tabular/veg_meta_CCmod.RData")
 write.csv(veg_meta, file="processed_data/tabular/veg_meta_CCmod.csv", row.names = FALSE)
 
-## gp history and management type summary
-save(gp_mgmt_summary, file = "processed_data/tabular/gp_mgmt_summary.RData")
+## gp history and management type summary ----
+save(gp_mgmt_sf, file ="processed_data/tabular/gp_mgmt_sf.RData" )
+save(gp_mgmt_summary, file = "processed_data/tabular/gp_mgmt_summary.RData") #as DF
 write.csv(gp_mgmt_summary, file = "processed_data/tabular/gp_mgmt_summary.csv", row.names = FALSE)
+
+## spatial features
+save(MPG_bound, file="processed_data/spatial/MPG_bound.RData") # ranch boundary SF object
