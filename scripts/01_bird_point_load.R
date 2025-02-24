@@ -47,12 +47,14 @@ pull_table_by_name <- function(table_name, metadata_file = "raw_data/tabular/MPG
 metadata<-read.csv("raw_data/tabular/MPG_BQ_datasets.csv", stringsAsFactors = FALSE )
 
 # View and pull tables available in MPG Data Warehouse (annotated) from Chuck's list -----
-metadata %>% # tables listed in chuck's selection from warehouse
+BQ_datasets<-metadata %>% # tables listed in chuck's selection from warehouse
   select(table_name, data_description) %>% 
   kable()
+BQ_datasets
 
 gp_meta <- pull_table_by_name("grid_points") # grid point numbers and info
 veg_meta<-pull_table_by_name("veg_meta") # plant list and info
+foliar_all<-pull_table_by_name("foliar_all") #all foliar cover
 
 ## Pull spatial data from egnyte ----
 get_mpg_data <- function(cloud_dir, shapefile_name) {

@@ -42,6 +42,11 @@ gp_resto_simple <- gp_resto_simple %>%
 planted_species <- c("AGRCRI","THIINT", "MEDSAT", "ZEAMAY", "TRIAES","TRIINC", "PSAJUN", "PHLPRA",
                      "ONOVIC","MEDFAL", "GLYMAX")
 
+str(foliar_all)
+foliar_all<-foliar_all %>% 
+  select(survey_ID, year, survey_sequence, grid_point, key_plant_code, intercepts_pct) %>% 
+  left_join(veg_meta, by= "key_plant_code")
+
 # Add new column based on native status and species name
 veg_meta <- veg_meta %>%
   mutate(origin_status = case_when(
@@ -103,23 +108,26 @@ gp_mgmt_sf<-gp_info_utm %>%
   select(grid_point) %>% 
   left_join(gp_mgmt_summary, by = "grid_point")
 
-_# save as Rdata objects and output shapefiles ---------------------------------------------------
+# save as Rdata objects and output shapefiles ---------------------------------------------------
 ## bird grid point simplified habitat codes----
 gp_resto_df<-gp_resto_simple %>% st_drop_geometry()
 save(gp_resto_df, file ="processed_data/tabular/bird_points_hab1.RData")
 write.csv(gp_resto_df, file="processed_data/tabular/bird_points_hab1.csv", row.names = FALSE)
 
-shapefile_path<-"processed_data/spatial/gp_resto_simple.shp"
-st_write(gp_resto_simple, shapefile_path, delete_layer = TRUE)
+shapefile_path1<-"processed_data/spatial/gp_resto_simple.shp"
+st_write(gp_resto_simple, shapefile_path1, delete_layer = TRUE)
 
-## veg metadata with new 'origin_status' planting codes ----
+## veg data with new 'origin_status' planting codes ----
 save(veg_meta, file ="processed_data/tabular/veg_meta_CCmod.RData")
 write.csv(veg_meta, file="processed_data/tabular/veg_meta_CCmod.csv", row.names = FALSE)
+
+save(foliar_all, file ="processed_data/tabular/foliar_all.RData")
 
 ## gp history and management type summary ----
 save(gp_mgmt_sf, file ="processed_data/tabular/gp_mgmt_sf.RData" )
 save(gp_mgmt_summary, file = "processed_data/tabular/gp_mgmt_summary.RData") #as DF
 write.csv(gp_mgmt_summary, file = "processed_data/tabular/gp_mgmt_summary.csv", row.names = FALSE)
+st_write(gp_mgmt_sf, "processed_data/spatial/gp_mgmt_sf.gpkg", delete_dsn = TRUE)
 
 ## spatial features
 save(MPG_bound, file="processed_data/spatial/MPG_bound.RData") # ranch boundary SF object

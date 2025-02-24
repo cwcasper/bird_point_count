@@ -9,7 +9,7 @@ load("processed_data/tabular/gp_mgmt_sf.RData")# grid points with Kate's Schema
 load("processed_data/spatial/MPG_bound.RData")# ranch boundary
 
 # data vis -------------------------------------------------------
-# visualize 1) points that change categorical habitat types, 2) managment intesity gradient
+# visualize 1) points that change categorical habitat types,
 ggplot() +
   geom_sf(data = MPG_bound, fill = "grey90", color = "black") +
   geom_sf(data = gp_mgmt_sf %>% filter(!is.na(bird_MS_pt)),
@@ -32,6 +32,7 @@ ggplot() +
   labs(fill= "2025 Habitats") +
   theme_minimal()
 
+# 2) managment intesity gradient
 ggplot() +
   geom_sf(data = MPG_bound, fill = "grey90", color = "black") +
   geom_sf(data = gp_mgmt_sf, 
