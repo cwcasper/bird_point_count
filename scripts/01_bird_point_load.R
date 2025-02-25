@@ -55,6 +55,8 @@ BQ_datasets
 gp_meta <- pull_table_by_name("grid_points") # grid point numbers and info
 veg_meta<-pull_table_by_name("veg_meta") # plant list and info
 foliar_all<-pull_table_by_name("foliar_all") #all foliar cover
+ground_cover<-pull_table_by_name("ground_cover") # summary ground cover intercepts
+gc_meta<-pull_table_by_name("gc_meta")
 
 ## Pull spatial data from egnyte ----
 get_mpg_data <- function(cloud_dir, shapefile_name) {

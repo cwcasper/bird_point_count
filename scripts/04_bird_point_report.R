@@ -2,7 +2,6 @@
 library(dplyr)
 library(sf)
 library(ggplot2)
-library(sf)
 
 # import data -------------------------------------------------------------
 load("processed_data/tabular/gp_mgmt_sf.RData")# grid points with Kate's Schema

@@ -32,20 +32,10 @@ gp_resto_simple<-gp_resto %>%
              "type3_vegetation_indicators", "type4_indicators_history", "OBJECTID",
              "Action", "Method", "Type","layer"))
 
-## add grid points of interest for bird manuscript and make super simple----
-gp_resto_simple <- gp_resto_simple %>%
-  mutate(bird_MS_pt = if_else(grid_point %in% bird_gp$Name, "bird_MS_pt", NA_character_))
-
-# attach grid point veg data to confirm habitat type codes
-## recode Veg Meta for planted non-natives which indicate cultivation history ----
+## veg data wrangle ----
 # Define planted species list
 planted_species <- c("AGRCRI","THIINT", "MEDSAT", "ZEAMAY", "TRIAES","TRIINC", "PSAJUN", "PHLPRA",
                      "ONOVIC","MEDFAL", "GLYMAX")
-
-str(foliar_all)
-foliar_all<-foliar_all %>% 
-  select(survey_ID, year, survey_sequence, grid_point, key_plant_code, intercepts_pct) %>% 
-  left_join(veg_meta, by= "key_plant_code")
 
 # Add new column based on native status and species name
 veg_meta <- veg_meta %>%
@@ -55,33 +45,67 @@ veg_meta <- veg_meta %>%
     TRUE ~ "unintentional"  # Default to unintentional for other nonnatives
   ))
 
-# add cultivation history to grid points re-code to schema provided by Kate Stone ----
+str(foliar_all)
+foliar_all<-foliar_all %>% 
+  select(survey_ID, year, survey_sequence, grid_point, key_plant_code, intercepts_pct) %>% 
+  left_join(veg_meta, by= "key_plant_code")
+
+## ground cover wrangle ----
+
+
+## grid point wrangle----
+## add grid points of interest for bird manuscript and make super simple
+gp_resto_simple <- gp_resto_simple %>%
+  mutate(bird_MS_pt = if_else(grid_point %in% bird_gp$Name, "bird_MS_pt", NA_character_))
+
+# add cultivation history to grid points re-code to schema provided by Kate Stone
 gp_resto_1 <- gp_resto_simple %>%
-  # 1. Create hab_2010: recode "former cultivated" to "grassland planted forage"
   mutate(
-    hab_2010 = if_else(type3_vegetation_indicators == "former cultivated",
-                       "grassland planted forage", 
-                       type3_vegetation_indicators),
-    # 2. Set hab_2025 from the original type4_indicators_history column
-    hab_2025 = type4_indicators_history,
-    # 3. Update hab_2010: if hab_2025 is "irrigated agriculture restoration", set hab_2010 to "agriculture"
-    hab_2010 = if_else(hab_2025 == "irrigated agriculture restoration",
-                       "agriculture", 
-                       hab_2010),
-    # 4. Recode hab_2025 values for restoration
-    hab_2025 = recode(hab_2025,
-                      "forage grass restoration" = "restoration grassland",
-                      "irrigated agriculture restoration" = "restoration grassland irrigated"),
-    # 5. Recode "uncultivated grassland native or degraded" to "grassland native" in hab_2010
-    hab_2010 = recode(hab_2010,
-                      "uncultivated grassland native or degraded" = "grassland native"),
-    # 6. Also recode that value in hab_2025
-    hab_2025 = recode(hab_2025,
-                      "uncultivated grassland native or degraded" = "grassland native"),
-    # 7. Ensure that if hab_2010 is "grassland planted forage", then hab_2025 becomes "restoration grassland"
-    hab_2025 = if_else(hab_2010 == "grassland planted forage",
-                       "restoration grassland", 
-                       hab_2025)
+    # Recode hab_2010 from type4_indicators_history
+    hab_2010 = recode(
+      type4_indicators_history,
+      
+      # mappings:
+      "closed canopy conifer" = "upland conifer",
+      "mixed canopy conifer" = "upland conifer",
+      "open canopy conifer" = "upland conifer",
+      "forage grass diversification" = "grassland planted forage",
+      "forage grass diversification (natural)" = "grassland planted forage",
+      "forage grass restoration" = "grassland planted forage",
+      "irrigated agriculture restoration" = "agriculture",
+      "uncultivated grassland native or degraded" = "grassland native",
+      "mixed sage and bitterbrush" = "persistent shrubland",
+      "sagebrush" = "persistent shrubland",
+      "bitterbrush" = "persistent shrubland",
+      "other shrub deciduous" = "deciduous shrubs",
+      "wooded draw non-forest" = "shrubby draw",
+      
+      # By default, keep the original value
+      .default = type3_vegetation_indicators
+    ),
+    
+    # Recode hab_2025 from type4_indicators_history
+    hab_2025 = recode(
+      type4_indicators_history,
+      
+      # mappings:
+      "closed canopy conifer" = "upland conifer",
+      "mixed canopy conifer" = "upland conifer",
+      "open canopy conifer" = "upland conifer",
+      "forage grass diversification" = "restoration grassland",
+      "forage grass diversification (natural)" = "restoration grassland",
+      "forage grass restoration" = "restoration grassland",
+      "irrigated agriculture restoration" = "restoration grassland irrigated",
+      "uncultivated grassland native or degraded" = "grassland native",
+      "mixed sage and bitterbrush" = "persistent shrubland",
+      "sagebrush" = "persistent shrubland",
+      "bitterbrush" = "persistent shrubland",
+      "other shrub deciduous" = "deciduous shrubs",
+      "wooded draw non-forest" = "shrubby draw",
+      
+      # By default, keep the original value
+      .default = type4_indicators_history
+    )
   ) %>% st_drop_geometry() # convert from sf object to dataframe-join to gp_meta later if needed
 
 str(gp_resto_1)

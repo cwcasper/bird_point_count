@@ -1,26 +1,39 @@
 # analysis script for bird manuscript grid points, management history, and habitat categories
-
-
 # load packages -----------------------------------------------------------
 library(dplyr)
+library(tidyr)
 
 # load data ---------------------------------------------------------------
 load("processed_data/tabular/bird_points_hab1.RData")# long table with mgmt history, some hab info, KS scheme info
-
 load("processed_data/tabular/gp_mgmt_summary.RData")# wide table with one gp per row, summary hab and restor history
-
 load("processed_data/tabular/gp_mgmt_sf.RData")# spatial feature grid points and summary hab + resto history
-
 load("processed_data/spatial/MPG_bound.RData")# spatial feature MPG boundary
+load("processed_data/tabular/foliar_all.RData")
+
+# exploratory data analysis ----
+## how does veg data line up with habitat categories
+## planted vs. native vs. weeds by habitat types ----
+foliar_sum_2010<-foliar_all %>% 
+  left_join(gp_mgmt_summary, by= "grid_point") %>% 
+  filter(survey_sequence == "2011-12") %>% 
+  group_by(grid_point, hab_2010, origin_status) %>% 
+  summarise(sum_cover=sum(intercepts_pct)) %>%
+  ungroup() %>% 
+  group_by(hab_2010, origin_status) %>% 
+  summarise(avg_cover= mean(sum_cover)) %>% 
+  pivot_wider(names_from = origin_status, values_from = avg_cover, values_fill = list(avg_cover = NA))
+
+foliar_sum_2025<-foliar_all %>% 
+  left_join(gp_mgmt_summary, by= "grid_point") %>% 
+  filter(survey_sequence == "2024") %>% 
+  group_by(grid_point, hab_2025, origin_status) %>% 
+  summarise(sum_cover=sum(intercepts_pct)) %>%
+  ungroup() %>% 
+  group_by(hab_2025, origin_status) %>% 
+  summarise(avg_cover= mean(sum_cover)) %>% 
+  pivot_wider(names_from = origin_status, values_from = avg_cover, values_fill = list(avg_cover = NA))
+
+## bare ground by habitat types and time
 
 #indicator species analysis-do communities change over time-does management intensity explain it? significance test
 # communitiy similarity analysis-NMDS?
-load("processed_data/tabular/foliar_all.RData")
-
-foliar_all %>% 
-  left_join(gp_mgmt_sf, by= "grid_point") %>% 
-  filter(survey_sequence == "2011-12") %>% 
-  group_by(origin_status, hab_2010) %>% 
-  summarise(origin_avg_cover=mean(intercepts_pct))
-  
-
