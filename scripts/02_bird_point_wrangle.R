@@ -40,9 +40,9 @@ planted_species <- c("AGRCRI","THIINT", "MEDSAT", "ZEAMAY", "TRIAES","TRIINC", "
 # Add new column based on native status and species name
 veg_meta <- veg_meta %>%
   mutate(origin_status = case_when(
-    plant_native_status == "native" ~ NA_character_,  # Keep native species as NA or exclude from classification
+    plant_native_status == "native" ~ "native",  # Keep native species as NA or exclude from classification
     key_plant_code %in% planted_species ~ "planted",  # Mark known planted species
-    TRUE ~ "unintentional"  # Default to unintentional for other nonnatives
+    TRUE ~ "weed"  # Default to unintentional for other nonnatives
   ))
 
 str(foliar_all)
@@ -124,7 +124,7 @@ gp_resto_2 <- gp_resto_1 %>%
   ungroup()
 
 gp_mgmt_summary<-gp_resto_2 %>% 
-  left_join(gp_resto_1 %>% distinct(grid_point, bird_MS_pt, hab_2010, hab_2025),
+  left_join(gp_resto_1 %>% distinct(grid_point, bird_MS_pt, hab_2010, hab_2025, type1_biome),
             by= "grid_point")
 
 # add geometry to make grid point management summary a SF object we can map
@@ -146,6 +146,7 @@ save(veg_meta, file ="processed_data/tabular/veg_meta_CCmod.RData")
 write.csv(veg_meta, file="processed_data/tabular/veg_meta_CCmod.csv", row.names = FALSE)
 
 save(foliar_all, file ="processed_data/tabular/foliar_all.RData")
+save(foliar_top, file = "processed_data/tabular/foliar_top.RData")
 
 ## gp history and management type summary ----
 save(gp_mgmt_sf, file ="processed_data/tabular/gp_mgmt_sf.RData" )
