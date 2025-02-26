@@ -8,7 +8,8 @@ load("processed_data/tabular/bird_points_hab1.RData")# long table with mgmt hist
 load("processed_data/tabular/gp_mgmt_summary.RData")# wide table with one gp per row, summary hab and restor history
 load("processed_data/tabular/gp_mgmt_sf.RData")# spatial feature grid points and summary hab + resto history
 load("processed_data/spatial/MPG_bound.RData")# spatial feature MPG boundary
-load("processed_data/tabular/foliar_all.RData")
+load("processed_data/tabular/foliar_all.RData") # long table, any hit veg
+load("processed_data/tabular/foliar_top.RData") #long table, top hit veg
 
 # exploratory data analysis ----
 ## how does veg data line up with habitat categories
