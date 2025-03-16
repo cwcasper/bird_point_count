@@ -1,766 +1,766 @@
 "key_plant_species","key_plant_code","plant_name_sci","plant_name_syn","plant_name_common","plant_name_family","plant_native_status","plant_life_cycle","plant_life_form","origin_status"
-360,"NV","no vegetation",NA,"no vegetation","None","none","unknown","none","unintentional"
-6,"STINEL","Stipa nelsonii","Achnatherum nelsonii","Columbia needlegrass","Poaceae","native","perennial","graminoid",NA
-409,"POAPAL","Poa palustris",NA,"fowl bluegrass","Poaceae","native","perennial","graminoid",NA
-407,"POACUS","Poa cusickii",NA,"Cusick's bluegrass","Poaceae","native","perennial","graminoid",NA
-275,"HORJUB","Hordeum jubatum",NA,"foxtail barley","Poaceae","native","perennial","graminoid",NA
-366,"ORYZ_SP","Oryzopsis spp.",NA,"ricegrass","Poaceae","native","perennial","graminoid",NA
-198,"ELYLAN","Elymus lanceolatus",NA,"thickspike wheatgrass","Poaceae","native","perennial","graminoid",NA
-235,"FESOVI","Festuca ovina",NA,"sheep fescue","Poaceae","native","perennial","graminoid",NA
-76,"BROCAR","Bromus carinatus",NA,"mountain brome","Poaceae","native","perennial","graminoid",NA
-256,"GLYSTR","Glyceria striata",NA,"Glyceria striata","Poaceae","native","perennial","graminoid",NA
-746,"BROCIL","Bromus ciliatus",NA,"fringed brome","Poaceae","native","perennial","graminoid",NA
-766,"STIRIC","Stipa richardsonii","Achnatherum richardsonii","Richardson's needlegrass","Poaceae","native","perennial","graminoid",NA
-236,"FESSUB","Festuca subulata",NA,"bearded fescue","Poaceae","native","perennial","graminoid",NA
-83,"BROVUL","Bromus vulgaris",NA,"Columbia brome","Poaceae","native","perennial","graminoid",NA
-649,"DESCES","Deschampsia cespitosa",NA,"tufted hairgrass","Poaceae","native","perennial","graminoid",NA
-437,"PSESPI","Pseudoroegneria spicata",NA,"bluebunch wheatgrass","Poaceae","native","perennial","graminoid",NA
-201,"ELYTRA","Elymus trachycaulus",NA,"slender wild rye","Poaceae","native","perennial","graminoid",NA
-233,"FESIDA","Festuca idahoensis",NA,"Idaho fescue","Poaceae","native","perennial","graminoid",NA
-757,"MELI_SP","Melica spp.",NA,"oniongrass","Poaceae","native","perennial","graminoid",NA
-408,"POAWHE","Poa wheeleri","Poa nervosa","Wheeler’s bluegrass","Poaceae","native","perennial","graminoid",NA
-686,"ELYSMI","Elymus smithii","Pascopyrum smithii, Agropyron smithii ","western wheatgrass","Poaceae","native","perennial","graminoid",NA
-88,"CALA_SP","Calamagrostis spp.",NA,"reedgrass","Poaceae","native","perennial","graminoid",NA
-197,"ELYGLA","Elymus glaucus",NA,"blue wild rye","Poaceae","native","perennial","graminoid",NA
-286,"KOEMAC","Koeleria macrantha",NA,"June grass","Poaceae","native","perennial","graminoid",NA
-772,"TRIS_SP","Trisetum spp.",NA,"trisetum","Poaceae","native","perennial","graminoid",NA
-75,"BOUGRA","Bouteloua gracilis",NA,"blue grama grass","Poaceae","native","perennial","graminoid",NA
-137,"CINLAT","Cinna latifolia ",NA,"drooping woodreed ","Poaceae","native","perennial","graminoid",NA
-335,"MELBUL","Melica bulbosa",NA,"oniongrass","Poaceae","native","perennial","graminoid",NA
-720,"MELSUB","Melica subulata",NA,"Alaska oniongrass","Poaceae","native","perennial","graminoid",NA
-738,"BOUCUR","Bouteloua curtipendula",NA,"sideoats grama","Poaceae","native","perennial","graminoid",NA
-13,"AGRSCA","Agrostis scabra",NA,"rough bentgrass","Poaceae","native","perennial","graminoid",NA
-86,"CALCAN","Calamagrostis canadensis",NA,"bluejoint","Poaceae","native","perennial","graminoid",NA
-511,"SPOCRY","Sporobolus cryptandrus",NA,"sand dropseed","Poaceae","native","perennial","graminoid",NA
-671,"TRICAN","Trisetum canescens","Trisetum cernuum subsp. canescens","tall trisetum","Poaceae","native","perennial","graminoid",NA
-252,"GLYELA","Glyceria elata",NA,"tall mannagrass ","Poaceae","native","perennial","graminoid",NA
-532,"TRICER","Trisetum cernuum ssp. canescens","Trisetum canescens","tall trisetum","Poaceae","native","perennial","graminoid",NA
-195,"ELYCAN","Elymus canadensis",NA,"Canada wildrye ","Poaceae","native","perennial","graminoid",NA
-196,"ELYELY","Elymus elymoides",NA,"bottlebrush squirreltail","Poaceae","native","perennial","graminoid",NA
-411,"POASEC","Poa secunda","Poa sandbergii, Poa nevadensis or P. juncifolia","Sandberg's bluegrass","Poaceae","native","perennial","graminoid",NA
-232,"FESCAM","Festuca campestris","Festuca scabrella var. major","rough fescue","Poaceae","native","perennial","graminoid",NA
-667,"DANCAL","Danthonia californica",NA,"California oatgrass","Poaceae","native","perennial","graminoid",NA
-4,"STIHYM","Stipa hymenoides","Achnatherum hymenoides, Oryzopsis hymenoides","Indian ricegrass","Poaceae","native","perennial","graminoid",NA
-53,"ARIPUR","Aristida purpurea var. longiseta","Aristida longiseta","three-awn","Poaceae","native","perennial","graminoid",NA
-668,"DANINT","Danthonia intermedia ",NA,"timber oatgrass","Poaceae","native","perennial","graminoid",NA
-571,"VULOCT","Vulpia octoflora",NA,"sixweeks fescue","Poaceae","native","annual","graminoid",NA
-299,"ELYCIN","Elymus cinereus","Leymus cinereus","basin wildrye","Poaceae","native","perennial","graminoid",NA
-7,"STIOCC","Stipa occidentalis","Stipa occidentalis","western needlegrass","Poaceae","native","perennial","graminoid",NA
-253,"GLYGRA","Glyceria grandis",NA,"American mannagrass","Poaceae","native","perennial","graminoid",NA
-87,"CALRUB","Calamagrostis rubescens",NA,"pinegrass","Poaceae","native","perennial","graminoid",NA
-719,"GLYBOR","Glyceria borealis",NA,"small floating manna grass","Poaceae","native","perennial","graminoid",NA
-173,"DANUNI","Danthonia unispicata",NA,"onespike oatgrass","Poaceae","native","perennial","graminoid",NA
-26,"ANDGER","Andropogon gerardii",NA,"big bluestem","Poaceae","native","perennial","graminoid",NA
-180,"DICACU","Dichanthelium acuminatum var. acuminatum",NA,"western witchgrass","Poaceae","native","perennial","graminoid",NA
-265,"STICOM","Stipa comata","Hesperostipa comata ssp. intermedia","needle and thread","Poaceae","native","perennial","graminoid",NA
-736,"POAFEN","Poa fendleriana",NA,"muttongrass","Poaceae","native","perennial","graminoid",NA
-357,"STIVIR","Stipa viridula","Nassella viridula","green needlegrass","Poaceae","native","perennial","graminoid",NA
-234,"FESOCC","Festuca occidentalis",NA,"western fescue","Poaceae","native","perennial","graminoid",NA
-650,"ZIZPAL","Zizania palustris",NA,"northern wildrice","Poaceae","native","annual","graminoid",NA
-264,"HERLAN","Heracleum lanatum",NA,"cow parsnip","Apiaceae","native","perennial","forb",NA
-499,"SIUSUA","Sium suave",NA,"hemlock waterparsnip","Apiaceae","native","perennial","forb",NA
-29,"ANGARG","Angelica arguta",NA,"Lyall's angelica","Apiaceae","native","perennial","forb",NA
-596,"CYMGLA","Cymopterus glaucus",NA,"waxy springparsley","Apiaceae","native","perennial","forb",NA
-316,"LOMTRI","Lomatium triternatum",NA,"nine-leaf lomatium","Apiaceae","native","perennial","forb",NA
-384,"PERMON","Perideridia montana","Perideridia gairdneri ","Gardner's yampah","Apiaceae","native","perennial","forb",NA
-312,"LOMAMB","Lomatium ambiguum",NA,"Wyeth's biscuitroot","Apiaceae","native","perennial","forb",NA
-368,"OSMOCC","Osmorhiza occidentalis",NA,"western sweetroot","Apiaceae","native","perennial","forb",NA
-367,"OSMBER","Osmorhiza berteroi","Osmorhiza chilensis","sweet cicely","Apiaceae","native","perennial","forb",NA
-313,"LOMCOU","Lomatium cous ",NA,"cous biscuitroot","Apiaceae","native","perennial","forb",NA
-314,"LOMDIS","Lomatium dissectum",NA,"fernleaf biscuitroot","Apiaceae","native","perennial","forb",NA
-315,"LOMMAC","Lomatium macrocarpum",NA,"big seed biscuitroot","Apiaceae","native","perennial","forb",NA
-70,"ASTR_SP","Astragalus spp.",NA,"milkvetch","Fabaceae","native","unknown","forb",NA
-371,"OXYT_SP","Oxytropis spp.",NA,"locoweed","Fabaceae","native","perennial","forb",NA
-66,"ASTCAN","Astragalus canadensis",NA,"Canada milkvetch","Fabaceae","native","perennial","forb",NA
-707,"LUPARB","Lupinus arbustus",NA,"longspur lupine","Fabaceae","native","perennial","forb",NA
-320,"LUPSER","Lupinus sericeus",NA,"silky lupine","Fabaceae","native","perennial","forb",NA
-254,"GLYLEP","Glycrrhiza lepidota",NA,"wild licorice","Fabaceae","native","perennial","forb",NA
-69,"ASTPUR","Astragalus purshii",NA,"woollypod milkvetch","Fabaceae","native","perennial","forb",NA
-68,"ASTMIS","Astragalus miser",NA,"timber milkvetch","Fabaceae","native","perennial","forb",NA
-322,"LUPPOL","Lupinus polyphyllus var. humicola","Lupinus wyethii","Wyeth's lupine","Fabaceae","native","perennial","forb",NA
-534,"TRILON","Trifolium longipes",NA,"longstalk clover","Fabaceae","native","perennial","forb",NA
-319,"LUPARG","Lupinus argenteus",NA,"silvery lupine","Fabaceae","native","perennial","forb",NA
-171,"DALPUR","Dalea purpurea",NA,"purple prairie clover","Fabaceae","native","perennial","forb",NA
-639,"DALCAN","Dalea candida ",NA,"white prairie clover","Fabaceae","native","perennial","forb",NA
-369,"OXYBES","Oxytropis besseyi",NA,"Bessey's locoweed","Fabaceae","native","perennial","forb",NA
-321,"LUPI_SP","Lupinus spp.",NA,"lupine","Fabaceae","native","perennial","forb",NA
-67,"ASTINF","Astragalus inflexus",NA,"hariy milkvetch","Fabaceae","native","perennial","forb",NA
-598,"TRIMIC","Trifolium microcephalum",NA,"smallhead clover","Fabaceae","native","annual","forb",NA
-564,"VICAME","Vicia americana",NA,"American vetch","Fabaceae","native","perennial","forb",NA
-303,"LINLEW","Linum lewisii ",NA,"Lewis flax","Linaceae","native","perennial","forb",NA
-1,"ABIGRA","Abies grandis",NA,"grand fir","Pinaceae","native","perennial","tree",NA
-291,"LAROCC","Larix occidentalis",NA,"western larch","Pinaceae","native","perennial","tree",NA
-396,"PICENG","Picea engelmannii",NA,"Englemann spruce","Pinaceae","native","perennial","tree",NA
-398,"PINMON","Pinus monticola",NA,"white pine","Pinaceae","native","perennial","tree",NA
-2,"ABILAS","Abies lasiocarpa",NA,"subalpine fir","Pinaceae","native","perennial","tree",NA
-399,"PINPON","Pinus ponderosa",NA,"ponderosa pine","Pinaceae","native","perennial","tree",NA
-397,"PINCON","Pinus contorta",NA,"lodgepole pine","Pinaceae","native","perennial","tree",NA
-436,"PSEMEN","Pseudotsuga menziesii",NA,"Douglas-fir","Pinaceae","native","perennial","tree",NA
-476,"SANOCC","Sanguisorba occidentalis","Sanguisorba annua","prairie burnet","Rosaceae","native","perennial","forb",NA
-591,"CERLED","Cercocarpus ledifolius",NA,"curl-leaf mountain mahogany","Rosaceae","native","perennial","shrub",NA
-427,"POTGRA","Potentilla gracilis",NA,"slender cinquefoil","Rosaceae","native","perennial","forb",NA
-432,"PRUN_SP","Prunus spp.",NA,"cherry","Rosaceae","native","perennial","shrub",NA
-426,"DRYGLA","Drymocallis glandulosa var. glandulosa","Potentilla glandulosa","sticky cinquefoil","Rosaceae","native","perennial","forb",NA
-611,"CRACHR","Crataegus chrysocarpa",NA,"red haw","Rosaceae","native","perennial","shrub",NA
-459,"ROSWOO","Rosa woodsii",NA,"Wood's rose","Rosaceae","native","perennial","shrub",NA
-764,"SPISPL","Spiraea splendens",NA,"rose meadowsweet","Rosaceae","native","perennial","shrub",NA
-727,"DRYARG","Drymocallis arguta","Potentilla arguta","tall cinquefoil","Rosaceae","native","perennial","forb",NA
-424,"POTBIE","Potentilla biennis",NA,"biennial cinquefoil","Rosaceae","native","biennial","forb",NA
-395,"PHYMAL","Physocarpus malvaceus",NA,"ninebark","Rosaceae","native","perennial","shrub",NA
-728,"ROSACI","Rosa acicularis",NA,"prickly rose","Rosaceae","native","perennial","shrub",NA
-250,"GEUTRI","Geum triflorum",NA,"prairie smoke","Rosaceae","native","perennial","forb",NA
-431,"PRUEMA","Prunus emarginata",NA,"bitter cherry","Rosaceae","native","perennial","shrub",NA
-439,"PURTRI","Purshia tridentata",NA,"antelope bitterbrush","Rosaceae","native","perennial","shrub",NA
-461,"RUBPAR","Rubus parviflorus",NA,"thimbleberry","Rosaceae","native","perennial","shrub",NA
-457,"ROSGYM","Rosa gymnocarpa",NA,"dwarf rose","Rosaceae","native","perennial","shrub",NA
-24,"AMEALN","Amelanchier alnifolia",NA,"saskatoon","Rosaceae","native","perennial","shrub",NA
-433,"PRUVIR","Prunus virginiana",NA,"chokecherry","Rosaceae","native","perennial","shrub",NA
-249,"GEUMAC","Geum macrophyllum",NA,"largeleaf avens","Rosaceae","native","perennial","forb",NA
-238,"FRAVIR","Fragaria virginiana",NA,"Virginia strawberry","Rosaceae","native","perennial","forb",NA
-460,"RUBIDA","Rubus idaeus",NA,"American red raspberry","Rosaceae","native","perennial","shrub",NA
-458,"ROSA_SP","Rosa spp.",NA,"rose","Rosaceae","native","perennial","shrub",NA
-509,"SPIBET","Spiraea betulifolia",NA,"white spirea","Rosaceae","native","perennial","shrub",NA
-161,"CRADOU","Crataegus douglasii",NA,"black hawthorn","Rosaceae","native","perennial","shrub",NA
-237,"FRAVES","Fragaria vesca",NA,"woodland strawberry","Rosaceae","native","perennial","forb",NA
-505,"SORSCO","Sorbus scopulina",NA,"Greene's mountain ash","Rosaceae","native","perennial","shrub",NA
-273,"HOLDIS","Holodiscus discolor",NA,"oceanspray","Rosaceae","native","perennial","shrub",NA
-785,"TAXBRE","Taxus brevifolia",NA,"Pacific yew","Taxaceae","native","perennial","tree",NA
-3,"ACEGLA","Acer glabrum",NA,"Rocky Mountain maple","Aceraceae","native","perennial","shrub",NA
-362,"OPUFRA","Opuntia fragilis",NA,"jump cactus","Cactaceae","native","perennial","forb",NA
-159,"CORSER","Cornus sericea",NA,"red-osier dogwood","Cornaceae","native","perennial","shrub",NA
-702,"CORCAN","Cornus canadensis",NA,"bunchberry dogwood","Cornaceae","native","perennial","forb",NA
-676,"PYRO_SP","Pyrola spp.",NA,"wintergreen","Ericaceae","native","perennial","forb",NA
-440,"PYRASA","Pyrola asarifolia",NA,"liverleaf wintergreen","Ericaceae","native","perennial","forb",NA
-133,"CHIUMB","Chimaphila umbellata",NA,"pipsissewa","Ericaceae","native","perennial","forb",NA
-441,"PYRCHL","Pyrola chlorantha",NA,"greenflowered wintergreen","Ericaceae","native","perennial","forb",NA
-553,"VACC_SP","Vaccinium spp.",NA,"huckleberry","Ericaceae","native","perennial","shrub",NA
-552,"VACSCO","Vaccinium scoparium",NA,"grouse whortleberry","Ericaceae","native","perennial","shrub",NA
-551,"VACGLO","Vaccinium globulare ","Vaccinium membranaceum","thinleaf huckleberry","Ericaceae","native","perennial","shrub",NA
-340,"MENFER","Menziesia ferruginea ",NA,"rusty menziesia","Ericaceae","native","perennial","shrub",NA
-550,"VACCAE","Vaccinium caespitosum","Vaccinium cespitosum","dwarf bilberry","Ericaceae","native","perennial","shrub",NA
-438,"PTEAND","Pterospora andromedea",NA,"woodland pinedrops","Ericaceae","native","perennial","forb",NA
-758,"MONUNI","Moneses uniflora",NA,"single delight","Ericaceae","native","perennial","forb",NA
-50,"ARCUVA","Arctostaphylos uva-ursi ",NA,"kinnikinnick","Ericaceae","native","perennial","shrub",NA
-722,"PYRPIC","Pyrola picta",NA,"whiteveined wintergreen","Ericaceae","native","perennial","forb",NA
-364,"ORTSEC","Orthilia secunda","Pyrola secunda","sidebells wintergreen","Ericaceae","native","perennial","forb",NA
-646,"IRIMIS","Iris missouriensis",NA,"Rocky Mountain Iris","Iridaceae","native","perennial","forb",NA
-498,"SISMON","Sisyrinchium montanum",NA,"blue-eyed grass","Iridaceae","native","perennial","forb",NA
-280,"JUNBAL","Juncus balticus","Juncus arcticus","Baltic rush","Juncaceae","native","perennial","graminoid",NA
-284,"JUNTEN","Juncus tenuis",NA,"poverty rush","Juncaceae","native","perennial","graminoid",NA
-279,"JUNART","Juncus articulatus",NA,"jointleaf rush","Juncaceae","native","perennial","graminoid",NA
-324,"LUZMUL","Luzula multiflora","Luzula campestris var. Multiflora","common woodrush","Juncaceae","native","perennial","graminoid",NA
-282,"JUNENS","Juncus ensifolius",NA,"swordleaf rush","Juncaceae","native","perennial","graminoid",NA
-281,"JUNDUD","Juncus dudleyi",NA,"Dudley's rush","Juncaceae","native","perennial","graminoid",NA
-323,"LUZHIT","Luzula hitchcockii",NA,"Hitchcock's smooth woodrush","Juncaceae","native","perennial","graminoid",NA
-751,"DRAPAR","Dracocephalum parviflorum",NA,"American dragonhead","Lamiaceae","native","perennial","forb",NA
-607,"PHYPAR","Physostegia parviflora",NA,"western false dragonhead","Lamiaceae","native","perennial","forb",NA
-657,"LYCASP","Lycopus asper",NA,"rough bugleweed","Lamiaceae","native","perennial","forb",NA
-338,"MENARV","Mentha arvensis",NA,"mint","Lamiaceae","native","perennial","forb",NA
-9,"AGAURT","Agastache urticifolia",NA,"giant horsemint ","Lamiaceae","native","perennial","forb",NA
-351,"MONFIS","Monarda fistulosa",NA,"wild bergamot","Lamiaceae","native","perennial","forb",NA
-434,"PRUVUL","Prunella vulgaris",NA,"self-heal","Lamiaceae","native","perennial","forb",NA
-605,"STAPUL","Stachys palustris","Stachys pilosa","marsh hedge-nettle","Lamiaceae","native","perennial","forb",NA
-293,"LEMN_SP","Lemna spp.",NA,"duckweed","Lemnaceae","native","perennial","forb",NA
-510,"SPIPOL","Spirodela polyrrhiza ",NA,"common duckmeat","Lemnaceae","native","perennial","forb",NA
-292,"LEMMIN","Lemna minor",NA,"small duckweed","Lemnaceae","native","perennial","forb",NA
-573,"XERTEN","Xerophyllum tenax ",NA,"beargrass","Liliaceae","native","perennial","forb",NA
-16,"ALLCER","Allium cernuum",NA,"nodding onion","Liliaceae","native","perennial","forb",NA
-515,"STRAMP","Streptopus amplexifolius",NA,"claspleaf twistedstalk","Liliaceae","native","perennial","forb",NA
-329,"MAISTE","Maianthemum stellatum",NA,"starry false lily of the valley","Liliaceae","native","perennial","forb",NA
-328,"MAIRAC","Maianthemum racemosum",NA,"false Solomon's-seal","Liliaceae","native","perennial","forb",NA
-514,"STEOCC","Stenanthium occidentale",NA,"western featherbells","Liliaceae","native","perennial","forb",NA
-239,"FRIPUD","Fritillaria pudica",NA,"yellow bell","Liliaceae","native","perennial","forb",NA
-430,"PROTRA","Prosartes trachycarpa","Disporum trachycarpum","roughfruit fairybells","Liliaceae","native","perennial","forb",NA
-533,"TRIGRA","Triteleia grandiflora","Brodiaea douglasii","triteleia","Liliaceae","native","perennial","forb",NA
-151,"CLIUNI","Clintonia uniflora",NA,"bead lily","Liliaceae","native","perennial","forb",NA
-563,"VERVIR","Veratrum viride",NA,"green false hellebore","Liliaceae","native","perennial","forb",NA
-227,"ERYGRA","Erythronium grandiflorum",NA,"glacier lily","Liliaceae","native","perennial","forb",NA
-576,"TOXVEN","Toxicoscordion venenosum ","Zigadenus venenosum ","death camas","Liliaceae","native","perennial","forb",NA
-709,"TRIOVA","Trillium ovatum",NA,"western trillium","Liliaceae","native","perennial","forb",NA
-339,"MENDIS","Mentzelia dispersa",NA,"small-flowered blazing-star","Loasaceae","native","annual","forb",NA
-341,"MENLAE","Mentzelia laevicaulis",NA,"blazing-star","Loasaceae","native","perennial","forb",NA
-508,"SPHCOC","Sphaeralcea coccinea",NA,"scarlet globemallow","Malvaceae","native","perennial","forb",NA
-623,"ILIRIV","Iliamna rivularis",NA,"streambank wild hollyhock","Malvaceae","native","perennial","forb",NA
-796,"ANDSCO","Andropogon scoparius","Schizachyrium scoparium","little bluestem","Poaceae ","native","unknown","graminoid",NA
-244,"GALTRI","Galium triflorum",NA,"fragrant bedstraw","Rubiaceae","native","perennial","forb",NA
-241,"GALAPA","Galium aparine",NA,"sticky willy","Rubiaceae","native","annual","forb",NA
-242,"GALBOR","Galium boreale",NA,"northern bedstraw","Rubiaceae","native","perennial","forb",NA
-537,"TYPLAT","Typha latifolia",NA,"broadleaf cattail","Typhaceae","native","perennial","forb",NA
-779,"VIONEP","Viola nephrophylla",NA,"northern bog violet","Violaceae","native","perennial","forb",NA
-568,"VIONUT","Viola nuttallii",NA,"Nuttall's violet","Violaceae","native","perennial","forb",NA
-570,"VIOL_SP","Viola spp.",NA,"violet","Violaceae","native","perennial","forb",NA
-730,"VIOMAC","Viola macloskeyi",NA,"small white violet","Violaceae","native","perennial","forb",NA
-569,"VIOORB","Viola orbiculata",NA,"round-leaved violet","Violaceae","native","perennial","forb",NA
-565,"VIOADU","Viola adunca",NA,"western violet","Violaceae","native","perennial","forb",NA
-566,"VIOCAN","Viola canadensis",NA,"Canada violet","Violaceae","native","perennial","forb",NA
-567,"VIOGLA","Viola glabella",NA,"pioneer violet","Violaceae","native","perennial","forb",NA
-592,"ARCDOU","Arceuthobium douglasii ",NA,"Douglas-fir dwarf mistletoe","Viscaceae","native","perennial","shrub",NA
-48,"ARCAME","Arceuthobium americanum ",NA,"lodgepole pine dwarf mistletoe","Viscaceae","native","perennial","shrub",NA
-45,"ARANUD","Aralia nudicaulis",NA,"wild sarsaparilla","Araliaceae","native","perennial","forb",NA
-688,"SOLRIG","Solidago rigida","Oligoneuron rigidum var. humile","stiff goldenrod","Asteraceae","native","perennial","forb",NA
-160,"CORTIN","Coreopsis tinctoria",NA,"golden tickseed","Asteraceae","native","perennial","forb",NA
-222,"ERIG_SP","Erigeron spp.",NA,"fleabane","Asteraceae","native","unknown","forb",NA
-487,"SENTRI","Senecio triangularis",NA,"arrowleaf groundsel ","Asteraceae","native","perennial","forb",NA
-54,"ARNCOR","Arnica cordifolia",NA,"heartleaf arnica","Asteraceae","native","perennial","forb",NA
-36,"ANTROS","Antennaria rosea",NA,"rosy pussytoes","Asteraceae","native","perennial","forb",NA
-262,"HELANN","Helianthus annuus",NA,"common sunflower","Asteraceae","native","annual","forb",NA
-63,"ARTTRI","Artemisia tridentata",NA,"big sagebrush","Asteraceae","native","perennial","shrub",NA
-617,"ARTBIE","Artemisia biennis",NA,"biennial wormwood","Asteraceae","native","biennial","forb",NA
-141,"CIRUND","Cirsium undulatum",NA,"wavy-leaf thistle","Asteraceae","native","perennial","forb",NA
-57,"ARNSOR","Arnica sororia",NA,"twin arnica","Asteraceae","native","perennial","forb",NA
-61,"ARTFRI","Artemisia frigida",NA,"fringed sagebrush","Asteraceae","native","perennial","shrub",NA
-518,"SYMERI","Symphyotrichum ericoides",NA,"white heath aster","Asteraceae","native","perennial","forb",NA
-25,"ANAMAR","Anaphalis margaritacea",NA,"pearly everlasting","Asteraceae","native","perennial","forb",NA
-162,"CREATR","Crepis atribarba",NA,"slender hawksbeard","Asteraceae","native","perennial","forb",NA
-263,"HELMUL","Heliomeris multiflora",NA,"showy goldeneye","Asteraceae","native","perennial","forb",NA
-695,"ANTCOR","Antennaria corymbosa",NA,"flat-top pussytoes","Asteraceae","native","perennial","forb",NA
-615,"HELMAX","Helianthus maximiliani ",NA,"Maximilian sunflower","Asteraceae","native","perennial","forb",NA
-372,"PACCAN","Packera cana","Senecio canus","woolly groundsel","Asteraceae","native","perennial","forb",NA
-212,"ERICOR","Erigeron corymbosus",NA,"longleaf fleabane","Asteraceae","native","perennial","forb",NA
-31,"ANTDIM","Antennaria dimorpha",NA,"low pussytoes","Asteraceae","native","perennial","forb",NA
-211,"ERICOM","Erigeron compositus",NA,"cutleaf daisy","Asteraceae","native","perennial","forb",NA
-30,"ANTANA","Antennaria anaphaloides",NA,"pearly pussytoes","Asteraceae","native","perennial","forb",NA
-220,"ERIPUM","Erigeron pumilus",NA,"shaggy fleabane","Asteraceae","native","perennial","forb",NA
-694,"ADEBIC","Adenocaulon bicolor",NA,"pathfinder","Asteraceae","native","perennial","forb",NA
-11,"AGOGLA","Agoseris glauca",NA,"false-dandelion","Asteraceae","native","perennial","forb",NA
-647,"RUDHIR","Rudbeckia hirta",NA,"blackeyed Susan","Asteraceae","native","perennial","forb",NA
-788,"LACBIE","Lactuca biennis",NA,"tall blue lettuce","Asteraceae","native","biennial","forb",NA
-32,"ANTLUZ","Antennaria luzuloides",NA,"silvery brown pussytoes","Asteraceae","native","perennial","forb",NA
-259,"GRISQU","Grindelia squarrosa",NA,"curlycup gumweed","Asteraceae","native","perennial","forb",NA
-697,"PACPSE","Packera pseudaurea",NA,"false gold groundsel","Asteraceae","native","perennial","forb",NA
-38,"ANTUMB","Antennaria umbrinella",NA,"umber pussytoes","Asteraceae","native","perennial","forb",NA
-672,"GNAPAL","Gnaphalium palustre",NA,"western marsh cudweed","Asteraceae","native","annual","forb",NA
-221,"ERISPE","Erigeron speciosus",NA,"aspen fleabane","Asteraceae","native","perennial","forb",NA
-217,"ERILON","Erigeron lonchophyllus",NA,"spearleaf fleabane","Asteraceae","native","perennial","forb",NA
-62,"ARTLUD","Artemisia ludoviciana",NA,"prairie sagewort","Asteraceae","native","perennial","forb",NA
-37,"ANTE_SP","Antennaria spp.",NA,"pussytoes","Asteraceae","native","perennial","forb",NA
-215,"ERIGLA","Erigeron glabellus",NA,"streamside fleabane","Asteraceae","native","perennial","forb",NA
-240,"GAIARI","Gaillardia aristata",NA,"blanket flower","Asteraceae","native","perennial","forb",NA
-164,"CREP_SP","Crepis spp.",NA,"hawksbeard","Asteraceae","native","perennial","forb",NA
-163,"CREINT","Crepis intermedia",NA,"gray hawksbeard","Asteraceae","native","perennial","forb",NA
-517,"SYMEAT","Symphyotrichum eatonii","Aster eatonii","Eaton's aster","Asteraceae","native","perennial","forb",NA
-271,"HIEUMB","Hieracium umbellatum",NA,"narrowleaf hawkweed","Asteraceae","native","perennial","forb",NA
-181,"DIECAN","Dieteria canescens","Machaeranthera canescens","hoary tansyaster","Asteraceae","native","perennial","forb",NA
-787,"PRESAG","Prenanthes sagittata",NA,"arrowleaf rattlesnakeroot","Asteraceae","native","perennial","forb",NA
-344,"MICNUT","Microseris nutans",NA,"nodding microseris","Asteraceae","native","perennial","forb",NA
-485,"SENSER","Senecio serra",NA,"tall ragwort","Asteraceae","native","perennial","forb",NA
-58,"ARNI_SP","Arnica spp.",NA,"arnica","Asteraceae","native","perennial","forb",NA
-733,"ERISTR","Erigeron strigosus",NA,"prairie fleabane","Asteraceae","native","perennial","forb",NA
-692,"LACPUL","Lactuca pulchella","Lactuca tatarica var. pulchella ","blue lettuce","Asteraceae","native","perennial","forb",NA
-502,"SOLMIS","Solidago missouriensis",NA,"Missouri goldenrod","Asteraceae","native","perennial","forb",NA
-223,"ERISUB","Erigeron subtrinervis",NA,"threenerve fleabane","Asteraceae","native","perennial","forb",NA
-33,"ANTMIC","Antennaria microphylla",NA,"rosy pussytoes","Asteraceae","native","perennial","forb",NA
-619,"EUTOCC","Euthamia occidentalis",NA,"western goldentop","Asteraceae","native","perennial","forb",NA
-266,"HETVIL","Heterotheca villosa",NA,"hairy golden aster","Asteraceae","native","perennial","forb",NA
-270,"HIESCO","Hieracium scouleri","Hieracium albertinum, Hieracium cynoglossoides","Scouler's woollyweed","Asteraceae","native","perennial","forb",NA
-744,"AGOHET","Agoseris heterophylla",NA,"annual agoseris","Asteraceae","native","annual","forb",NA
-72,"BALSAG","Balsamorhiza sagittata",NA,"balsamroot","Asteraceae","native","perennial","forb",NA
-594,"XANSTR","Xanthium strumarium",NA,"rough cocklebur","Asteraceae","native","annual","forb",NA
-773,"ARTE_SP","Artemesia spp.",NA,"artemesia","Asteraceae","native","perennial","shrub",NA
-448,"RATCOL","Ratibida columnifera",NA,"upright prairie coneflower","Asteraceae","native","perennial","forb",NA
-35,"ANTRAC","Antennaria racemosa",NA,"woods pussytoes","Asteraceae","native","perennial","forb",NA
-614,"ATRCAN","Atriplex canescens",NA,"fourwing saltbush","Asteraceae","native","perennial","shrub",NA
-34,"ANTPAR","Antennaria parvifolia",NA,"small-leaf pussytoes","Asteraceae","native","perennial","forb",NA
-698,"RUDOCC","Rudbeckia occidentalis",NA,"western coneflower","Asteraceae","native","perennial","forb",NA
-60,"ARTDRA","Artemisia dracunculus",NA,"wild tarragon","Asteraceae","native","perennial","shrub",NA
-486,"SENE_SP","Senecio spp.",NA,"groundsel","Asteraceae","native","unknown","forb",NA
-157,"CONCAN","Conyza canadensis",NA,"Canada horseweed","Asteraceae","native","biennial","forb",NA
-10,"AGOAUR","Agoseris aurantiaca",NA,"orange agoseris","Asteraceae","native","perennial","forb",NA
-797,"HELUNI","Helianthella uniflora",NA,"Rocky Mountain rockrose","Asteraceae","native","unknown","forb",NA
-231,"EURCON","Eurybia conspicua","Aster conspicuus","western showy aster","Asteraceae","native","perennial","forb",NA
-218,"ERINAU","Ericameria nauseosa","Chrysothamnus nauseosus","gray rabbitbrush","Asteraceae","native","perennial","shrub",NA
-269,"HIEALB","Hieracium albiflorum",NA,"white hawkweed","Asteraceae","native","perennial","forb",NA
-792,"PSEMAC","Pseudognaphalium macounii",NA,"Macoun's cudweed","Asteraceae","native","biennial","forb",NA
-127,"CHADOU","Chaenactis douglasii ",NA,"Douglas' dustymaiden","Asteraceae","native","perennial","forb",NA
-621,"ARTCAN","Artemisia cana",NA,"silver sagebrush","Asteraceae","native","perennial","shrub",NA
-519,"SYMLAE","Symphyotrichum laeve","Aster laevis","smooth blue aster","Asteraceae","native","perennial","forb",NA
-500,"SOLLEP","Solidago lepida","Solidago canadensis","Western Canada goldenrod","Asteraceae","native","perennial","forb",NA
-55,"ARNFUL","Arnica fulgens",NA,"foothill arnica","Asteraceae","native","perennial","forb",NA
-601,"SYMFAL","Symphyotrichum falcatum",NA,"white prairie aster","Asteraceae","native","perennial","forb",NA
-216,"ERILAN","Eriophyllum lanatum",NA,"common woolly sunflower","Asteraceae","native","perennial","forb",NA
-613,"ANTNEG","Antennaria neglecta",NA,"field pussytoes","Asteraceae","native","perennial","forb",NA
-326,"MADGLO","Madia glomerata",NA,"mountain tarweed","Asteraceae","native","annual","forb",NA
-213,"ERIDIV","Erigeron divergens",NA,"spreading fleabane","Asteraceae","native","biennial","forb",NA
-677,"AGOS_SP","Agoseris spp.",NA,"agoseris","Asteraceae","native","perennial","forb",NA
-135,"CHRVIS","Chrysothamnus viscidiflorus",NA,"green rabbitbrush","Asteraceae","native","perennial","shrub",NA
-5,"ACHMIL","Achillea millefolium",NA,"western yarrow","Asteraceae","native","perennial","forb",NA
-56,"ARNLAT","Arnica latifolia",NA,"broadleaf arnica","Asteraceae","native","perennial","forb",NA
-484,"SENINT","Senecio integerrimus",NA,"lambstongue groundsel","Asteraceae","native","perennial","forb",NA
-18,"ALNVIR","Alnus viridis ",NA,"green alder","Betulaceae","native","perennial","shrub",NA
-17,"ALNINC","Alnus incana",NA,"gray alder","Betulaceae","native","perennial","shrub",NA
-630,"BETOCC","Betula occidentalis",NA,"water birch","Betulaceae","native","perennial","tree",NA
-150,"PERSER","Peritoma serrulata ","Cleome serrulata","Rocky Mountain beeplant","Cleomaceae","native","annual","forb",NA
-675,"ELEO_SP","Eleocharis spp.",NA,"spikerush","Cyperaceae","native","perennial","graminoid",NA
-790,"CARAUR","Carex aurea",NA,"golden sedge","Cyperaceae","native","perennial","graminoid",NA
-113,"CARE_SP","Carex spp.",NA,"sedges","Cyperaceae","native","perennial","graminoid",NA
-775,"CARPRAT","Carex praticola",NA,"meadow sedge","Cyperaceae","native","perennial","graminoid",NA
-479,"SCHTAB","Schoenoplectus tabernaemontani ",NA,"softstem bulrush","Cyperaceae","native","perennial","graminoid",NA
-634,"CARKEL","Carex kelloggii",NA,"Kellogg's sedge","Cyperaceae","native","perennial","graminoid",NA
-94,"CARATH","Carex athrostachya",NA,"slender-beak sedge","Cyperaceae","native","perennial","graminoid",NA
-626,"CARAQU","Carex aquatilis",NA,"water sedge","Cyperaceae","native","perennial","graminoid",NA
-106,"CARPEL","Carex pellita","Carex lanuginosa","woolly sedge","Cyperaceae","native","perennial","graminoid",NA
-193,"ELEPAL","Eleocharis palustris",NA,"common spikerush","Cyperaceae","native","perennial","graminoid",NA
-693,"CARCOR","Carex cordillerana",NA,"Cordilleran sedge","Cyperaceae","native","perennial","graminoid",NA
-112,"CARRUP","Carex rupestris",NA,"curly sedge","Cyperaceae","native","perennial","graminoid",NA
-625,"CARDOU","Carex douglasii ",NA,"Douglas' sedge","Cyperaceae","native","perennial","graminoid",NA
-118,"CARXER","Carex xerantica",NA,"white-scale sedge","Cyperaceae","native","perennial","graminoid",NA
-674,"CYPSQU","Cyperus squarrosus",NA,"bearded flatsedge","Cyperaceae","native","annual","graminoid",NA
-100,"CARFIL","Carex filifolia",NA,"threadleaf sedge","Cyperaceae","native","perennial","graminoid",NA
-108,"CARPET","Carex petasata",NA,"Liddon's sedge","Cyperaceae","native","perennial","graminoid",NA
-111,"CARROS","Carex rossii",NA,"Ross' sedge","Cyperaceae","native","perennial","graminoid",NA
-98,"CARCON","Carex concinnoides",NA,"northwestern sedge","Cyperaceae","native","perennial","graminoid",NA
-97,"CARCAN","Carex canescens",NA,"silvery sedge","Cyperaceae","native","perennial","graminoid",NA
-632,"CARFLA","Carex flava",NA,"yellow sedge","Cyperaceae","native","perennial","graminoid",NA
-480,"SCICYP","Scirpus cyperinus",NA,"woolgrass","Cyperaceae","native","perennial","graminoid",NA
-93,"CARARC","Carex arcta",NA,"northern cluster sedge","Cyperaceae","native","perennial","graminoid",NA
-191,"ELEACI","Eleocharis acicularis",NA,"needle spikerush","Cyperaceae","native","perennial","graminoid",NA
-748,"CARMER","Carex mertensii",NA,"Mertens' sedge","Cyperaceae","native","perennial","graminoid",NA
-705,"SCIMIC","Scirpus microcarpus",NA,"panicled bulrush","Cyperaceae","native","perennial","graminoid",NA
-96,"CARBRE","Carex brevior",NA,"shortbeak sedge","Cyperaceae","native","perennial","graminoid",NA
-117,"CARVUL","Carex vulpinoidea",NA,"common fox sedge","Cyperaceae","native","perennial","graminoid",NA
-192,"ELEOVA","Eleocharis ovata",NA,"ovoid spikerush","Cyperaceae","native","annual","graminoid",NA
-704,"CARNEB","Carex nebrascensis",NA,"Nebraska sedge","Cyperaceae","native","perennial","graminoid",NA
-115,"CARUTR","Carex utriculata",NA,"Northwest Territory sedge","Cyperaceae","native","perennial","graminoid",NA
-101,"CARGEY","Carex geyeri",NA,"elk sedge","Cyperaceae","native","perennial","graminoid",NA
-110,"CARRET","Carex retrorsa",NA,"knotsheath sedge","Cyperaceae","native","perennial","graminoid",NA
-102,"CARHOO","Carex hoodii",NA,"Hood's sedge","Cyperaceae","native","perennial","graminoid",NA
-116,"CARVES","Carex vesicaria",NA,"blister sedge","Cyperaceae","native","perennial","graminoid",NA
-747,"CARFOE","Carex foenea","Carex siccata, Carex aenea","dryspike sedge","Cyperaceae","native","perennial","graminoid",NA
-703,"CARDIS","Carex disperma",NA,"softleaf sedge","Cyperaceae","native","perennial","graminoid",NA
-95,"CARBAC","Carex backii",NA,"Rocky Mountain sedge","Cyperaceae","native","perennial","graminoid",NA
-114,"CARSTI","Carex stipata",NA,"awlfruit sedge","Cyperaceae","native","perennial","graminoid",NA
-99,"CARDEW","Carex deweyana",NA,"Dewey sedge","Cyperaceae","native","perennial","graminoid",NA
-103,"CARMIC","Carex microptera",NA,"small-winged sedge","Cyperaceae","native","perennial","graminoid",NA
-109,"CARPRA","Carex praegracilis",NA,"clustered field sedge","Cyperaceae","native","perennial","graminoid",NA
-740,"ZIGELE","Zigadenus elegans",NA,"mountain death camas","Liliaceae ","native","perennial","forb",NA
-710,"EPILAC","Epilobium lactiflorum",NA,"milkflower willow herb","Onagraceae","native","perennial","forb",NA
-618,"OENVIL","Oenothera villosa",NA,"hairy evening primrose","Onagraceae","native","perennial","forb",NA
-203,"EPICIL","Epilobium ciliatum",NA,"fringed willowherb","Onagraceae","native","perennial","forb",NA
-204,"EPIGLA","Epilobium glaberrimum",NA,"glaucus willowherb","Onagraceae","native","perennial","forb",NA
-126,"CHAANG","Chamerion angustifolium","Epilobium angustifolium","fireweed","Onagraceae","native","perennial","forb",NA
-245,"GAUCOC","Gaura coccinea",NA,"scarlet beeblossom","Onagraceae","native","perennial","forb",NA
-642,"OENBIE","Oenothera biennis",NA,"common evening primrose","Onagraceae","native","biennial","forb",NA
-205,"EPIL_SP","Epilobium spp.",NA,"willowherb","Onagraceae","native","unknown","forb",NA
-752,"EPIPAL","Epilobium palustre",NA,"marsh willowherb","Onagraceae","native","perennial","forb",NA
-202,"EPIBRA","Epilobium brachycarpum","Epilobium paniculatum","autumn willowherb","Onagraceae","native","annual","forb",NA
-138,"CIRALP","Circaea alpina",NA,"small enchanter's nightshade","Onagraceae","native","perennial","forb",NA
-146,"CLAPUL","Clarkia pulchella",NA,"pink fairies","Onagraceae","native","annual","forb",NA
-346,"MIMGUT","Mimulus guttatus",NA,"yellow monkeyflower","Phrymaceae","native","perennial","forb",NA
-717,"MIMFLO","Mimulus floribundus ",NA,"manyflowered monkeyflower","Phrymaceae","native","annual","forb",NA
-725,"RHAALN","Rhamnus alnifolia ",NA,"alderleaf buckthorn","Rhamnaceae","native","perennial","shrub",NA
-651,"CEASAN","Ceanothus sanguineus",NA,"redstem ceanothus","Rhamnaceae","native","perennial","shrub",NA
-124,"CEAVEL","Ceanothus velutinus",NA,"snowbrush ceanothus","Rhamnaceae","native","perennial","shrub",NA
-470,"SALSCO","Salix scouleriana",NA,"Scouler's willow","Salicaceae","native","perennial","shrub",NA
-422,"POPTRE","Populus tremuloides",NA,"quaking aspen","Salicaceae","native","perennial","tree",NA
-471,"SALI_SP","Salix spp.",NA,"willow","Salicaceae","native","perennial","shrub",NA
-421,"POPBAL","Populus balsamifera",NA,"black cottonwood","Salicaceae","native","perennial","tree",NA
-467,"SALEXI","Salix exigua",NA,"sandbar willow","Salicaceae","native","perennial","shrub",NA
-466,"SALBEB","Salix bebbiana",NA,"Bebb's willow","Salicaceae","native","perennial","shrub",NA
-504,"SOLTRI","Solanum triflorum",NA,"cutleaf nightshade","Solanaceae","native","annual","forb",NA
-680,"PARPEN","Parietaria pensylvanica",NA,"Pennsylvania pellitory","Urticaceae","native","annual","forb",NA
-548,"URTDIO","Urtica dioica",NA,"stinging nettle","Urticaceae","native","perennial","forb",NA
-40,"APOAND","Apocynum androsaemifolium",NA,"spreading dogbane","Apocynaceae","native","perennial","forb",NA
-41,"APOCAN","Apocynum cannabinum",NA,"common dogbane","Apocynaceae","native","perennial","forb",NA
-158,"CORAUR","Corydalis aurea",NA,"golden corydalis","Fumariaceae","native","biennial","forb",NA
-714,"LISCON","Listera convallarioides",NA,"broadlipped twayblade","Orchidaceae","native","perennial","forb",NA
-712,"CORMER","Corallorhiza mertensiana",NA,"Pacific coralroot","Orchidaceae","native","perennial","forb",NA
-760,"PLASTR","Platanthera stricta",NA,"slender bog orchid","Orchidaceae","native","perennial","forb",NA
-85,"CALBUL","Calypso bulbosa",NA,"fairy slipper","Orchidaceae","native","perennial","forb",NA
-599,"PLADIL","Platanthera dilatata",NA,"scent bottle","Orchidaceae","native","perennial","forb",NA
-715,"PLAELE","Platanthera elegans",NA,"elegant rein orchid","Orchidaceae","native","perennial","forb",NA
-711,"CORMAC","Corallorhiza maculata",NA,"summer coralroot","Orchidaceae","native","perennial","forb",NA
-258,"GOOOBL","Goodyera oblongifolia",NA,"rattlesnake plantain","Orchidaceae","native","perennial","forb",NA
-400,"PIPUNA","Piperia unalascensis",NA,"Alaska rein orchid","Orchidaceae","native","perennial","forb",NA
-168,"CYPMON","Cypripedium montanum",NA,"mountain lady's slipper","Orchidaceae","native","perennial","forb",NA
-713,"CORTRI","Corallorhiza trifida",NA,"yellow coralroot","Orchidaceae","native","perennial","forb",NA
-183,"DODPUL","Dodecatheon pulchellum",NA,"few-flowered shooting star","Primulaceae","native","perennial","forb",NA
-182,"DODCON","Dodecatheon conjugens",NA,"Bonneville shootingstar","Primulaceae","native","perennial","forb",NA
-184,"DODE_SP","Dodecatheon spp.",NA,"shooting star","Primulaceae","native","perennial","forb",NA
-27,"ANDOCC","Androsace occidentalis",NA,"western rock jasmine","Primulaceae","native","annual","forb",NA
-185,"DOUMON","Douglasia montana",NA,"Rocky Mountain dwarf-primrose","Primulaceae","native","perennial","forb",NA
-325,"LYSCIL","Lysimachia ciliata",NA,"fringed loosestrife","Primulaceae","native","perennial","forb",NA
-155,"COMUMB","Comandra umbellata",NA,"bastard toadflax","Santalaceae","native","perennial","forb",NA
-464,"SAGCUN","Sagittaria cuneata ",NA,"arumleaf arrowhead","Alismataceae","native","perennial","forb",NA
-15,"ALITRI","Alisma triviale","Alisma plantago-aquatica","American waterplantain","Alismataceae","native","perennial","forb",NA
-610,"CRYTOR","Cryptantha torreyana",NA,"Torrey's cryptantha","Boraginaceae","native","annual","forb",NA
-755,"HACCIN","Hackelia cinerea",NA,"gray stickseed","Boraginaceae","native","perennial","forb",NA
-739,"MERLON","Mertensia longiflora ",NA,"small bluebells","Boraginaceae","native","perennial","forb",NA
-165,"CRYAMB","Cryptantha ambigua",NA,"basin cryptantha","Boraginaceae","native","annual","forb",NA
-260,"HACDEF","Hackelia deflexa",NA,"nodding stickseed","Boraginaceae","native","perennial","forb",NA
-732,"AMSMEN","Amsinckia menziesii ",NA,"common fiddleneck","Boraginaceae","native","annual","forb",NA
-166,"CRYCEL","Cryptantha celosioides",NA,"northern miner's candle","Boraginaceae","native","perennial","forb",NA
-308,"LITRUD","Lithospermum ruderale",NA,"field gromwell","Boraginaceae","native","perennial","forb",NA
-342,"MEROBL","Mertensia oblongifolia",NA,"leafy bluebell","Boraginaceae","native","perennial","forb",NA
-631,"MERCIL","Mertensia ciliata",NA,"tall fringed bluebells","Boraginaceae","native","perennial","forb",NA
-354,"MYOLAX","Myosotis laxa",NA,"bay forget-me-not","Boraginaceae","native","perennial","forb",NA
-783,"CRYP_SP","Cryptantha spp.",NA,"cryptantha","Boraginaceae","native","unknown","forb",NA
-261,"HACFLO","Hackelia floribunda",NA,"many-flower stickseed","Boraginaceae","native","perennial","forb",NA
-403,"PLASCO","Plagiobothrys scouleri",NA,"Scouler's popcornflower","Boraginaceae","native","annual","forb",NA
-602,"BOERET","Boechera retrofracta","Arabis holboellii ","rockcress","Brassicaceae","native","perennial","forb",NA
-176,"DESINC","Descurainia incana var. incisa","Descurainia incisa","mountain tansy mustard","Brassicaceae","native","perennial","forb",NA
-226,"ERYCAP","Erysimum capitatum",NA,"western wallflower","Brassicaceae","native","perennial","forb",NA
-105,"CAROLI","Cardamine oligosperma",NA,"little western bittercress","Brassicaceae","native","perennial","forb",NA
-74,"BOEPEN","Boechera pendulocarpa","Arabis holboellii ","rockcress","Brassicaceae","native","perennial","forb",NA
-673,"ERYS_SP","Erysimum spp.",NA,"wallflower","Brassicaceae","native","perennial","forb",NA
-107,"CARPEN","Cardamine pensylvanica",NA,"Pennsylvania bittercress","Brassicaceae","native","perennial","forb",NA
-456,"RORPAL","Rorippa palustris",NA,"bog yellowcress","Brassicaceae","native","perennial","forb",NA
-43,"ARAHOL","Arabis holboellii",NA,"Holboell's rockcress","Brassicaceae","native","perennial","forb",NA
-44,"ARAMIC","Arabis microphylla",NA,"littleleaf rockcress","Brassicaceae","native","perennial","forb",NA
-228,"ERYINC","Erysimum inconspicuum",NA,"shy wallflower","Brassicaceae","native","biennial","forb",NA
-780,"BOEC_SP","Boechera spp.","Arabis spp.","rockcress","Brassicaceae","native","perennial","forb",NA
-42,"TURGLA","Turritis glabra","Arabis glabra","tower rockcress","Brassicaceae","native","perennial","forb",NA
-394,"PHYGEY","Physaria geyeri",NA,"Geyer's twinpod","Brassicaceae","native","perennial","forb",NA
-699,"DESPIN","Descurainia pinnata",NA,"western tansy mustard","Brassicaceae","native","perennial","forb",NA
-46,"ARANUT","Arabis nuttallii",NA,"Nuttall's rockcress","Brassicaceae","native","perennial","forb",NA
-759,"PAXMYR","Paxistima myrsinites",NA,"Oregon boxleaf","Celastraceae","native","perennial","shrub",NA
-481,"SEDLAN","Sedum lanceolatum",NA,"lance-leaved stonecrop","Crassulaceae","native","perennial","forb",NA
-482,"SEDSTE","Sedum stenopetalum",NA,"narrow-petalled stonecrop","Crassulaceae","native","perennial","forb",NA
-283,"JUNSCO","Juniperus scopulorum",NA,"Rocky Mountain juniper","Cupressaceae","native","perennial","tree",NA
-681,"JUNCOM","Juniperus communis",NA,"common juniper","Cupressaceae","native","perennial","shrub",NA
-490,"SHECAN","Shepherdia canadensis ",NA,"russet buffaloberry","Elaeagnaceae","native","perennial","shrub",NA
-209,"EQUI_SP","Equisetum spp.",NA,"horsetail","Equisetaceae","native","perennial","forb",NA
-206,"EQUARV","Equisetum arvense",NA,"field horsetail","Equisetaceae","native","perennial","forb",NA
-210,"EQUSYL","Equisetum sylvaticum",NA,"woodland horsetail","Equisetaceae","native","perennial","forb",NA
-207,"EQUHYE","Equisetum hyemale",NA,"rough horsetail","Equisetaceae","native","perennial","forb",NA
-208,"EQULAE","Equisetum laevigatum",NA,"smooth horsetail","Equisetaceae","native","perennial","forb",NA
-246,"GENAMA","Gentianella amarella",NA,"autumn dwarf gentian","Gentianaceae","native","biennial","forb",NA
-753,"GERCAR","Geranium carolinianum",NA,"Carolina geranium","Geranianceae","native","biennial","forb",NA
-248,"GERVIS","Geranium  viscosissimum",NA,"sticky geranium","Geranianceae","native","perennial","forb",NA
-359,"NUPLUT","Nuphar lutea",NA,"yellow pond-lily","Nymphaeaceae","native","perennial","forb",NA
-370,"OXYDIG","Oxyria digyna",NA,"mountain sorrel","Polygonaceae","native","perennial","forb",NA
-383,"POLAMP","Polygonum amphibium","Persicaria amphibia ","water knotweed","Polygonaceae","native","perennial","forb",NA
-416,"POLLAP","Polygonum lapathifolium","Persicaria lapathifolia","curlytop knotweed","Polygonaceae","native","annual","forb",NA
-776,"ERIO_SP","Eriogonum spp.",NA,"buckwheat","Polygonaceae","native","perennial","forb",NA
-224,"ERIUMB","Eriogonum umbellatum",NA,"sulphur buckwheat","Polygonaceae","native","perennial","forb",NA
-628,"POLRAM","Polygonum ramosissimum",NA,"bushy knotweed","Polygonaceae","native","annual","forb",NA
-415,"POLDOU","Polygonum douglasii",NA,"Douglas' knotweed","Polygonaceae","native","annual","forb",NA
-219,"ERIOVA","Eriogonum ovalifolium",NA,"cushion buckwheat","Polygonaceae","native","perennial","forb",NA
-214,"ERIFLA","Eriogonum flavum",NA,"golden buckwheat","Polygonaceae","native","perennial","forb",NA
-131,"CHELEP","Chenopodium leptophyllum",NA,"narrowleaf goosefoot","Amaranthaceae","native","annual","forb",NA
-130,"CHEFRE","Chenopodium fremontii",NA,"Fremont's goosefoot","Amaranthaceae","native","annual","forb",NA
-593,"KRALAN","Krascheninnikovia lanata",NA,"winterfat","Amaranthaceae","native","perennial","shrub",NA
-659,"CHEBOT","Chenopodium botryodes","Chenopodium chenopodioides ","low goosefoot","Amaranthaceae","native","annual","forb",NA
-528,"TOXRYD","Toxicodendron rydbergii",NA,"western poison ivy","Anacardiaceae","native","perennial","forb",NA
-683,"RHUGLA","Rhus glabra ",NA,"smooth sumac","Anacardiaceae","native","perennial","shrub",NA
-327,"BERREP","Berberis repens","Mahonia repens ","Oregon grape","Berberidaceae","native","perennial","shrub",NA
-91,"CAMROT","Campanula rotundifolia",NA,"Scotch harebell","Campanulaceae","native","perennial","forb",NA
-128,"EUPSER","Euphorbia serpyllifolia","Chamaesyce serpyllifolia","thymeleaf sandmat","Euphorbiaceae","native","annual","forb",NA
-272,"HIPVUL","Hippuris vulgaris ",NA,"common mare's-tail","Hippuridaceae","native","perennial","forb",NA
-390,"PHILEW","Philadelphus lewisii",NA,"mock orange","Hydrangeaceae","native","perennial","shrub",NA
-376,"PEDRAC","Pedicularis racemosa ",NA,"sickletop lousewort","Orobanchaceae","native","perennial","forb",NA
-120,"CASLUT","Castilleja lutescens",NA,"stiff yellow Indian paintbrush","Orobanchaceae","native","perennial","forb",NA
-375,"PEDCON","Pedicularis contorta ",NA,"coil-beaked lousewort","Orobanchaceae","native","perennial","forb",NA
-374,"PEDBRA","Pedicularis bracteosa",NA,"bracted lousewort","Orobanchaceae","native","perennial","forb",NA
-756,"MELLIN","Melampyrum lineare",NA,"narrowleaf cowwheat","Orobanchaceae","native","annual","forb",NA
-122,"CASPAL","Castilleja pallescens",NA,"pale Indian paintbrush","Orobanchaceae","native","perennial","forb",NA
-119,"CASHIS","Castilleja hispida",NA,"harsh paintbrush","Orobanchaceae","native","perennial","forb",NA
-123,"CAST_SP","Castilleja spp.",NA,"paintbrush","Orobanchaceae","native","perennial","forb",NA
-121,"CASMIN","Castilleja miniata",NA,"scarlet paintbrush","Orobanchaceae","native","perennial","forb",NA
-363,"OROFAS","Orobanche fasciculata",NA,"clustered broom-rape","Orobanchaceae","native","annual","forb",NA
-251,"GILTEN","Gilia tenerrima",NA,"delicate gilia","Polemoniaceae","native","annual","forb",NA
-152,"COLDEB","Collomia debilis",NA,"alpine collomia","Polemoniaceae","native","perennial","forb",NA
-721,"IPOCON","Ipomopsis spicata",NA,"spiked ipomopsis","Polemoniaceae","native","perennial","forb",NA
-418,"POLPUL","Polemonium pulcherrimum",NA,"Jacob's ladder","Polemoniaceae","native","perennial","forb",NA
-153,"COLLIN","Collomia linearis",NA,"narrow-leaved collomia","Polemoniaceae","native","annual","forb",NA
-296,"LEPSEP","Leptosiphon septentrionalis","Linanthus septentrionalis","northern linanthus","Polemoniaceae","native","annual","forb",NA
-391,"PHLHOO","Phlox hoodii ",NA,"hood’s phlox","Polemoniaceae","native","perennial","forb",NA
-417,"POLMIC","Polemonium micranthum",NA,"littlebells","Polemoniaceae","native","annual","forb",NA
-653,"PHLMUS","Phlox muscoides",NA,"moss phlox","Polemoniaceae","native","perennial","forb",NA
-343,"MICGRA","Microsteris gracilis",NA,"pink microsteris","Polemoniaceae","native","annual","forb",NA
-304,"LEPNUT","Leptosiphon nuttallii","Linanthus nuttallii","Nuttall's linanthus","Polemoniaceae","native","perennial","forb",NA
-392,"PHLKEL","Phlox kelseyi",NA,"Kelsey's phlox","Polemoniaceae","native","perennial","forb",NA
-420,"POLVIS","Polemonium viscosum",NA,"sticky Jacob's-ladder","Polemoniaceae","native","perennial","forb",NA
-298,"LEWRED","Lewisia rediviva",NA,"bitterroot","Portulacaceae","native","perennial","forb",NA
-144,"CLALAN","Claytonia lanceolata",NA,"lanceleaf springbeauty","Portulacaceae","native","perennial","forb",NA
-352,"MONLIN","Montia linearis",NA,"narrowleaved montia","Portulacaceae","native","annual","forb",NA
-145,"CLAPER","Claytonia perfoliata",NA,"miner's lettuce","Portulacaceae","native","perennial","forb",NA
-723,"TRACAR","Trautvetteria caroliniensis",NA,"Carolina bugbane","Ranunculaceae","native","perennial","forb",NA
-777,"RANCYM","Ranunculus cymbalaria",NA,"alkali buttercup","Ranunculaceae","native","perennial","forb",NA
-148,"CLELIG","Clematis ligusticifolia",NA,"virgin's bower","Ranunculaceae","native","perennial","vine",NA
-661,"ACOCOL","Aconitum columbianum ",NA,"Columbian monkshood","Ranunculaceae","native","perennial","forb",NA
-174,"DELBIC","Delphinium bicolor",NA,"larkspur","Ranunculaceae","native","perennial","forb",NA
-447,"RANUNC","Ranunculus uncinatus",NA,"woodland buttercup","Ranunculaceae","native","perennial","forb",NA
-445,"RANGLA","Ranunculus glaberrimus",NA,"sagebrush buttercup","Ranunculaceae","native","perennial","forb",NA
-149,"CLEOCC","Clematis occidentalis",NA,"western virgin's bower","Ranunculaceae","native","perennial","vine",NA
-28,"ANEPAT","Anemone patens","Pulsatilla patens","cutleaf anenome","Ranunculaceae","native","perennial","forb",NA
-624,"RANHYP","Ranunculus hyperboreus",NA,"high northern buttercup","Ranunculaceae","native","perennial","forb",NA
-524,"THAOCC","Thalictrum occidentale",NA,"western meadowrue","Ranunculaceae","native","perennial","forb",NA
-629,"RANSCL","Ranunculus sceleratus",NA,"cursed buttercup","Ranunculaceae","native","perennial","forb",NA
-442,"RANABO","Ranunculus abortivus",NA,"littleleaf buttercup","Ranunculaceae","native","perennial","forb",NA
-523,"THADAS","Thalictrum dasycarpum",NA,"purple meadowrue","Ranunculaceae","native","perennial","forb",NA
-444,"RANFLA","Ranunculus flammula",NA,"greater creeping spearwort","Ranunculaceae","native","perennial","forb",NA
-636,"ANEMUL","Anemone multifida",NA,"Pacific anemone","Ranunculaceae","native","perennial","forb",NA
-724,"RANTES","Ranunculus testiculatus",NA,"bur buttercup","Ranunculaceae","native","perennial","forb",NA
-175,"DELP_SP","Delphinium spp.",NA,"larkspur","Ranunculaceae","native","perennial","forb",NA
-147,"CLECOL","Clematis columbiana",NA,"rock clematis","Ranunculaceae","native","perennial","vine",NA
-8,"ACTRUB","Actaea rubra",NA,"red baneberry","Ranunculaceae","native","perennial","forb",NA
-443,"RANAQU","Ranunculus aquatilis ",NA,"white water crowfoot","Ranunculaceae","native","perennial","forb",NA
-268,"HEUPAR","Heuchera parvifolia",NA,"common alumroot","Saxifragaceae","native","perennial","forb",NA
-267,"HEUCYL","Heuchera cylindrica",NA,"round-leaf alumroot","Saxifragaceae","native","perennial","forb",NA
-350,"MITSTA","Mitella stauropetala",NA,"smallflower miterwort","Saxifragaceae","native","perennial","forb",NA
-348,"MITNUD","Mitella nuda",NA,"naked miterwort","Saxifragaceae","native","perennial","forb",NA
-729,"MITCAU","Mitella caulescens",NA,"slightstemmed miterwort","Saxifragaceae","native","perennial","forb",NA
-309,"LITH_SP","Lithophragma spp.",NA,"woodland-star","Saxifragaceae","native","perennial","forb",NA
-310,"LITTEN","Lithophragma tenellum",NA,"slender woodland-star","Saxifragaceae","native","perennial","forb",NA
-345,"MICODO","Micranthes odontoloma ","Saxifraga odontoloma","streambank saxifrage","Saxifragaceae","native","perennial","forb",NA
-349,"MITE_SP","Mitella spp.",NA,"miterwort","Saxifragaceae","native","perennial","forb",NA
-306,"LITGLA","Lithophragma glabra",NA,"smoth fringecup","Saxifragaceae","native","perennial","forb",NA
-307,"LITPAR","Lithophragma parviflorum",NA,"smallflower woodland-star","Saxifragaceae","native","perennial","forb",NA
-478,"MICNID","Micranthes nidifica","Saxifraga integrifolia","wholeleaf saxifrage","Saxifragaceae","native","perennial","forb",NA
-527,"TIATRI","Tiarella trifoliata",NA,"threeleaf foamflower","Saxifragaceae","native","perennial","forb",NA
-506,"SPAANG","Sparganium angustifolium",NA,"narrowleaf bur-reed","Sparganiaceae","native","perennial","forb",NA
-507,"SPAEUR","Sparganium eurycarpum",NA,"broadfruit bur-reed","Sparganiaceae","native","perennial","forb",NA
-554,"VALDIO","Valeriana dioica",NA,"marsh valerian","Valerianaceae","native","perennial","forb",NA
-404,"PLEMAC","Plectritis macrocera",NA,"white plectritis","Valerianaceae","native","annual","forb",NA
-64,"ASCSPE","Asclepias speciosa",NA,"showy milkweed","Asclepiadaceae","native","perennial","forb",NA
-318,"LONUTA","Lonicera utahensis",NA,"Utah honeysuckle","Caprifoliaceae","native","perennial","shrub",NA
-317,"LONCIL","Lonicera ciliosa",NA,"orange honeysuckle","Caprifoliaceae","native","perennial","vine",NA
-474,"SAMSP","Sambucus sp.",NA,"elderberry","Caprifoliaceae","native","perennial","shrub",NA
-516,"SYMALB","Symphoricarpos albus",NA,"snowberry","Caprifoliaceae","native","perennial","shrub",NA
-473,"SAMRAC","Sambucus racemosa",NA,"red elderberry","Caprifoliaceae","native","perennial","shrub",NA
-301,"LINBOR","Linnaea borealis",NA,"twinflower","Caprifoliaceae","native","perennial","forb",NA
-472,"SAMNIG","Sambucus nigra ssp. cerulea","Sambucus cerulea","blue elderberry","Caprifoliaceae","native","perennial","shrub",NA
-735,"LONINV","Lonicera involucrata",NA,"twinberry honeysuckle","Caprifoliaceae","native","perennial","shrub",NA
-377,"PENALB","Penstemon albertinus",NA,"Albert's penstemon","Plantaginaceae","native","perennial","forb",NA
-731,"PENGRA","Penstemon grandiflorus",NA,"large beardtongue","Plantaginaceae","native","perennial","forb",NA
-154,"COLPAR","Collinsia parviflora",NA,"blue-eyed Mary","Plantaginaceae","native","annual","forb",NA
-378,"PENDIP","Penstemon diphyllus",NA,"twoleaf beardtongue","Plantaginaceae","native","perennial","forb",NA
-644,"PENDEU","Penstemon deustus",NA,"scabland penstemon","Plantaginaceae","native","perennial","forb",NA
-555,"VERAME","Veronica americana",NA,"American speedwell","Plantaginaceae","native","perennial","forb",NA
-609,"GRANEG","Gratiola neglecta ",NA,"clammy hedgehyssop","Plantaginaceae","native","annual","forb",NA
-379,"PENERI","Penstemon eriantherus",NA,"fuzzy tongue penstemon","Plantaginaceae","native","perennial","forb",NA
-73,"BESWYO","Besseya wyomingensis",NA,"prairie kittentails","Plantaginaceae","native","perennial","forb",NA
-382,"PENWIL","Penstemon wilcoxii",NA,"Wilcox's penstemon","Plantaginaceae","native","perennial","forb",NA
-556,"VERANA","Veronica anagallis-aquatica",NA,"water speedwell","Plantaginaceae","native","perennial","forb",NA
-402,"PLAPAT","Plantago patagonica",NA,"woolly plantain","Plantaginaceae","native","annual","forb",NA
-737,"VERSCU","Veronica scutellata",NA,"skullcap speedwell","Plantaginaceae","native","perennial","forb",NA
-380,"PENPRO","Penstemon procerus",NA,"littleflower penstemon","Plantaginaceae","native","perennial","forb",NA
-381,"PENS_SP","Penstemon spp.",NA,"beardtongue","Plantaginaceae","native","perennial","forb",NA
-663,"MOELAT","Moehringia lateriflora",NA,"bluntleaf sandwort","Caryophyllaceae","native","perennial","forb",NA
-682,"CERNUT","Cerastium nutans",NA,"nodding chickweed","Caryophyllaceae","native","perennial","forb",NA
-494,"SILORE","Silene oregana",NA,"Oregon campion","Caryophyllaceae","native","perennial","forb",NA
-51,"ARECON","Arenaria congesta",NA,"ballhead sandwort","Caryophyllaceae","native","perennial","forb",NA
-749,"CERARV","Cerastium arvense",NA,"field chickweed","Caryophyllaceae","native","perennial","forb",NA
-512,"STELON","Stellaria longipes",NA,"long-stalk starwort","Caryophyllaceae","native","perennial","forb",NA
-493,"SILMEN","Silene menziesii",NA,"Menzies' campion","Caryophyllaceae","native","perennial","forb",NA
-762,"SAGSAG","Sagina saginoides",NA,"arctic pearlwort","Caryophyllaceae","native","perennial","forb",NA
-765,"STELONF","Stellaria longifolia",NA,"longleaf starwort","Caryophyllaceae","native","perennial","forb",NA
-491,"SILANT","Silene antirrhina",NA,"sleepy silene","Caryophyllaceae","native","annual","forb",NA
-71,"ATHFIL","Athyrium filix-femina",NA,"common ladyfern","Dryopteridaceae","native","perennial","forb",NA
-794,"DRYEXP","Dryopteris expansa",NA,"spreading woodfern","Dryopteridaceae","native","perennial","forb",NA
-188,"DRYFIL","Dryopteris filix-mas",NA,"male fern","Dryopteridaceae","native","annual","forb",NA
-754,"GYMDRY","Gymnocarpium dryopteris",NA,"western oakfern","Dryopteridaceae","native","perennial","forb",NA
-572,"WOOORE","Woodsia oregana",NA,"Oregon cliff fern","Dryopteridaceae","native","perennial","forb",NA
-169,"CYSFRA","Cystopteris fragilis",NA,"brittle bladderfern","Dryopteridaceae","native","perennial","forb",NA
-789,"POLMUN","Polystichum munitum",NA,"western swordfern","Dryopteridaceae","native","perennial","forb",NA
-452,"RIBLAC","Ribes lacustre",NA,"prickly currant","Grossulariaceae","native","perennial","shrub",NA
-453,"RIBIRR","Ribes irriguum","Ribes oxyacanthoides ssp. irriguum ","Idaho gooseberry","Grossulariaceae","native","perennial","shrub",NA
-451,"RIBINE","Ribes inerme",NA,"whitestem gooseberry","Grossulariaceae","native","perennial","shrub",NA
-450,"RIBHUD","Ribes hudsonianum",NA,"northern black currant","Grossulariaceae","native","perennial","shrub",NA
-616,"RIBAUR","Ribes aureum",NA,"golden currant","Grossulariaceae","native","perennial","shrub",NA
-454,"RIBE_SP","Ribes spp.",NA,"current or gooseberry","Grossulariaceae","native","perennial","shrub",NA
-708,"RIBSET","Ribes setosum ","Ribes oxyacanthoides ssp. setosum","bristly gooseberry","Grossulariaceae","native","perennial","shrub",NA
-449,"RIBCER","Ribes cereum",NA,"wax current","Grossulariaceae","native","perennial","shrub",NA
-455,"RIBVIS","Ribes viscosissimum ",NA,"sticky currant","Grossulariaceae","native","perennial","shrub",NA
-622,"PHACAM","Phacelia campanularia",NA,"desertbells","Hydrophyllaceae","native","annual","forb",NA
-358,"NEMBRE","Nemophila breviflora",NA,"Great Basin blue-eyes","Hydrophyllaceae","native","annual","forb",NA
-276,"HYDCAP","Hydrophyllum capitatum",NA,"ball head waterleaf","Hydrophyllaceae","native","perennial","forb",NA
-389,"PHALIN","Phacelia linearis",NA,"thread-leaf phacelia","Hydrophyllaceae","native","annual","forb",NA
-388,"PHAHAS","Phacelia hastata",NA,"silverleaf phacelia","Hydrophyllaceae","native","perennial","forb",NA
-387,"PHAGLA","Phacelia glandulosa",NA,"glandular phacelia","Hydrophyllaceae","native","perennial","forb",NA
-716,"OROUNI","Orobanche uniflora",NA,"one-flowered broomrape","Orobanchaceae 	","native","annual","forb",NA
-483,"SELSCO","Selaginella scopulorum",NA,"lesser spikemoss","Selaginellaceae","native","perennial","forb",NA
-706,"PTEAQU","Pteridium aquilinum",NA,"western bracken fern","Dennstaedtiaceae","native","perennial","forb",NA
-194,"ELOCAN","Elodea canadensis",NA,"Canada waterweed","Hydrocharitaceae","native","perennial","forb",NA
-549,"UTRVUL","Utricularia vulgaris ",NA,"common bladderwort","Lentibulariaceae","native","perennial","forb",NA
-423,"POTAMP","Potamogeton amplifolius ",NA,"large-leaf pondweed","Potamogetonaceae","native","perennial","forb",NA
-425,"POTFOL","Potamogeton foliosus",NA,"leafy pondweed","Potamogetonaceae","native","perennial","forb",NA
-300,"LIMAQU","Limosella aquatica",NA,"water mudwort","Scrophulariaceae","native","perennial","forb",NA
-365,"ORTTEN","Orthocarpus tenuifolius",NA,"pink owl clover","Scrophulariaceae","native","annual","forb",NA
-574,"ZANPAL","Zannichellia palustris ",NA,"horned pondweed","Zannichelliaceae","native","perennial","forb",NA
-741,"BOTVIR","Botrychium virginianum",NA,"common grapefern ","Ophioglossaceae ","native","perennial","forb",NA
-544,"UNK_FORB",NA,NA,"unknown forb","None","unknown","unknown","forb","unintentional"
-745,"AGRO_SP","Agrostis spp.",NA,"bentgrass","Poaceae","unknown","perennial","graminoid","unintentional"
-81,"BROM_SP","Bromus spp.",NA,"bromes","Poaceae","unknown","unknown","graminoid","unintentional"
-200,"ELYM_SP","Elymus spp.",NA,"wildrye","Poaceae","unknown","unknown","graminoid","unintentional"
-545,"UNK_GRAM",NA,NA,"unknown graminoid","Poaceae","unknown","unknown","graminoid","unintentional"
-770,"STIP_SP","Stipa spp.",NA,"needlegrass","Poaceae","unknown","unknown","graminoid","unintentional"
-768,"UNK_TREE",NA,NA,"unknown tree","unknown","unknown","unknown","tree","unintentional"
-784,"UNKN_SP","Unknown",NA,"unknown","unknown","unknown","unknown","unknown","unintentional"
-767,"UNK_SHRUB",NA,NA,"unknown shrub","unknown","unknown","unknown","shrub","unintentional"
-172,"DALE_SP","Dalea spp.",NA,"prairie clover","Fabaceae","unknown","unknown","forb","unintentional"
-690,"TRIF_SP","Trifolium spp.",NA,"clover","Fabaceae","unknown","unknown","forb","unintentional"
-429,"POTE_SP","Potentilla spp.",NA,"cinquefoil","Rosaceae","unknown","unknown","forb","unintentional"
-289,"LAMI_SP","Lamium spp.",NA,"deadnettle","Lamiaceae","unknown","unknown","forb","unintentional"
-257,"GNAP_SP","Gnaphalium spp.",NA,"cudweed","Asteraceae","unknown","unknown","forb","unintentional"
-771,"SYMP_SP","Symphyotrichum spp.",NA,"aster","Asteraceae","unknown","unknown","forb","unintentional"
-503,"SOLI_SP","Solidago spp.",NA,"goldenrod","Asteraceae","unknown","perennial","forb","unintentional"
-781,"HIER_SP","Hieracium spp.",NA,"hawkweed","Asteraceae","unknown","perennial","forb","unintentional"
-140,"CIRS_SP","Cirsium spp.",NA,"thistle","Asteraceae","unknown","unknown","forb","unintentional"
-178,"DESC_SP","Descurainia spp.",NA,"tansymustard","Brassicaceae","unknown","unknown","forb","unintentional"
-750,"DRAB_SP","Draba spp.",NA,"draba","Brassicaceae","unknown","unknown","forb","unintentional"
-186,"DRANEM","Draba nemorosa",NA,"woods draba","Brassicaceae","unknown","annual","forb","unintentional"
-419,"POLY_SP","Polygonum spp.",NA,"knotweed","Polygonaceae","unknown","unknown","forb","unintentional"
-132,"CHEN_SP","Chenopodium spp.",NA,"goosefoot","Amaranthaceae","unknown","unknown","forb","unintentional"
-691,"RANU_SP","Ranunculus spp.",NA,"buttercup","Ranunculaceae","unknown","unknown","forb","unintentional"
-495,"SILE_SP","Silene spp.",NA,"campion","Caryophyllaceae","unknown","unknown","forb","unintentional"
-769,"CERA_SP","Cerastium spp.",NA,"chickweed","Caryophyllaceae","unknown","unknown","forb","unintentional"
+360,"NV","no vegetation",NA,"no vegetation","None","none","unknown","none","weed"
+6,"STINEL","Stipa nelsonii","Achnatherum nelsonii","Columbia needlegrass","Poaceae","native","perennial","graminoid","native"
+409,"POAPAL","Poa palustris",NA,"fowl bluegrass","Poaceae","native","perennial","graminoid","native"
+407,"POACUS","Poa cusickii",NA,"Cusick's bluegrass","Poaceae","native","perennial","graminoid","native"
+275,"HORJUB","Hordeum jubatum",NA,"foxtail barley","Poaceae","native","perennial","graminoid","native"
+366,"ORYZ_SP","Oryzopsis spp.",NA,"ricegrass","Poaceae","native","perennial","graminoid","native"
+198,"ELYLAN","Elymus lanceolatus",NA,"thickspike wheatgrass","Poaceae","native","perennial","graminoid","native"
+235,"FESOVI","Festuca ovina",NA,"sheep fescue","Poaceae","native","perennial","graminoid","native"
+76,"BROCAR","Bromus carinatus",NA,"mountain brome","Poaceae","native","perennial","graminoid","native"
+256,"GLYSTR","Glyceria striata",NA,"Glyceria striata","Poaceae","native","perennial","graminoid","native"
+746,"BROCIL","Bromus ciliatus",NA,"fringed brome","Poaceae","native","perennial","graminoid","native"
+766,"STIRIC","Stipa richardsonii","Achnatherum richardsonii","Richardson's needlegrass","Poaceae","native","perennial","graminoid","native"
+236,"FESSUB","Festuca subulata",NA,"bearded fescue","Poaceae","native","perennial","graminoid","native"
+83,"BROVUL","Bromus vulgaris",NA,"Columbia brome","Poaceae","native","perennial","graminoid","native"
+649,"DESCES","Deschampsia cespitosa",NA,"tufted hairgrass","Poaceae","native","perennial","graminoid","native"
+437,"PSESPI","Pseudoroegneria spicata",NA,"bluebunch wheatgrass","Poaceae","native","perennial","graminoid","native"
+201,"ELYTRA","Elymus trachycaulus",NA,"slender wild rye","Poaceae","native","perennial","graminoid","native"
+233,"FESIDA","Festuca idahoensis",NA,"Idaho fescue","Poaceae","native","perennial","graminoid","native"
+757,"MELI_SP","Melica spp.",NA,"oniongrass","Poaceae","native","perennial","graminoid","native"
+408,"POAWHE","Poa wheeleri","Poa nervosa","Wheeler’s bluegrass","Poaceae","native","perennial","graminoid","native"
+686,"ELYSMI","Elymus smithii","Pascopyrum smithii, Agropyron smithii ","western wheatgrass","Poaceae","native","perennial","graminoid","native"
+88,"CALA_SP","Calamagrostis spp.",NA,"reedgrass","Poaceae","native","perennial","graminoid","native"
+197,"ELYGLA","Elymus glaucus",NA,"blue wild rye","Poaceae","native","perennial","graminoid","native"
+286,"KOEMAC","Koeleria macrantha",NA,"June grass","Poaceae","native","perennial","graminoid","native"
+772,"TRIS_SP","Trisetum spp.",NA,"trisetum","Poaceae","native","perennial","graminoid","native"
+75,"BOUGRA","Bouteloua gracilis",NA,"blue grama grass","Poaceae","native","perennial","graminoid","native"
+137,"CINLAT","Cinna latifolia ",NA,"drooping woodreed ","Poaceae","native","perennial","graminoid","native"
+335,"MELBUL","Melica bulbosa",NA,"oniongrass","Poaceae","native","perennial","graminoid","native"
+720,"MELSUB","Melica subulata",NA,"Alaska oniongrass","Poaceae","native","perennial","graminoid","native"
+738,"BOUCUR","Bouteloua curtipendula",NA,"sideoats grama","Poaceae","native","perennial","graminoid","native"
+13,"AGRSCA","Agrostis scabra",NA,"rough bentgrass","Poaceae","native","perennial","graminoid","native"
+86,"CALCAN","Calamagrostis canadensis",NA,"bluejoint","Poaceae","native","perennial","graminoid","native"
+511,"SPOCRY","Sporobolus cryptandrus",NA,"sand dropseed","Poaceae","native","perennial","graminoid","native"
+671,"TRICAN","Trisetum canescens","Trisetum cernuum subsp. canescens","tall trisetum","Poaceae","native","perennial","graminoid","native"
+252,"GLYELA","Glyceria elata",NA,"tall mannagrass ","Poaceae","native","perennial","graminoid","native"
+532,"TRICER","Trisetum cernuum ssp. canescens","Trisetum canescens","tall trisetum","Poaceae","native","perennial","graminoid","native"
+195,"ELYCAN","Elymus canadensis",NA,"Canada wildrye ","Poaceae","native","perennial","graminoid","native"
+196,"ELYELY","Elymus elymoides",NA,"bottlebrush squirreltail","Poaceae","native","perennial","graminoid","native"
+411,"POASEC","Poa secunda","Poa sandbergii, Poa nevadensis or P. juncifolia","Sandberg's bluegrass","Poaceae","native","perennial","graminoid","native"
+232,"FESCAM","Festuca campestris","Festuca scabrella var. major","rough fescue","Poaceae","native","perennial","graminoid","native"
+667,"DANCAL","Danthonia californica",NA,"California oatgrass","Poaceae","native","perennial","graminoid","native"
+4,"STIHYM","Stipa hymenoides","Achnatherum hymenoides, Oryzopsis hymenoides","Indian ricegrass","Poaceae","native","perennial","graminoid","native"
+53,"ARIPUR","Aristida purpurea var. longiseta","Aristida longiseta","three-awn","Poaceae","native","perennial","graminoid","native"
+668,"DANINT","Danthonia intermedia ",NA,"timber oatgrass","Poaceae","native","perennial","graminoid","native"
+571,"VULOCT","Vulpia octoflora",NA,"sixweeks fescue","Poaceae","native","annual","graminoid","native"
+299,"ELYCIN","Elymus cinereus","Leymus cinereus","basin wildrye","Poaceae","native","perennial","graminoid","native"
+7,"STIOCC","Stipa occidentalis","Stipa occidentalis","western needlegrass","Poaceae","native","perennial","graminoid","native"
+253,"GLYGRA","Glyceria grandis",NA,"American mannagrass","Poaceae","native","perennial","graminoid","native"
+87,"CALRUB","Calamagrostis rubescens",NA,"pinegrass","Poaceae","native","perennial","graminoid","native"
+719,"GLYBOR","Glyceria borealis",NA,"small floating manna grass","Poaceae","native","perennial","graminoid","native"
+173,"DANUNI","Danthonia unispicata",NA,"onespike oatgrass","Poaceae","native","perennial","graminoid","native"
+26,"ANDGER","Andropogon gerardii",NA,"big bluestem","Poaceae","native","perennial","graminoid","native"
+180,"DICACU","Dichanthelium acuminatum var. acuminatum",NA,"western witchgrass","Poaceae","native","perennial","graminoid","native"
+265,"STICOM","Stipa comata","Hesperostipa comata ssp. intermedia","needle and thread","Poaceae","native","perennial","graminoid","native"
+736,"POAFEN","Poa fendleriana",NA,"muttongrass","Poaceae","native","perennial","graminoid","native"
+357,"STIVIR","Stipa viridula","Nassella viridula","green needlegrass","Poaceae","native","perennial","graminoid","native"
+234,"FESOCC","Festuca occidentalis",NA,"western fescue","Poaceae","native","perennial","graminoid","native"
+650,"ZIZPAL","Zizania palustris",NA,"northern wildrice","Poaceae","native","annual","graminoid","native"
+264,"HERLAN","Heracleum lanatum",NA,"cow parsnip","Apiaceae","native","perennial","forb","native"
+499,"SIUSUA","Sium suave",NA,"hemlock waterparsnip","Apiaceae","native","perennial","forb","native"
+29,"ANGARG","Angelica arguta",NA,"Lyall's angelica","Apiaceae","native","perennial","forb","native"
+596,"CYMGLA","Cymopterus glaucus",NA,"waxy springparsley","Apiaceae","native","perennial","forb","native"
+316,"LOMTRI","Lomatium triternatum",NA,"nine-leaf lomatium","Apiaceae","native","perennial","forb","native"
+384,"PERMON","Perideridia montana","Perideridia gairdneri ","Gardner's yampah","Apiaceae","native","perennial","forb","native"
+312,"LOMAMB","Lomatium ambiguum",NA,"Wyeth's biscuitroot","Apiaceae","native","perennial","forb","native"
+368,"OSMOCC","Osmorhiza occidentalis",NA,"western sweetroot","Apiaceae","native","perennial","forb","native"
+367,"OSMBER","Osmorhiza berteroi","Osmorhiza chilensis","sweet cicely","Apiaceae","native","perennial","forb","native"
+313,"LOMCOU","Lomatium cous ",NA,"cous biscuitroot","Apiaceae","native","perennial","forb","native"
+314,"LOMDIS","Lomatium dissectum",NA,"fernleaf biscuitroot","Apiaceae","native","perennial","forb","native"
+315,"LOMMAC","Lomatium macrocarpum",NA,"big seed biscuitroot","Apiaceae","native","perennial","forb","native"
+70,"ASTR_SP","Astragalus spp.",NA,"milkvetch","Fabaceae","native","unknown","forb","native"
+371,"OXYT_SP","Oxytropis spp.",NA,"locoweed","Fabaceae","native","perennial","forb","native"
+66,"ASTCAN","Astragalus canadensis",NA,"Canada milkvetch","Fabaceae","native","perennial","forb","native"
+707,"LUPARB","Lupinus arbustus",NA,"longspur lupine","Fabaceae","native","perennial","forb","native"
+320,"LUPSER","Lupinus sericeus",NA,"silky lupine","Fabaceae","native","perennial","forb","native"
+254,"GLYLEP","Glycrrhiza lepidota",NA,"wild licorice","Fabaceae","native","perennial","forb","native"
+69,"ASTPUR","Astragalus purshii",NA,"woollypod milkvetch","Fabaceae","native","perennial","forb","native"
+68,"ASTMIS","Astragalus miser",NA,"timber milkvetch","Fabaceae","native","perennial","forb","native"
+322,"LUPPOL","Lupinus polyphyllus var. humicola","Lupinus wyethii","Wyeth's lupine","Fabaceae","native","perennial","forb","native"
+534,"TRILON","Trifolium longipes",NA,"longstalk clover","Fabaceae","native","perennial","forb","native"
+319,"LUPARG","Lupinus argenteus",NA,"silvery lupine","Fabaceae","native","perennial","forb","native"
+171,"DALPUR","Dalea purpurea",NA,"purple prairie clover","Fabaceae","native","perennial","forb","native"
+639,"DALCAN","Dalea candida ",NA,"white prairie clover","Fabaceae","native","perennial","forb","native"
+369,"OXYBES","Oxytropis besseyi",NA,"Bessey's locoweed","Fabaceae","native","perennial","forb","native"
+321,"LUPI_SP","Lupinus spp.",NA,"lupine","Fabaceae","native","perennial","forb","native"
+67,"ASTINF","Astragalus inflexus",NA,"hariy milkvetch","Fabaceae","native","perennial","forb","native"
+598,"TRIMIC","Trifolium microcephalum",NA,"smallhead clover","Fabaceae","native","annual","forb","native"
+564,"VICAME","Vicia americana",NA,"American vetch","Fabaceae","native","perennial","forb","native"
+303,"LINLEW","Linum lewisii ",NA,"Lewis flax","Linaceae","native","perennial","forb","native"
+1,"ABIGRA","Abies grandis",NA,"grand fir","Pinaceae","native","perennial","tree","native"
+291,"LAROCC","Larix occidentalis",NA,"western larch","Pinaceae","native","perennial","tree","native"
+396,"PICENG","Picea engelmannii",NA,"Englemann spruce","Pinaceae","native","perennial","tree","native"
+398,"PINMON","Pinus monticola",NA,"white pine","Pinaceae","native","perennial","tree","native"
+2,"ABILAS","Abies lasiocarpa",NA,"subalpine fir","Pinaceae","native","perennial","tree","native"
+399,"PINPON","Pinus ponderosa",NA,"ponderosa pine","Pinaceae","native","perennial","tree","native"
+397,"PINCON","Pinus contorta",NA,"lodgepole pine","Pinaceae","native","perennial","tree","native"
+436,"PSEMEN","Pseudotsuga menziesii",NA,"Douglas-fir","Pinaceae","native","perennial","tree","native"
+476,"SANOCC","Sanguisorba occidentalis","Sanguisorba annua","prairie burnet","Rosaceae","native","perennial","forb","native"
+591,"CERLED","Cercocarpus ledifolius",NA,"curl-leaf mountain mahogany","Rosaceae","native","perennial","shrub","native"
+427,"POTGRA","Potentilla gracilis",NA,"slender cinquefoil","Rosaceae","native","perennial","forb","native"
+432,"PRUN_SP","Prunus spp.",NA,"cherry","Rosaceae","native","perennial","shrub","native"
+426,"DRYGLA","Drymocallis glandulosa var. glandulosa","Potentilla glandulosa","sticky cinquefoil","Rosaceae","native","perennial","forb","native"
+611,"CRACHR","Crataegus chrysocarpa",NA,"red haw","Rosaceae","native","perennial","shrub","native"
+459,"ROSWOO","Rosa woodsii",NA,"Wood's rose","Rosaceae","native","perennial","shrub","native"
+764,"SPISPL","Spiraea splendens",NA,"rose meadowsweet","Rosaceae","native","perennial","shrub","native"
+727,"DRYARG","Drymocallis arguta","Potentilla arguta","tall cinquefoil","Rosaceae","native","perennial","forb","native"
+424,"POTBIE","Potentilla biennis",NA,"biennial cinquefoil","Rosaceae","native","biennial","forb","native"
+395,"PHYMAL","Physocarpus malvaceus",NA,"ninebark","Rosaceae","native","perennial","shrub","native"
+728,"ROSACI","Rosa acicularis",NA,"prickly rose","Rosaceae","native","perennial","shrub","native"
+250,"GEUTRI","Geum triflorum",NA,"prairie smoke","Rosaceae","native","perennial","forb","native"
+431,"PRUEMA","Prunus emarginata",NA,"bitter cherry","Rosaceae","native","perennial","shrub","native"
+439,"PURTRI","Purshia tridentata",NA,"antelope bitterbrush","Rosaceae","native","perennial","shrub","native"
+461,"RUBPAR","Rubus parviflorus",NA,"thimbleberry","Rosaceae","native","perennial","shrub","native"
+457,"ROSGYM","Rosa gymnocarpa",NA,"dwarf rose","Rosaceae","native","perennial","shrub","native"
+24,"AMEALN","Amelanchier alnifolia",NA,"saskatoon","Rosaceae","native","perennial","shrub","native"
+433,"PRUVIR","Prunus virginiana",NA,"chokecherry","Rosaceae","native","perennial","shrub","native"
+249,"GEUMAC","Geum macrophyllum",NA,"largeleaf avens","Rosaceae","native","perennial","forb","native"
+238,"FRAVIR","Fragaria virginiana",NA,"Virginia strawberry","Rosaceae","native","perennial","forb","native"
+460,"RUBIDA","Rubus idaeus",NA,"American red raspberry","Rosaceae","native","perennial","shrub","native"
+458,"ROSA_SP","Rosa spp.",NA,"rose","Rosaceae","native","perennial","shrub","native"
+509,"SPIBET","Spiraea betulifolia",NA,"white spirea","Rosaceae","native","perennial","shrub","native"
+161,"CRADOU","Crataegus douglasii",NA,"black hawthorn","Rosaceae","native","perennial","shrub","native"
+237,"FRAVES","Fragaria vesca",NA,"woodland strawberry","Rosaceae","native","perennial","forb","native"
+505,"SORSCO","Sorbus scopulina",NA,"Greene's mountain ash","Rosaceae","native","perennial","shrub","native"
+273,"HOLDIS","Holodiscus discolor",NA,"oceanspray","Rosaceae","native","perennial","shrub","native"
+785,"TAXBRE","Taxus brevifolia",NA,"Pacific yew","Taxaceae","native","perennial","tree","native"
+3,"ACEGLA","Acer glabrum",NA,"Rocky Mountain maple","Aceraceae","native","perennial","shrub","native"
+362,"OPUFRA","Opuntia fragilis",NA,"jump cactus","Cactaceae","native","perennial","forb","native"
+159,"CORSER","Cornus sericea",NA,"red-osier dogwood","Cornaceae","native","perennial","shrub","native"
+702,"CORCAN","Cornus canadensis",NA,"bunchberry dogwood","Cornaceae","native","perennial","forb","native"
+676,"PYRO_SP","Pyrola spp.",NA,"wintergreen","Ericaceae","native","perennial","forb","native"
+440,"PYRASA","Pyrola asarifolia",NA,"liverleaf wintergreen","Ericaceae","native","perennial","forb","native"
+133,"CHIUMB","Chimaphila umbellata",NA,"pipsissewa","Ericaceae","native","perennial","forb","native"
+441,"PYRCHL","Pyrola chlorantha",NA,"greenflowered wintergreen","Ericaceae","native","perennial","forb","native"
+553,"VACC_SP","Vaccinium spp.",NA,"huckleberry","Ericaceae","native","perennial","shrub","native"
+552,"VACSCO","Vaccinium scoparium",NA,"grouse whortleberry","Ericaceae","native","perennial","shrub","native"
+551,"VACGLO","Vaccinium globulare ","Vaccinium membranaceum","thinleaf huckleberry","Ericaceae","native","perennial","shrub","native"
+340,"MENFER","Menziesia ferruginea ",NA,"rusty menziesia","Ericaceae","native","perennial","shrub","native"
+550,"VACCAE","Vaccinium caespitosum","Vaccinium cespitosum","dwarf bilberry","Ericaceae","native","perennial","shrub","native"
+438,"PTEAND","Pterospora andromedea",NA,"woodland pinedrops","Ericaceae","native","perennial","forb","native"
+758,"MONUNI","Moneses uniflora",NA,"single delight","Ericaceae","native","perennial","forb","native"
+50,"ARCUVA","Arctostaphylos uva-ursi ",NA,"kinnikinnick","Ericaceae","native","perennial","shrub","native"
+722,"PYRPIC","Pyrola picta",NA,"whiteveined wintergreen","Ericaceae","native","perennial","forb","native"
+364,"ORTSEC","Orthilia secunda","Pyrola secunda","sidebells wintergreen","Ericaceae","native","perennial","forb","native"
+646,"IRIMIS","Iris missouriensis",NA,"Rocky Mountain Iris","Iridaceae","native","perennial","forb","native"
+498,"SISMON","Sisyrinchium montanum",NA,"blue-eyed grass","Iridaceae","native","perennial","forb","native"
+280,"JUNBAL","Juncus balticus","Juncus arcticus","Baltic rush","Juncaceae","native","perennial","graminoid","native"
+284,"JUNTEN","Juncus tenuis",NA,"poverty rush","Juncaceae","native","perennial","graminoid","native"
+279,"JUNART","Juncus articulatus",NA,"jointleaf rush","Juncaceae","native","perennial","graminoid","native"
+324,"LUZMUL","Luzula multiflora","Luzula campestris var. Multiflora","common woodrush","Juncaceae","native","perennial","graminoid","native"
+282,"JUNENS","Juncus ensifolius",NA,"swordleaf rush","Juncaceae","native","perennial","graminoid","native"
+281,"JUNDUD","Juncus dudleyi",NA,"Dudley's rush","Juncaceae","native","perennial","graminoid","native"
+323,"LUZHIT","Luzula hitchcockii",NA,"Hitchcock's smooth woodrush","Juncaceae","native","perennial","graminoid","native"
+751,"DRAPAR","Dracocephalum parviflorum",NA,"American dragonhead","Lamiaceae","native","perennial","forb","native"
+607,"PHYPAR","Physostegia parviflora",NA,"western false dragonhead","Lamiaceae","native","perennial","forb","native"
+657,"LYCASP","Lycopus asper",NA,"rough bugleweed","Lamiaceae","native","perennial","forb","native"
+338,"MENARV","Mentha arvensis",NA,"mint","Lamiaceae","native","perennial","forb","native"
+9,"AGAURT","Agastache urticifolia",NA,"giant horsemint ","Lamiaceae","native","perennial","forb","native"
+351,"MONFIS","Monarda fistulosa",NA,"wild bergamot","Lamiaceae","native","perennial","forb","native"
+434,"PRUVUL","Prunella vulgaris",NA,"self-heal","Lamiaceae","native","perennial","forb","native"
+605,"STAPUL","Stachys palustris","Stachys pilosa","marsh hedge-nettle","Lamiaceae","native","perennial","forb","native"
+293,"LEMN_SP","Lemna spp.",NA,"duckweed","Lemnaceae","native","perennial","forb","native"
+510,"SPIPOL","Spirodela polyrrhiza ",NA,"common duckmeat","Lemnaceae","native","perennial","forb","native"
+292,"LEMMIN","Lemna minor",NA,"small duckweed","Lemnaceae","native","perennial","forb","native"
+573,"XERTEN","Xerophyllum tenax ",NA,"beargrass","Liliaceae","native","perennial","forb","native"
+16,"ALLCER","Allium cernuum",NA,"nodding onion","Liliaceae","native","perennial","forb","native"
+515,"STRAMP","Streptopus amplexifolius",NA,"claspleaf twistedstalk","Liliaceae","native","perennial","forb","native"
+329,"MAISTE","Maianthemum stellatum",NA,"starry false lily of the valley","Liliaceae","native","perennial","forb","native"
+328,"MAIRAC","Maianthemum racemosum",NA,"false Solomon's-seal","Liliaceae","native","perennial","forb","native"
+514,"STEOCC","Stenanthium occidentale",NA,"western featherbells","Liliaceae","native","perennial","forb","native"
+239,"FRIPUD","Fritillaria pudica",NA,"yellow bell","Liliaceae","native","perennial","forb","native"
+430,"PROTRA","Prosartes trachycarpa","Disporum trachycarpum","roughfruit fairybells","Liliaceae","native","perennial","forb","native"
+533,"TRIGRA","Triteleia grandiflora","Brodiaea douglasii","triteleia","Liliaceae","native","perennial","forb","native"
+151,"CLIUNI","Clintonia uniflora",NA,"bead lily","Liliaceae","native","perennial","forb","native"
+563,"VERVIR","Veratrum viride",NA,"green false hellebore","Liliaceae","native","perennial","forb","native"
+227,"ERYGRA","Erythronium grandiflorum",NA,"glacier lily","Liliaceae","native","perennial","forb","native"
+576,"TOXVEN","Toxicoscordion venenosum ","Zigadenus venenosum ","death camas","Liliaceae","native","perennial","forb","native"
+709,"TRIOVA","Trillium ovatum",NA,"western trillium","Liliaceae","native","perennial","forb","native"
+339,"MENDIS","Mentzelia dispersa",NA,"small-flowered blazing-star","Loasaceae","native","annual","forb","native"
+341,"MENLAE","Mentzelia laevicaulis",NA,"blazing-star","Loasaceae","native","perennial","forb","native"
+508,"SPHCOC","Sphaeralcea coccinea",NA,"scarlet globemallow","Malvaceae","native","perennial","forb","native"
+623,"ILIRIV","Iliamna rivularis",NA,"streambank wild hollyhock","Malvaceae","native","perennial","forb","native"
+796,"ANDSCO","Andropogon scoparius","Schizachyrium scoparium","little bluestem","Poaceae ","native","unknown","graminoid","native"
+244,"GALTRI","Galium triflorum",NA,"fragrant bedstraw","Rubiaceae","native","perennial","forb","native"
+241,"GALAPA","Galium aparine",NA,"sticky willy","Rubiaceae","native","annual","forb","native"
+242,"GALBOR","Galium boreale",NA,"northern bedstraw","Rubiaceae","native","perennial","forb","native"
+537,"TYPLAT","Typha latifolia",NA,"broadleaf cattail","Typhaceae","native","perennial","forb","native"
+779,"VIONEP","Viola nephrophylla",NA,"northern bog violet","Violaceae","native","perennial","forb","native"
+568,"VIONUT","Viola nuttallii",NA,"Nuttall's violet","Violaceae","native","perennial","forb","native"
+570,"VIOL_SP","Viola spp.",NA,"violet","Violaceae","native","perennial","forb","native"
+730,"VIOMAC","Viola macloskeyi",NA,"small white violet","Violaceae","native","perennial","forb","native"
+569,"VIOORB","Viola orbiculata",NA,"round-leaved violet","Violaceae","native","perennial","forb","native"
+565,"VIOADU","Viola adunca",NA,"western violet","Violaceae","native","perennial","forb","native"
+566,"VIOCAN","Viola canadensis",NA,"Canada violet","Violaceae","native","perennial","forb","native"
+567,"VIOGLA","Viola glabella",NA,"pioneer violet","Violaceae","native","perennial","forb","native"
+592,"ARCDOU","Arceuthobium douglasii ",NA,"Douglas-fir dwarf mistletoe","Viscaceae","native","perennial","shrub","native"
+48,"ARCAME","Arceuthobium americanum ",NA,"lodgepole pine dwarf mistletoe","Viscaceae","native","perennial","shrub","native"
+45,"ARANUD","Aralia nudicaulis",NA,"wild sarsaparilla","Araliaceae","native","perennial","forb","native"
+688,"SOLRIG","Solidago rigida","Oligoneuron rigidum var. humile","stiff goldenrod","Asteraceae","native","perennial","forb","native"
+160,"CORTIN","Coreopsis tinctoria",NA,"golden tickseed","Asteraceae","native","perennial","forb","native"
+222,"ERIG_SP","Erigeron spp.",NA,"fleabane","Asteraceae","native","unknown","forb","native"
+487,"SENTRI","Senecio triangularis",NA,"arrowleaf groundsel ","Asteraceae","native","perennial","forb","native"
+54,"ARNCOR","Arnica cordifolia",NA,"heartleaf arnica","Asteraceae","native","perennial","forb","native"
+36,"ANTROS","Antennaria rosea",NA,"rosy pussytoes","Asteraceae","native","perennial","forb","native"
+262,"HELANN","Helianthus annuus",NA,"common sunflower","Asteraceae","native","annual","forb","native"
+63,"ARTTRI","Artemisia tridentata",NA,"big sagebrush","Asteraceae","native","perennial","shrub","native"
+617,"ARTBIE","Artemisia biennis",NA,"biennial wormwood","Asteraceae","native","biennial","forb","native"
+141,"CIRUND","Cirsium undulatum",NA,"wavy-leaf thistle","Asteraceae","native","perennial","forb","native"
+57,"ARNSOR","Arnica sororia",NA,"twin arnica","Asteraceae","native","perennial","forb","native"
+61,"ARTFRI","Artemisia frigida",NA,"fringed sagebrush","Asteraceae","native","perennial","shrub","native"
+518,"SYMERI","Symphyotrichum ericoides",NA,"white heath aster","Asteraceae","native","perennial","forb","native"
+25,"ANAMAR","Anaphalis margaritacea",NA,"pearly everlasting","Asteraceae","native","perennial","forb","native"
+162,"CREATR","Crepis atribarba",NA,"slender hawksbeard","Asteraceae","native","perennial","forb","native"
+263,"HELMUL","Heliomeris multiflora",NA,"showy goldeneye","Asteraceae","native","perennial","forb","native"
+695,"ANTCOR","Antennaria corymbosa",NA,"flat-top pussytoes","Asteraceae","native","perennial","forb","native"
+615,"HELMAX","Helianthus maximiliani ",NA,"Maximilian sunflower","Asteraceae","native","perennial","forb","native"
+372,"PACCAN","Packera cana","Senecio canus","woolly groundsel","Asteraceae","native","perennial","forb","native"
+212,"ERICOR","Erigeron corymbosus",NA,"longleaf fleabane","Asteraceae","native","perennial","forb","native"
+31,"ANTDIM","Antennaria dimorpha",NA,"low pussytoes","Asteraceae","native","perennial","forb","native"
+211,"ERICOM","Erigeron compositus",NA,"cutleaf daisy","Asteraceae","native","perennial","forb","native"
+30,"ANTANA","Antennaria anaphaloides",NA,"pearly pussytoes","Asteraceae","native","perennial","forb","native"
+220,"ERIPUM","Erigeron pumilus",NA,"shaggy fleabane","Asteraceae","native","perennial","forb","native"
+694,"ADEBIC","Adenocaulon bicolor",NA,"pathfinder","Asteraceae","native","perennial","forb","native"
+11,"AGOGLA","Agoseris glauca",NA,"false-dandelion","Asteraceae","native","perennial","forb","native"
+647,"RUDHIR","Rudbeckia hirta",NA,"blackeyed Susan","Asteraceae","native","perennial","forb","native"
+788,"LACBIE","Lactuca biennis",NA,"tall blue lettuce","Asteraceae","native","biennial","forb","native"
+32,"ANTLUZ","Antennaria luzuloides",NA,"silvery brown pussytoes","Asteraceae","native","perennial","forb","native"
+259,"GRISQU","Grindelia squarrosa",NA,"curlycup gumweed","Asteraceae","native","perennial","forb","native"
+697,"PACPSE","Packera pseudaurea",NA,"false gold groundsel","Asteraceae","native","perennial","forb","native"
+38,"ANTUMB","Antennaria umbrinella",NA,"umber pussytoes","Asteraceae","native","perennial","forb","native"
+672,"GNAPAL","Gnaphalium palustre",NA,"western marsh cudweed","Asteraceae","native","annual","forb","native"
+221,"ERISPE","Erigeron speciosus",NA,"aspen fleabane","Asteraceae","native","perennial","forb","native"
+217,"ERILON","Erigeron lonchophyllus",NA,"spearleaf fleabane","Asteraceae","native","perennial","forb","native"
+62,"ARTLUD","Artemisia ludoviciana",NA,"prairie sagewort","Asteraceae","native","perennial","forb","native"
+37,"ANTE_SP","Antennaria spp.",NA,"pussytoes","Asteraceae","native","perennial","forb","native"
+215,"ERIGLA","Erigeron glabellus",NA,"streamside fleabane","Asteraceae","native","perennial","forb","native"
+240,"GAIARI","Gaillardia aristata",NA,"blanket flower","Asteraceae","native","perennial","forb","native"
+164,"CREP_SP","Crepis spp.",NA,"hawksbeard","Asteraceae","native","perennial","forb","native"
+163,"CREINT","Crepis intermedia",NA,"gray hawksbeard","Asteraceae","native","perennial","forb","native"
+517,"SYMEAT","Symphyotrichum eatonii","Aster eatonii","Eaton's aster","Asteraceae","native","perennial","forb","native"
+271,"HIEUMB","Hieracium umbellatum",NA,"narrowleaf hawkweed","Asteraceae","native","perennial","forb","native"
+181,"DIECAN","Dieteria canescens","Machaeranthera canescens","hoary tansyaster","Asteraceae","native","perennial","forb","native"
+787,"PRESAG","Prenanthes sagittata",NA,"arrowleaf rattlesnakeroot","Asteraceae","native","perennial","forb","native"
+344,"MICNUT","Microseris nutans",NA,"nodding microseris","Asteraceae","native","perennial","forb","native"
+485,"SENSER","Senecio serra",NA,"tall ragwort","Asteraceae","native","perennial","forb","native"
+58,"ARNI_SP","Arnica spp.",NA,"arnica","Asteraceae","native","perennial","forb","native"
+733,"ERISTR","Erigeron strigosus",NA,"prairie fleabane","Asteraceae","native","perennial","forb","native"
+692,"LACPUL","Lactuca pulchella","Lactuca tatarica var. pulchella ","blue lettuce","Asteraceae","native","perennial","forb","native"
+502,"SOLMIS","Solidago missouriensis",NA,"Missouri goldenrod","Asteraceae","native","perennial","forb","native"
+223,"ERISUB","Erigeron subtrinervis",NA,"threenerve fleabane","Asteraceae","native","perennial","forb","native"
+33,"ANTMIC","Antennaria microphylla",NA,"rosy pussytoes","Asteraceae","native","perennial","forb","native"
+619,"EUTOCC","Euthamia occidentalis",NA,"western goldentop","Asteraceae","native","perennial","forb","native"
+266,"HETVIL","Heterotheca villosa",NA,"hairy golden aster","Asteraceae","native","perennial","forb","native"
+270,"HIESCO","Hieracium scouleri","Hieracium albertinum, Hieracium cynoglossoides","Scouler's woollyweed","Asteraceae","native","perennial","forb","native"
+744,"AGOHET","Agoseris heterophylla",NA,"annual agoseris","Asteraceae","native","annual","forb","native"
+72,"BALSAG","Balsamorhiza sagittata",NA,"balsamroot","Asteraceae","native","perennial","forb","native"
+594,"XANSTR","Xanthium strumarium",NA,"rough cocklebur","Asteraceae","native","annual","forb","native"
+773,"ARTE_SP","Artemesia spp.",NA,"artemesia","Asteraceae","native","perennial","shrub","native"
+448,"RATCOL","Ratibida columnifera",NA,"upright prairie coneflower","Asteraceae","native","perennial","forb","native"
+35,"ANTRAC","Antennaria racemosa",NA,"woods pussytoes","Asteraceae","native","perennial","forb","native"
+614,"ATRCAN","Atriplex canescens",NA,"fourwing saltbush","Asteraceae","native","perennial","shrub","native"
+34,"ANTPAR","Antennaria parvifolia",NA,"small-leaf pussytoes","Asteraceae","native","perennial","forb","native"
+698,"RUDOCC","Rudbeckia occidentalis",NA,"western coneflower","Asteraceae","native","perennial","forb","native"
+60,"ARTDRA","Artemisia dracunculus",NA,"wild tarragon","Asteraceae","native","perennial","shrub","native"
+486,"SENE_SP","Senecio spp.",NA,"groundsel","Asteraceae","native","unknown","forb","native"
+157,"CONCAN","Conyza canadensis",NA,"Canada horseweed","Asteraceae","native","biennial","forb","native"
+10,"AGOAUR","Agoseris aurantiaca",NA,"orange agoseris","Asteraceae","native","perennial","forb","native"
+797,"HELUNI","Helianthella uniflora",NA,"Rocky Mountain rockrose","Asteraceae","native","unknown","forb","native"
+231,"EURCON","Eurybia conspicua","Aster conspicuus","western showy aster","Asteraceae","native","perennial","forb","native"
+218,"ERINAU","Ericameria nauseosa","Chrysothamnus nauseosus","gray rabbitbrush","Asteraceae","native","perennial","shrub","native"
+269,"HIEALB","Hieracium albiflorum",NA,"white hawkweed","Asteraceae","native","perennial","forb","native"
+792,"PSEMAC","Pseudognaphalium macounii",NA,"Macoun's cudweed","Asteraceae","native","biennial","forb","native"
+127,"CHADOU","Chaenactis douglasii ",NA,"Douglas' dustymaiden","Asteraceae","native","perennial","forb","native"
+621,"ARTCAN","Artemisia cana",NA,"silver sagebrush","Asteraceae","native","perennial","shrub","native"
+519,"SYMLAE","Symphyotrichum laeve","Aster laevis","smooth blue aster","Asteraceae","native","perennial","forb","native"
+500,"SOLLEP","Solidago lepida","Solidago canadensis","Western Canada goldenrod","Asteraceae","native","perennial","forb","native"
+55,"ARNFUL","Arnica fulgens",NA,"foothill arnica","Asteraceae","native","perennial","forb","native"
+601,"SYMFAL","Symphyotrichum falcatum",NA,"white prairie aster","Asteraceae","native","perennial","forb","native"
+216,"ERILAN","Eriophyllum lanatum",NA,"common woolly sunflower","Asteraceae","native","perennial","forb","native"
+613,"ANTNEG","Antennaria neglecta",NA,"field pussytoes","Asteraceae","native","perennial","forb","native"
+326,"MADGLO","Madia glomerata",NA,"mountain tarweed","Asteraceae","native","annual","forb","native"
+213,"ERIDIV","Erigeron divergens",NA,"spreading fleabane","Asteraceae","native","biennial","forb","native"
+677,"AGOS_SP","Agoseris spp.",NA,"agoseris","Asteraceae","native","perennial","forb","native"
+135,"CHRVIS","Chrysothamnus viscidiflorus",NA,"green rabbitbrush","Asteraceae","native","perennial","shrub","native"
+5,"ACHMIL","Achillea millefolium",NA,"western yarrow","Asteraceae","native","perennial","forb","native"
+56,"ARNLAT","Arnica latifolia",NA,"broadleaf arnica","Asteraceae","native","perennial","forb","native"
+484,"SENINT","Senecio integerrimus",NA,"lambstongue groundsel","Asteraceae","native","perennial","forb","native"
+18,"ALNVIR","Alnus viridis ",NA,"green alder","Betulaceae","native","perennial","shrub","native"
+17,"ALNINC","Alnus incana",NA,"gray alder","Betulaceae","native","perennial","shrub","native"
+630,"BETOCC","Betula occidentalis",NA,"water birch","Betulaceae","native","perennial","tree","native"
+150,"PERSER","Peritoma serrulata ","Cleome serrulata","Rocky Mountain beeplant","Cleomaceae","native","annual","forb","native"
+675,"ELEO_SP","Eleocharis spp.",NA,"spikerush","Cyperaceae","native","perennial","graminoid","native"
+790,"CARAUR","Carex aurea",NA,"golden sedge","Cyperaceae","native","perennial","graminoid","native"
+113,"CARE_SP","Carex spp.",NA,"sedges","Cyperaceae","native","perennial","graminoid","native"
+775,"CARPRAT","Carex praticola",NA,"meadow sedge","Cyperaceae","native","perennial","graminoid","native"
+479,"SCHTAB","Schoenoplectus tabernaemontani ",NA,"softstem bulrush","Cyperaceae","native","perennial","graminoid","native"
+634,"CARKEL","Carex kelloggii",NA,"Kellogg's sedge","Cyperaceae","native","perennial","graminoid","native"
+94,"CARATH","Carex athrostachya",NA,"slender-beak sedge","Cyperaceae","native","perennial","graminoid","native"
+626,"CARAQU","Carex aquatilis",NA,"water sedge","Cyperaceae","native","perennial","graminoid","native"
+106,"CARPEL","Carex pellita","Carex lanuginosa","woolly sedge","Cyperaceae","native","perennial","graminoid","native"
+193,"ELEPAL","Eleocharis palustris",NA,"common spikerush","Cyperaceae","native","perennial","graminoid","native"
+693,"CARCOR","Carex cordillerana",NA,"Cordilleran sedge","Cyperaceae","native","perennial","graminoid","native"
+112,"CARRUP","Carex rupestris",NA,"curly sedge","Cyperaceae","native","perennial","graminoid","native"
+625,"CARDOU","Carex douglasii ",NA,"Douglas' sedge","Cyperaceae","native","perennial","graminoid","native"
+118,"CARXER","Carex xerantica",NA,"white-scale sedge","Cyperaceae","native","perennial","graminoid","native"
+674,"CYPSQU","Cyperus squarrosus",NA,"bearded flatsedge","Cyperaceae","native","annual","graminoid","native"
+100,"CARFIL","Carex filifolia",NA,"threadleaf sedge","Cyperaceae","native","perennial","graminoid","native"
+108,"CARPET","Carex petasata",NA,"Liddon's sedge","Cyperaceae","native","perennial","graminoid","native"
+111,"CARROS","Carex rossii",NA,"Ross' sedge","Cyperaceae","native","perennial","graminoid","native"
+98,"CARCON","Carex concinnoides",NA,"northwestern sedge","Cyperaceae","native","perennial","graminoid","native"
+97,"CARCAN","Carex canescens",NA,"silvery sedge","Cyperaceae","native","perennial","graminoid","native"
+632,"CARFLA","Carex flava",NA,"yellow sedge","Cyperaceae","native","perennial","graminoid","native"
+480,"SCICYP","Scirpus cyperinus",NA,"woolgrass","Cyperaceae","native","perennial","graminoid","native"
+93,"CARARC","Carex arcta",NA,"northern cluster sedge","Cyperaceae","native","perennial","graminoid","native"
+191,"ELEACI","Eleocharis acicularis",NA,"needle spikerush","Cyperaceae","native","perennial","graminoid","native"
+748,"CARMER","Carex mertensii",NA,"Mertens' sedge","Cyperaceae","native","perennial","graminoid","native"
+705,"SCIMIC","Scirpus microcarpus",NA,"panicled bulrush","Cyperaceae","native","perennial","graminoid","native"
+96,"CARBRE","Carex brevior",NA,"shortbeak sedge","Cyperaceae","native","perennial","graminoid","native"
+117,"CARVUL","Carex vulpinoidea",NA,"common fox sedge","Cyperaceae","native","perennial","graminoid","native"
+192,"ELEOVA","Eleocharis ovata",NA,"ovoid spikerush","Cyperaceae","native","annual","graminoid","native"
+704,"CARNEB","Carex nebrascensis",NA,"Nebraska sedge","Cyperaceae","native","perennial","graminoid","native"
+115,"CARUTR","Carex utriculata",NA,"Northwest Territory sedge","Cyperaceae","native","perennial","graminoid","native"
+101,"CARGEY","Carex geyeri",NA,"elk sedge","Cyperaceae","native","perennial","graminoid","native"
+110,"CARRET","Carex retrorsa",NA,"knotsheath sedge","Cyperaceae","native","perennial","graminoid","native"
+102,"CARHOO","Carex hoodii",NA,"Hood's sedge","Cyperaceae","native","perennial","graminoid","native"
+116,"CARVES","Carex vesicaria",NA,"blister sedge","Cyperaceae","native","perennial","graminoid","native"
+747,"CARFOE","Carex foenea","Carex siccata, Carex aenea","dryspike sedge","Cyperaceae","native","perennial","graminoid","native"
+703,"CARDIS","Carex disperma",NA,"softleaf sedge","Cyperaceae","native","perennial","graminoid","native"
+95,"CARBAC","Carex backii",NA,"Rocky Mountain sedge","Cyperaceae","native","perennial","graminoid","native"
+114,"CARSTI","Carex stipata",NA,"awlfruit sedge","Cyperaceae","native","perennial","graminoid","native"
+99,"CARDEW","Carex deweyana",NA,"Dewey sedge","Cyperaceae","native","perennial","graminoid","native"
+103,"CARMIC","Carex microptera",NA,"small-winged sedge","Cyperaceae","native","perennial","graminoid","native"
+109,"CARPRA","Carex praegracilis",NA,"clustered field sedge","Cyperaceae","native","perennial","graminoid","native"
+740,"ZIGELE","Zigadenus elegans",NA,"mountain death camas","Liliaceae ","native","perennial","forb","native"
+710,"EPILAC","Epilobium lactiflorum",NA,"milkflower willow herb","Onagraceae","native","perennial","forb","native"
+618,"OENVIL","Oenothera villosa",NA,"hairy evening primrose","Onagraceae","native","perennial","forb","native"
+203,"EPICIL","Epilobium ciliatum",NA,"fringed willowherb","Onagraceae","native","perennial","forb","native"
+204,"EPIGLA","Epilobium glaberrimum",NA,"glaucus willowherb","Onagraceae","native","perennial","forb","native"
+126,"CHAANG","Chamerion angustifolium","Epilobium angustifolium","fireweed","Onagraceae","native","perennial","forb","native"
+245,"GAUCOC","Gaura coccinea",NA,"scarlet beeblossom","Onagraceae","native","perennial","forb","native"
+642,"OENBIE","Oenothera biennis",NA,"common evening primrose","Onagraceae","native","biennial","forb","native"
+205,"EPIL_SP","Epilobium spp.",NA,"willowherb","Onagraceae","native","unknown","forb","native"
+752,"EPIPAL","Epilobium palustre",NA,"marsh willowherb","Onagraceae","native","perennial","forb","native"
+202,"EPIBRA","Epilobium brachycarpum","Epilobium paniculatum","autumn willowherb","Onagraceae","native","annual","forb","native"
+138,"CIRALP","Circaea alpina",NA,"small enchanter's nightshade","Onagraceae","native","perennial","forb","native"
+146,"CLAPUL","Clarkia pulchella",NA,"pink fairies","Onagraceae","native","annual","forb","native"
+346,"MIMGUT","Mimulus guttatus",NA,"yellow monkeyflower","Phrymaceae","native","perennial","forb","native"
+717,"MIMFLO","Mimulus floribundus ",NA,"manyflowered monkeyflower","Phrymaceae","native","annual","forb","native"
+725,"RHAALN","Rhamnus alnifolia ",NA,"alderleaf buckthorn","Rhamnaceae","native","perennial","shrub","native"
+651,"CEASAN","Ceanothus sanguineus",NA,"redstem ceanothus","Rhamnaceae","native","perennial","shrub","native"
+124,"CEAVEL","Ceanothus velutinus",NA,"snowbrush ceanothus","Rhamnaceae","native","perennial","shrub","native"
+470,"SALSCO","Salix scouleriana",NA,"Scouler's willow","Salicaceae","native","perennial","shrub","native"
+422,"POPTRE","Populus tremuloides",NA,"quaking aspen","Salicaceae","native","perennial","tree","native"
+471,"SALI_SP","Salix spp.",NA,"willow","Salicaceae","native","perennial","shrub","native"
+421,"POPBAL","Populus balsamifera",NA,"black cottonwood","Salicaceae","native","perennial","tree","native"
+467,"SALEXI","Salix exigua",NA,"sandbar willow","Salicaceae","native","perennial","shrub","native"
+466,"SALBEB","Salix bebbiana",NA,"Bebb's willow","Salicaceae","native","perennial","shrub","native"
+504,"SOLTRI","Solanum triflorum",NA,"cutleaf nightshade","Solanaceae","native","annual","forb","native"
+680,"PARPEN","Parietaria pensylvanica",NA,"Pennsylvania pellitory","Urticaceae","native","annual","forb","native"
+548,"URTDIO","Urtica dioica",NA,"stinging nettle","Urticaceae","native","perennial","forb","native"
+40,"APOAND","Apocynum androsaemifolium",NA,"spreading dogbane","Apocynaceae","native","perennial","forb","native"
+41,"APOCAN","Apocynum cannabinum",NA,"common dogbane","Apocynaceae","native","perennial","forb","native"
+158,"CORAUR","Corydalis aurea",NA,"golden corydalis","Fumariaceae","native","biennial","forb","native"
+714,"LISCON","Listera convallarioides",NA,"broadlipped twayblade","Orchidaceae","native","perennial","forb","native"
+712,"CORMER","Corallorhiza mertensiana",NA,"Pacific coralroot","Orchidaceae","native","perennial","forb","native"
+760,"PLASTR","Platanthera stricta",NA,"slender bog orchid","Orchidaceae","native","perennial","forb","native"
+85,"CALBUL","Calypso bulbosa",NA,"fairy slipper","Orchidaceae","native","perennial","forb","native"
+599,"PLADIL","Platanthera dilatata",NA,"scent bottle","Orchidaceae","native","perennial","forb","native"
+715,"PLAELE","Platanthera elegans",NA,"elegant rein orchid","Orchidaceae","native","perennial","forb","native"
+711,"CORMAC","Corallorhiza maculata",NA,"summer coralroot","Orchidaceae","native","perennial","forb","native"
+258,"GOOOBL","Goodyera oblongifolia",NA,"rattlesnake plantain","Orchidaceae","native","perennial","forb","native"
+400,"PIPUNA","Piperia unalascensis",NA,"Alaska rein orchid","Orchidaceae","native","perennial","forb","native"
+168,"CYPMON","Cypripedium montanum",NA,"mountain lady's slipper","Orchidaceae","native","perennial","forb","native"
+713,"CORTRI","Corallorhiza trifida",NA,"yellow coralroot","Orchidaceae","native","perennial","forb","native"
+183,"DODPUL","Dodecatheon pulchellum",NA,"few-flowered shooting star","Primulaceae","native","perennial","forb","native"
+182,"DODCON","Dodecatheon conjugens",NA,"Bonneville shootingstar","Primulaceae","native","perennial","forb","native"
+184,"DODE_SP","Dodecatheon spp.",NA,"shooting star","Primulaceae","native","perennial","forb","native"
+27,"ANDOCC","Androsace occidentalis",NA,"western rock jasmine","Primulaceae","native","annual","forb","native"
+185,"DOUMON","Douglasia montana",NA,"Rocky Mountain dwarf-primrose","Primulaceae","native","perennial","forb","native"
+325,"LYSCIL","Lysimachia ciliata",NA,"fringed loosestrife","Primulaceae","native","perennial","forb","native"
+155,"COMUMB","Comandra umbellata",NA,"bastard toadflax","Santalaceae","native","perennial","forb","native"
+464,"SAGCUN","Sagittaria cuneata ",NA,"arumleaf arrowhead","Alismataceae","native","perennial","forb","native"
+15,"ALITRI","Alisma triviale","Alisma plantago-aquatica","American waterplantain","Alismataceae","native","perennial","forb","native"
+610,"CRYTOR","Cryptantha torreyana",NA,"Torrey's cryptantha","Boraginaceae","native","annual","forb","native"
+755,"HACCIN","Hackelia cinerea",NA,"gray stickseed","Boraginaceae","native","perennial","forb","native"
+739,"MERLON","Mertensia longiflora ",NA,"small bluebells","Boraginaceae","native","perennial","forb","native"
+165,"CRYAMB","Cryptantha ambigua",NA,"basin cryptantha","Boraginaceae","native","annual","forb","native"
+260,"HACDEF","Hackelia deflexa",NA,"nodding stickseed","Boraginaceae","native","perennial","forb","native"
+732,"AMSMEN","Amsinckia menziesii ",NA,"common fiddleneck","Boraginaceae","native","annual","forb","native"
+166,"CRYCEL","Cryptantha celosioides",NA,"northern miner's candle","Boraginaceae","native","perennial","forb","native"
+308,"LITRUD","Lithospermum ruderale",NA,"field gromwell","Boraginaceae","native","perennial","forb","native"
+342,"MEROBL","Mertensia oblongifolia",NA,"leafy bluebell","Boraginaceae","native","perennial","forb","native"
+631,"MERCIL","Mertensia ciliata",NA,"tall fringed bluebells","Boraginaceae","native","perennial","forb","native"
+354,"MYOLAX","Myosotis laxa",NA,"bay forget-me-not","Boraginaceae","native","perennial","forb","native"
+783,"CRYP_SP","Cryptantha spp.",NA,"cryptantha","Boraginaceae","native","unknown","forb","native"
+261,"HACFLO","Hackelia floribunda",NA,"many-flower stickseed","Boraginaceae","native","perennial","forb","native"
+403,"PLASCO","Plagiobothrys scouleri",NA,"Scouler's popcornflower","Boraginaceae","native","annual","forb","native"
+602,"BOERET","Boechera retrofracta","Arabis holboellii ","rockcress","Brassicaceae","native","perennial","forb","native"
+176,"DESINC","Descurainia incana var. incisa","Descurainia incisa","mountain tansy mustard","Brassicaceae","native","perennial","forb","native"
+226,"ERYCAP","Erysimum capitatum",NA,"western wallflower","Brassicaceae","native","perennial","forb","native"
+105,"CAROLI","Cardamine oligosperma",NA,"little western bittercress","Brassicaceae","native","perennial","forb","native"
+74,"BOEPEN","Boechera pendulocarpa","Arabis holboellii ","rockcress","Brassicaceae","native","perennial","forb","native"
+673,"ERYS_SP","Erysimum spp.",NA,"wallflower","Brassicaceae","native","perennial","forb","native"
+107,"CARPEN","Cardamine pensylvanica",NA,"Pennsylvania bittercress","Brassicaceae","native","perennial","forb","native"
+456,"RORPAL","Rorippa palustris",NA,"bog yellowcress","Brassicaceae","native","perennial","forb","native"
+43,"ARAHOL","Arabis holboellii",NA,"Holboell's rockcress","Brassicaceae","native","perennial","forb","native"
+44,"ARAMIC","Arabis microphylla",NA,"littleleaf rockcress","Brassicaceae","native","perennial","forb","native"
+228,"ERYINC","Erysimum inconspicuum",NA,"shy wallflower","Brassicaceae","native","biennial","forb","native"
+780,"BOEC_SP","Boechera spp.","Arabis spp.","rockcress","Brassicaceae","native","perennial","forb","native"
+42,"TURGLA","Turritis glabra","Arabis glabra","tower rockcress","Brassicaceae","native","perennial","forb","native"
+394,"PHYGEY","Physaria geyeri",NA,"Geyer's twinpod","Brassicaceae","native","perennial","forb","native"
+699,"DESPIN","Descurainia pinnata",NA,"western tansy mustard","Brassicaceae","native","perennial","forb","native"
+46,"ARANUT","Arabis nuttallii",NA,"Nuttall's rockcress","Brassicaceae","native","perennial","forb","native"
+759,"PAXMYR","Paxistima myrsinites",NA,"Oregon boxleaf","Celastraceae","native","perennial","shrub","native"
+481,"SEDLAN","Sedum lanceolatum",NA,"lance-leaved stonecrop","Crassulaceae","native","perennial","forb","native"
+482,"SEDSTE","Sedum stenopetalum",NA,"narrow-petalled stonecrop","Crassulaceae","native","perennial","forb","native"
+283,"JUNSCO","Juniperus scopulorum",NA,"Rocky Mountain juniper","Cupressaceae","native","perennial","tree","native"
+681,"JUNCOM","Juniperus communis",NA,"common juniper","Cupressaceae","native","perennial","shrub","native"
+490,"SHECAN","Shepherdia canadensis ",NA,"russet buffaloberry","Elaeagnaceae","native","perennial","shrub","native"
+209,"EQUI_SP","Equisetum spp.",NA,"horsetail","Equisetaceae","native","perennial","forb","native"
+206,"EQUARV","Equisetum arvense",NA,"field horsetail","Equisetaceae","native","perennial","forb","native"
+210,"EQUSYL","Equisetum sylvaticum",NA,"woodland horsetail","Equisetaceae","native","perennial","forb","native"
+207,"EQUHYE","Equisetum hyemale",NA,"rough horsetail","Equisetaceae","native","perennial","forb","native"
+208,"EQULAE","Equisetum laevigatum",NA,"smooth horsetail","Equisetaceae","native","perennial","forb","native"
+246,"GENAMA","Gentianella amarella",NA,"autumn dwarf gentian","Gentianaceae","native","biennial","forb","native"
+753,"GERCAR","Geranium carolinianum",NA,"Carolina geranium","Geranianceae","native","biennial","forb","native"
+248,"GERVIS","Geranium  viscosissimum",NA,"sticky geranium","Geranianceae","native","perennial","forb","native"
+359,"NUPLUT","Nuphar lutea",NA,"yellow pond-lily","Nymphaeaceae","native","perennial","forb","native"
+370,"OXYDIG","Oxyria digyna",NA,"mountain sorrel","Polygonaceae","native","perennial","forb","native"
+383,"POLAMP","Polygonum amphibium","Persicaria amphibia ","water knotweed","Polygonaceae","native","perennial","forb","native"
+416,"POLLAP","Polygonum lapathifolium","Persicaria lapathifolia","curlytop knotweed","Polygonaceae","native","annual","forb","native"
+776,"ERIO_SP","Eriogonum spp.",NA,"buckwheat","Polygonaceae","native","perennial","forb","native"
+224,"ERIUMB","Eriogonum umbellatum",NA,"sulphur buckwheat","Polygonaceae","native","perennial","forb","native"
+628,"POLRAM","Polygonum ramosissimum",NA,"bushy knotweed","Polygonaceae","native","annual","forb","native"
+415,"POLDOU","Polygonum douglasii",NA,"Douglas' knotweed","Polygonaceae","native","annual","forb","native"
+219,"ERIOVA","Eriogonum ovalifolium",NA,"cushion buckwheat","Polygonaceae","native","perennial","forb","native"
+214,"ERIFLA","Eriogonum flavum",NA,"golden buckwheat","Polygonaceae","native","perennial","forb","native"
+131,"CHELEP","Chenopodium leptophyllum",NA,"narrowleaf goosefoot","Amaranthaceae","native","annual","forb","native"
+130,"CHEFRE","Chenopodium fremontii",NA,"Fremont's goosefoot","Amaranthaceae","native","annual","forb","native"
+593,"KRALAN","Krascheninnikovia lanata",NA,"winterfat","Amaranthaceae","native","perennial","shrub","native"
+659,"CHEBOT","Chenopodium botryodes","Chenopodium chenopodioides ","low goosefoot","Amaranthaceae","native","annual","forb","native"
+528,"TOXRYD","Toxicodendron rydbergii",NA,"western poison ivy","Anacardiaceae","native","perennial","forb","native"
+683,"RHUGLA","Rhus glabra ",NA,"smooth sumac","Anacardiaceae","native","perennial","shrub","native"
+327,"BERREP","Berberis repens","Mahonia repens ","Oregon grape","Berberidaceae","native","perennial","shrub","native"
+91,"CAMROT","Campanula rotundifolia",NA,"Scotch harebell","Campanulaceae","native","perennial","forb","native"
+128,"EUPSER","Euphorbia serpyllifolia","Chamaesyce serpyllifolia","thymeleaf sandmat","Euphorbiaceae","native","annual","forb","native"
+272,"HIPVUL","Hippuris vulgaris ",NA,"common mare's-tail","Hippuridaceae","native","perennial","forb","native"
+390,"PHILEW","Philadelphus lewisii",NA,"mock orange","Hydrangeaceae","native","perennial","shrub","native"
+376,"PEDRAC","Pedicularis racemosa ",NA,"sickletop lousewort","Orobanchaceae","native","perennial","forb","native"
+120,"CASLUT","Castilleja lutescens",NA,"stiff yellow Indian paintbrush","Orobanchaceae","native","perennial","forb","native"
+375,"PEDCON","Pedicularis contorta ",NA,"coil-beaked lousewort","Orobanchaceae","native","perennial","forb","native"
+374,"PEDBRA","Pedicularis bracteosa",NA,"bracted lousewort","Orobanchaceae","native","perennial","forb","native"
+756,"MELLIN","Melampyrum lineare",NA,"narrowleaf cowwheat","Orobanchaceae","native","annual","forb","native"
+122,"CASPAL","Castilleja pallescens",NA,"pale Indian paintbrush","Orobanchaceae","native","perennial","forb","native"
+119,"CASHIS","Castilleja hispida",NA,"harsh paintbrush","Orobanchaceae","native","perennial","forb","native"
+123,"CAST_SP","Castilleja spp.",NA,"paintbrush","Orobanchaceae","native","perennial","forb","native"
+121,"CASMIN","Castilleja miniata",NA,"scarlet paintbrush","Orobanchaceae","native","perennial","forb","native"
+363,"OROFAS","Orobanche fasciculata",NA,"clustered broom-rape","Orobanchaceae","native","annual","forb","native"
+251,"GILTEN","Gilia tenerrima",NA,"delicate gilia","Polemoniaceae","native","annual","forb","native"
+152,"COLDEB","Collomia debilis",NA,"alpine collomia","Polemoniaceae","native","perennial","forb","native"
+721,"IPOCON","Ipomopsis spicata",NA,"spiked ipomopsis","Polemoniaceae","native","perennial","forb","native"
+418,"POLPUL","Polemonium pulcherrimum",NA,"Jacob's ladder","Polemoniaceae","native","perennial","forb","native"
+153,"COLLIN","Collomia linearis",NA,"narrow-leaved collomia","Polemoniaceae","native","annual","forb","native"
+296,"LEPSEP","Leptosiphon septentrionalis","Linanthus septentrionalis","northern linanthus","Polemoniaceae","native","annual","forb","native"
+391,"PHLHOO","Phlox hoodii ",NA,"hood’s phlox","Polemoniaceae","native","perennial","forb","native"
+417,"POLMIC","Polemonium micranthum",NA,"littlebells","Polemoniaceae","native","annual","forb","native"
+653,"PHLMUS","Phlox muscoides",NA,"moss phlox","Polemoniaceae","native","perennial","forb","native"
+343,"MICGRA","Microsteris gracilis",NA,"pink microsteris","Polemoniaceae","native","annual","forb","native"
+304,"LEPNUT","Leptosiphon nuttallii","Linanthus nuttallii","Nuttall's linanthus","Polemoniaceae","native","perennial","forb","native"
+392,"PHLKEL","Phlox kelseyi",NA,"Kelsey's phlox","Polemoniaceae","native","perennial","forb","native"
+420,"POLVIS","Polemonium viscosum",NA,"sticky Jacob's-ladder","Polemoniaceae","native","perennial","forb","native"
+298,"LEWRED","Lewisia rediviva",NA,"bitterroot","Portulacaceae","native","perennial","forb","native"
+144,"CLALAN","Claytonia lanceolata",NA,"lanceleaf springbeauty","Portulacaceae","native","perennial","forb","native"
+352,"MONLIN","Montia linearis",NA,"narrowleaved montia","Portulacaceae","native","annual","forb","native"
+145,"CLAPER","Claytonia perfoliata",NA,"miner's lettuce","Portulacaceae","native","perennial","forb","native"
+723,"TRACAR","Trautvetteria caroliniensis",NA,"Carolina bugbane","Ranunculaceae","native","perennial","forb","native"
+777,"RANCYM","Ranunculus cymbalaria",NA,"alkali buttercup","Ranunculaceae","native","perennial","forb","native"
+148,"CLELIG","Clematis ligusticifolia",NA,"virgin's bower","Ranunculaceae","native","perennial","vine","native"
+661,"ACOCOL","Aconitum columbianum ",NA,"Columbian monkshood","Ranunculaceae","native","perennial","forb","native"
+174,"DELBIC","Delphinium bicolor",NA,"larkspur","Ranunculaceae","native","perennial","forb","native"
+447,"RANUNC","Ranunculus uncinatus",NA,"woodland buttercup","Ranunculaceae","native","perennial","forb","native"
+445,"RANGLA","Ranunculus glaberrimus",NA,"sagebrush buttercup","Ranunculaceae","native","perennial","forb","native"
+149,"CLEOCC","Clematis occidentalis",NA,"western virgin's bower","Ranunculaceae","native","perennial","vine","native"
+28,"ANEPAT","Anemone patens","Pulsatilla patens","cutleaf anenome","Ranunculaceae","native","perennial","forb","native"
+624,"RANHYP","Ranunculus hyperboreus",NA,"high northern buttercup","Ranunculaceae","native","perennial","forb","native"
+524,"THAOCC","Thalictrum occidentale",NA,"western meadowrue","Ranunculaceae","native","perennial","forb","native"
+629,"RANSCL","Ranunculus sceleratus",NA,"cursed buttercup","Ranunculaceae","native","perennial","forb","native"
+442,"RANABO","Ranunculus abortivus",NA,"littleleaf buttercup","Ranunculaceae","native","perennial","forb","native"
+523,"THADAS","Thalictrum dasycarpum",NA,"purple meadowrue","Ranunculaceae","native","perennial","forb","native"
+444,"RANFLA","Ranunculus flammula",NA,"greater creeping spearwort","Ranunculaceae","native","perennial","forb","native"
+636,"ANEMUL","Anemone multifida",NA,"Pacific anemone","Ranunculaceae","native","perennial","forb","native"
+724,"RANTES","Ranunculus testiculatus",NA,"bur buttercup","Ranunculaceae","native","perennial","forb","native"
+175,"DELP_SP","Delphinium spp.",NA,"larkspur","Ranunculaceae","native","perennial","forb","native"
+147,"CLECOL","Clematis columbiana",NA,"rock clematis","Ranunculaceae","native","perennial","vine","native"
+8,"ACTRUB","Actaea rubra",NA,"red baneberry","Ranunculaceae","native","perennial","forb","native"
+443,"RANAQU","Ranunculus aquatilis ",NA,"white water crowfoot","Ranunculaceae","native","perennial","forb","native"
+268,"HEUPAR","Heuchera parvifolia",NA,"common alumroot","Saxifragaceae","native","perennial","forb","native"
+267,"HEUCYL","Heuchera cylindrica",NA,"round-leaf alumroot","Saxifragaceae","native","perennial","forb","native"
+350,"MITSTA","Mitella stauropetala",NA,"smallflower miterwort","Saxifragaceae","native","perennial","forb","native"
+348,"MITNUD","Mitella nuda",NA,"naked miterwort","Saxifragaceae","native","perennial","forb","native"
+729,"MITCAU","Mitella caulescens",NA,"slightstemmed miterwort","Saxifragaceae","native","perennial","forb","native"
+309,"LITH_SP","Lithophragma spp.",NA,"woodland-star","Saxifragaceae","native","perennial","forb","native"
+310,"LITTEN","Lithophragma tenellum",NA,"slender woodland-star","Saxifragaceae","native","perennial","forb","native"
+345,"MICODO","Micranthes odontoloma ","Saxifraga odontoloma","streambank saxifrage","Saxifragaceae","native","perennial","forb","native"
+349,"MITE_SP","Mitella spp.",NA,"miterwort","Saxifragaceae","native","perennial","forb","native"
+306,"LITGLA","Lithophragma glabra",NA,"smoth fringecup","Saxifragaceae","native","perennial","forb","native"
+307,"LITPAR","Lithophragma parviflorum",NA,"smallflower woodland-star","Saxifragaceae","native","perennial","forb","native"
+478,"MICNID","Micranthes nidifica","Saxifraga integrifolia","wholeleaf saxifrage","Saxifragaceae","native","perennial","forb","native"
+527,"TIATRI","Tiarella trifoliata",NA,"threeleaf foamflower","Saxifragaceae","native","perennial","forb","native"
+506,"SPAANG","Sparganium angustifolium",NA,"narrowleaf bur-reed","Sparganiaceae","native","perennial","forb","native"
+507,"SPAEUR","Sparganium eurycarpum",NA,"broadfruit bur-reed","Sparganiaceae","native","perennial","forb","native"
+554,"VALDIO","Valeriana dioica",NA,"marsh valerian","Valerianaceae","native","perennial","forb","native"
+404,"PLEMAC","Plectritis macrocera",NA,"white plectritis","Valerianaceae","native","annual","forb","native"
+64,"ASCSPE","Asclepias speciosa",NA,"showy milkweed","Asclepiadaceae","native","perennial","forb","native"
+318,"LONUTA","Lonicera utahensis",NA,"Utah honeysuckle","Caprifoliaceae","native","perennial","shrub","native"
+317,"LONCIL","Lonicera ciliosa",NA,"orange honeysuckle","Caprifoliaceae","native","perennial","vine","native"
+474,"SAMSP","Sambucus sp.",NA,"elderberry","Caprifoliaceae","native","perennial","shrub","native"
+516,"SYMALB","Symphoricarpos albus",NA,"snowberry","Caprifoliaceae","native","perennial","shrub","native"
+473,"SAMRAC","Sambucus racemosa",NA,"red elderberry","Caprifoliaceae","native","perennial","shrub","native"
+301,"LINBOR","Linnaea borealis",NA,"twinflower","Caprifoliaceae","native","perennial","forb","native"
+472,"SAMNIG","Sambucus nigra ssp. cerulea","Sambucus cerulea","blue elderberry","Caprifoliaceae","native","perennial","shrub","native"
+735,"LONINV","Lonicera involucrata",NA,"twinberry honeysuckle","Caprifoliaceae","native","perennial","shrub","native"
+377,"PENALB","Penstemon albertinus",NA,"Albert's penstemon","Plantaginaceae","native","perennial","forb","native"
+731,"PENGRA","Penstemon grandiflorus",NA,"large beardtongue","Plantaginaceae","native","perennial","forb","native"
+154,"COLPAR","Collinsia parviflora",NA,"blue-eyed Mary","Plantaginaceae","native","annual","forb","native"
+378,"PENDIP","Penstemon diphyllus",NA,"twoleaf beardtongue","Plantaginaceae","native","perennial","forb","native"
+644,"PENDEU","Penstemon deustus",NA,"scabland penstemon","Plantaginaceae","native","perennial","forb","native"
+555,"VERAME","Veronica americana",NA,"American speedwell","Plantaginaceae","native","perennial","forb","native"
+609,"GRANEG","Gratiola neglecta ",NA,"clammy hedgehyssop","Plantaginaceae","native","annual","forb","native"
+379,"PENERI","Penstemon eriantherus",NA,"fuzzy tongue penstemon","Plantaginaceae","native","perennial","forb","native"
+73,"BESWYO","Besseya wyomingensis",NA,"prairie kittentails","Plantaginaceae","native","perennial","forb","native"
+382,"PENWIL","Penstemon wilcoxii",NA,"Wilcox's penstemon","Plantaginaceae","native","perennial","forb","native"
+556,"VERANA","Veronica anagallis-aquatica",NA,"water speedwell","Plantaginaceae","native","perennial","forb","native"
+402,"PLAPAT","Plantago patagonica",NA,"woolly plantain","Plantaginaceae","native","annual","forb","native"
+737,"VERSCU","Veronica scutellata",NA,"skullcap speedwell","Plantaginaceae","native","perennial","forb","native"
+380,"PENPRO","Penstemon procerus",NA,"littleflower penstemon","Plantaginaceae","native","perennial","forb","native"
+381,"PENS_SP","Penstemon spp.",NA,"beardtongue","Plantaginaceae","native","perennial","forb","native"
+663,"MOELAT","Moehringia lateriflora",NA,"bluntleaf sandwort","Caryophyllaceae","native","perennial","forb","native"
+682,"CERNUT","Cerastium nutans",NA,"nodding chickweed","Caryophyllaceae","native","perennial","forb","native"
+494,"SILORE","Silene oregana",NA,"Oregon campion","Caryophyllaceae","native","perennial","forb","native"
+51,"ARECON","Arenaria congesta",NA,"ballhead sandwort","Caryophyllaceae","native","perennial","forb","native"
+749,"CERARV","Cerastium arvense",NA,"field chickweed","Caryophyllaceae","native","perennial","forb","native"
+512,"STELON","Stellaria longipes",NA,"long-stalk starwort","Caryophyllaceae","native","perennial","forb","native"
+493,"SILMEN","Silene menziesii",NA,"Menzies' campion","Caryophyllaceae","native","perennial","forb","native"
+762,"SAGSAG","Sagina saginoides",NA,"arctic pearlwort","Caryophyllaceae","native","perennial","forb","native"
+765,"STELONF","Stellaria longifolia",NA,"longleaf starwort","Caryophyllaceae","native","perennial","forb","native"
+491,"SILANT","Silene antirrhina",NA,"sleepy silene","Caryophyllaceae","native","annual","forb","native"
+71,"ATHFIL","Athyrium filix-femina",NA,"common ladyfern","Dryopteridaceae","native","perennial","forb","native"
+794,"DRYEXP","Dryopteris expansa",NA,"spreading woodfern","Dryopteridaceae","native","perennial","forb","native"
+188,"DRYFIL","Dryopteris filix-mas",NA,"male fern","Dryopteridaceae","native","annual","forb","native"
+754,"GYMDRY","Gymnocarpium dryopteris",NA,"western oakfern","Dryopteridaceae","native","perennial","forb","native"
+572,"WOOORE","Woodsia oregana",NA,"Oregon cliff fern","Dryopteridaceae","native","perennial","forb","native"
+169,"CYSFRA","Cystopteris fragilis",NA,"brittle bladderfern","Dryopteridaceae","native","perennial","forb","native"
+789,"POLMUN","Polystichum munitum",NA,"western swordfern","Dryopteridaceae","native","perennial","forb","native"
+452,"RIBLAC","Ribes lacustre",NA,"prickly currant","Grossulariaceae","native","perennial","shrub","native"
+453,"RIBIRR","Ribes irriguum","Ribes oxyacanthoides ssp. irriguum ","Idaho gooseberry","Grossulariaceae","native","perennial","shrub","native"
+451,"RIBINE","Ribes inerme",NA,"whitestem gooseberry","Grossulariaceae","native","perennial","shrub","native"
+450,"RIBHUD","Ribes hudsonianum",NA,"northern black currant","Grossulariaceae","native","perennial","shrub","native"
+616,"RIBAUR","Ribes aureum",NA,"golden currant","Grossulariaceae","native","perennial","shrub","native"
+454,"RIBE_SP","Ribes spp.",NA,"current or gooseberry","Grossulariaceae","native","perennial","shrub","native"
+708,"RIBSET","Ribes setosum ","Ribes oxyacanthoides ssp. setosum","bristly gooseberry","Grossulariaceae","native","perennial","shrub","native"
+449,"RIBCER","Ribes cereum",NA,"wax current","Grossulariaceae","native","perennial","shrub","native"
+455,"RIBVIS","Ribes viscosissimum ",NA,"sticky currant","Grossulariaceae","native","perennial","shrub","native"
+622,"PHACAM","Phacelia campanularia",NA,"desertbells","Hydrophyllaceae","native","annual","forb","native"
+358,"NEMBRE","Nemophila breviflora",NA,"Great Basin blue-eyes","Hydrophyllaceae","native","annual","forb","native"
+276,"HYDCAP","Hydrophyllum capitatum",NA,"ball head waterleaf","Hydrophyllaceae","native","perennial","forb","native"
+389,"PHALIN","Phacelia linearis",NA,"thread-leaf phacelia","Hydrophyllaceae","native","annual","forb","native"
+388,"PHAHAS","Phacelia hastata",NA,"silverleaf phacelia","Hydrophyllaceae","native","perennial","forb","native"
+387,"PHAGLA","Phacelia glandulosa",NA,"glandular phacelia","Hydrophyllaceae","native","perennial","forb","native"
+716,"OROUNI","Orobanche uniflora",NA,"one-flowered broomrape","Orobanchaceae 	","native","annual","forb","native"
+483,"SELSCO","Selaginella scopulorum",NA,"lesser spikemoss","Selaginellaceae","native","perennial","forb","native"
+706,"PTEAQU","Pteridium aquilinum",NA,"western bracken fern","Dennstaedtiaceae","native","perennial","forb","native"
+194,"ELOCAN","Elodea canadensis",NA,"Canada waterweed","Hydrocharitaceae","native","perennial","forb","native"
+549,"UTRVUL","Utricularia vulgaris ",NA,"common bladderwort","Lentibulariaceae","native","perennial","forb","native"
+423,"POTAMP","Potamogeton amplifolius ",NA,"large-leaf pondweed","Potamogetonaceae","native","perennial","forb","native"
+425,"POTFOL","Potamogeton foliosus",NA,"leafy pondweed","Potamogetonaceae","native","perennial","forb","native"
+300,"LIMAQU","Limosella aquatica",NA,"water mudwort","Scrophulariaceae","native","perennial","forb","native"
+365,"ORTTEN","Orthocarpus tenuifolius",NA,"pink owl clover","Scrophulariaceae","native","annual","forb","native"
+574,"ZANPAL","Zannichellia palustris ",NA,"horned pondweed","Zannichelliaceae","native","perennial","forb","native"
+741,"BOTVIR","Botrychium virginianum",NA,"common grapefern ","Ophioglossaceae ","native","perennial","forb","native"
+544,"UNK_FORB",NA,NA,"unknown forb","None","unknown","unknown","forb","weed"
+745,"AGRO_SP","Agrostis spp.",NA,"bentgrass","Poaceae","unknown","perennial","graminoid","weed"
+81,"BROM_SP","Bromus spp.",NA,"bromes","Poaceae","unknown","unknown","graminoid","weed"
+200,"ELYM_SP","Elymus spp.",NA,"wildrye","Poaceae","unknown","unknown","graminoid","weed"
+545,"UNK_GRAM",NA,NA,"unknown graminoid","Poaceae","unknown","unknown","graminoid","weed"
+770,"STIP_SP","Stipa spp.",NA,"needlegrass","Poaceae","unknown","unknown","graminoid","weed"
+768,"UNK_TREE",NA,NA,"unknown tree","unknown","unknown","unknown","tree","weed"
+784,"UNKN_SP","Unknown",NA,"unknown","unknown","unknown","unknown","unknown","weed"
+767,"UNK_SHRUB",NA,NA,"unknown shrub","unknown","unknown","unknown","shrub","weed"
+172,"DALE_SP","Dalea spp.",NA,"prairie clover","Fabaceae","unknown","unknown","forb","weed"
+690,"TRIF_SP","Trifolium spp.",NA,"clover","Fabaceae","unknown","unknown","forb","weed"
+429,"POTE_SP","Potentilla spp.",NA,"cinquefoil","Rosaceae","unknown","unknown","forb","weed"
+289,"LAMI_SP","Lamium spp.",NA,"deadnettle","Lamiaceae","unknown","unknown","forb","weed"
+257,"GNAP_SP","Gnaphalium spp.",NA,"cudweed","Asteraceae","unknown","unknown","forb","weed"
+771,"SYMP_SP","Symphyotrichum spp.",NA,"aster","Asteraceae","unknown","unknown","forb","weed"
+503,"SOLI_SP","Solidago spp.",NA,"goldenrod","Asteraceae","unknown","perennial","forb","weed"
+781,"HIER_SP","Hieracium spp.",NA,"hawkweed","Asteraceae","unknown","perennial","forb","weed"
+140,"CIRS_SP","Cirsium spp.",NA,"thistle","Asteraceae","unknown","unknown","forb","weed"
+178,"DESC_SP","Descurainia spp.",NA,"tansymustard","Brassicaceae","unknown","unknown","forb","weed"
+750,"DRAB_SP","Draba spp.",NA,"draba","Brassicaceae","unknown","unknown","forb","weed"
+186,"DRANEM","Draba nemorosa",NA,"woods draba","Brassicaceae","unknown","annual","forb","weed"
+419,"POLY_SP","Polygonum spp.",NA,"knotweed","Polygonaceae","unknown","unknown","forb","weed"
+132,"CHEN_SP","Chenopodium spp.",NA,"goosefoot","Amaranthaceae","unknown","unknown","forb","weed"
+691,"RANU_SP","Ranunculus spp.",NA,"buttercup","Ranunculaceae","unknown","unknown","forb","weed"
+495,"SILE_SP","Silene spp.",NA,"campion","Caryophyllaceae","unknown","unknown","forb","weed"
+769,"CERA_SP","Cerastium spp.",NA,"chickweed","Caryophyllaceae","unknown","unknown","forb","weed"
 435,"PSAJUN","Psathyrostachys juncea","Elymus junceus","Russian wildrye","Poaceae","nonnative","perennial","graminoid","planted"
-687,"ERACIL","Eragrostis cilianensis",NA,"stinkgrass","Poaceae","nonnative","annual","graminoid","unintentional"
-405,"POABUL","Poa bulbosa",NA,"bulbous bluegrass","Poaceae","nonnative","perennial","graminoid","unintentional"
-19,"ALOGEN","Alopecurus geniculatus",NA,"water foxtail","Poaceae","nonnative","perennial","graminoid","unintentional"
-80,"BROJAP","Bromus japonicus",NA,"Japanese brome","Poaceae","nonnative","annual","graminoid","unintentional"
-413,"POATRI","Poa trivialis",NA,"rough bluegrass","Poaceae","nonnative","perennial","graminoid","unintentional"
-78,"BROHOR","Bromus hordeaceus","Bromus mollis","soft brome","Poaceae","nonnative","annual","graminoid","unintentional"
-406,"POACOM","Poa compressa",NA,"Canada bluegrass","Poaceae","nonnative","perennial","graminoid","unintentional"
-82,"BROTEC","Bromus tectorum",NA,"cheatgrass","Poaceae","nonnative","annual","graminoid","unintentional"
-620,"SETVIR","Setaria viridis ",NA,"green bristlegrass","Poaceae","nonnative","annual","graminoid","unintentional"
-170,"DACGLO","Dactylis glomerata",NA,"orchard grass","Poaceae","nonnative","perennial","graminoid","unintentional"
-488,"SETPAR","Setaria parviflora","Panicum occidentale","western witchgrass","Poaceae","nonnative","perennial","graminoid","unintentional"
-14,"AGRSTO","Agrostis stolonifera",NA,"redtop","Poaceae","nonnative","perennial","graminoid","unintentional"
-633,"ECHCRU","Echinochloa crus-galli ",NA,"barnyardgrass","Poaceae","nonnative","perennial","graminoid","unintentional"
+687,"ERACIL","Eragrostis cilianensis",NA,"stinkgrass","Poaceae","nonnative","annual","graminoid","weed"
+405,"POABUL","Poa bulbosa",NA,"bulbous bluegrass","Poaceae","nonnative","perennial","graminoid","weed"
+19,"ALOGEN","Alopecurus geniculatus",NA,"water foxtail","Poaceae","nonnative","perennial","graminoid","weed"
+80,"BROJAP","Bromus japonicus",NA,"Japanese brome","Poaceae","nonnative","annual","graminoid","weed"
+413,"POATRI","Poa trivialis",NA,"rough bluegrass","Poaceae","nonnative","perennial","graminoid","weed"
+78,"BROHOR","Bromus hordeaceus","Bromus mollis","soft brome","Poaceae","nonnative","annual","graminoid","weed"
+406,"POACOM","Poa compressa",NA,"Canada bluegrass","Poaceae","nonnative","perennial","graminoid","weed"
+82,"BROTEC","Bromus tectorum",NA,"cheatgrass","Poaceae","nonnative","annual","graminoid","weed"
+620,"SETVIR","Setaria viridis ",NA,"green bristlegrass","Poaceae","nonnative","annual","graminoid","weed"
+170,"DACGLO","Dactylis glomerata",NA,"orchard grass","Poaceae","nonnative","perennial","graminoid","weed"
+488,"SETPAR","Setaria parviflora","Panicum occidentale","western witchgrass","Poaceae","nonnative","perennial","graminoid","weed"
+14,"AGRSTO","Agrostis stolonifera",NA,"redtop","Poaceae","nonnative","perennial","graminoid","weed"
+633,"ECHCRU","Echinochloa crus-galli ",NA,"barnyardgrass","Poaceae","nonnative","perennial","graminoid","weed"
 393,"PHLPRA","Phleum pratense",NA,"timothy grass","Poaceae","nonnative","perennial","graminoid","planted"
-412,"POA_SP","Poa spp.",NA,"bluegrass","Poaceae","nonnative","unknown","graminoid","unintentional"
+412,"POA_SP","Poa spp.",NA,"bluegrass","Poaceae","nonnative","unknown","graminoid","weed"
 12,"AGRCRI","Agropyron cristatum",NA,"crested wheatgrass","Poaceae","nonnative","perennial","graminoid","planted"
-79,"BROINE","Bromus inermis",NA,"smooth brome","Poaceae","nonnative","perennial","graminoid","unintentional"
+79,"BROINE","Bromus inermis",NA,"smooth brome","Poaceae","nonnative","perennial","graminoid","weed"
 525,"THIINT","Thinopyrum intermedium","Elytrigia intermedia","intermediate wheatgrass","Poaceae","nonnative","perennial","graminoid","planted"
-410,"POAPRA","Poa pratensis",NA,"Kentucky bluegrass","Poaceae","nonnative","perennial","graminoid","unintentional"
-77,"BROCOM","Bromus commutatus","Bromus racemosus","meadow brome-grass","Poaceae","nonnative","annual","graminoid","unintentional"
+410,"POAPRA","Poa pratensis",NA,"Kentucky bluegrass","Poaceae","nonnative","perennial","graminoid","weed"
+77,"BROCOM","Bromus commutatus","Bromus racemosus","meadow brome-grass","Poaceae","nonnative","annual","graminoid","weed"
 575,"ZEAMAY","Zea mays",NA,"corn","Poaceae","nonnative","annual","graminoid","planted"
-489,"SETA_SP","Setaria spp.",NA,"bristlegrass","Poaceae","nonnative","annual","graminoid","unintentional"
+489,"SETA_SP","Setaria spp.",NA,"bristlegrass","Poaceae","nonnative","annual","graminoid","weed"
 530,"TRIAES","Triticum aestivum",NA,"wheat","Poaceae","nonnative","annual","graminoid","planted"
-774,"ALOP_SP","Alopecurus spp.",NA,"foxtail","Poaceae","nonnative","perennial","graminoid","unintentional"
-199,"ELYREP","Elymus repens","Agropyron repens","quackgrass","Poaceae","nonnative","perennial","graminoid","unintentional"
-386,"PHAARU","Phalaris arundinacea",NA,"reed canarygrass","Poaceae","nonnative","perennial","graminoid","unintentional"
-39,"APEINT","Apera interrupta","Agrostis interrupta","dense silkybent","Poaceae","nonnative","annual","graminoid","unintentional"
-655,"VENDUB","Ventenata dubia",NA,"North Africa grass","Poaceae","nonnative","annual","graminoid","unintentional"
-373,"PANCAP","Panicum capillare",NA,"witchgrass","Poaceae","nonnative","annual","graminoid","unintentional"
-531,"TRIAUR","Trifolium aureum","Trifolium agrarium","golden clover","Fabaceae","nonnative","biennial","forb","unintentional"
+774,"ALOP_SP","Alopecurus spp.",NA,"foxtail","Poaceae","nonnative","perennial","graminoid","weed"
+199,"ELYREP","Elymus repens","Agropyron repens","quackgrass","Poaceae","nonnative","perennial","graminoid","weed"
+386,"PHAARU","Phalaris arundinacea",NA,"reed canarygrass","Poaceae","nonnative","perennial","graminoid","weed"
+39,"APEINT","Apera interrupta","Agrostis interrupta","dense silkybent","Poaceae","nonnative","annual","graminoid","weed"
+655,"VENDUB","Ventenata dubia",NA,"North Africa grass","Poaceae","nonnative","annual","graminoid","weed"
+373,"PANCAP","Panicum capillare",NA,"witchgrass","Poaceae","nonnative","annual","graminoid","weed"
+531,"TRIAUR","Trifolium aureum","Trifolium agrarium","golden clover","Fabaceae","nonnative","biennial","forb","weed"
 255,"GLYMAX","Glycine max","Phaseolus max L.","soybean","Fabaceae","nonnative","annual","forb","planted"
-333,"MEDLUP","Medicago lupulina",NA,"black medic","Fabaceae","nonnative","perennial","forb","unintentional"
+333,"MEDLUP","Medicago lupulina",NA,"black medic","Fabaceae","nonnative","perennial","forb","weed"
 334,"MEDSAT","Medicago sativa",NA,"alfalfa","Fabaceae","nonnative","perennial","forb","planted"
-662,"VICSAT","Vicia sativa ",NA,"garden vetch","Fabaceae","nonnative","annual","forb","unintentional"
-536,"TRIREP","Trifolium repens",NA,"white clover","Fabaceae","nonnative","perennial","forb","unintentional"
-597,"ASTCIC","Astragalus cicer",NA,"chickpea milkvetch","Fabaceae","nonnative","perennial","forb","unintentional"
-336,"MELOFF","Melilotus officinalis",NA,"yellow sweet-clover","Fabaceae","nonnative","perennial","forb","unintentional"
+662,"VICSAT","Vicia sativa ",NA,"garden vetch","Fabaceae","nonnative","annual","forb","weed"
+536,"TRIREP","Trifolium repens",NA,"white clover","Fabaceae","nonnative","perennial","forb","weed"
+597,"ASTCIC","Astragalus cicer",NA,"chickpea milkvetch","Fabaceae","nonnative","perennial","forb","weed"
+336,"MELOFF","Melilotus officinalis",NA,"yellow sweet-clover","Fabaceae","nonnative","perennial","forb","weed"
 361,"ONOVIC","Onobrychis viciaefolia",NA,"sainfoin","Fabaceae","nonnative","perennial","forb","planted"
-535,"TRIPRA","Trifolium pratense",NA,"red clover","Fabaceae","nonnative","perennial","forb","unintentional"
+535,"TRIPRA","Trifolium pratense",NA,"red clover","Fabaceae","nonnative","perennial","forb","weed"
 798,"MEDFAL","Medicago falcata",NA,"yellow alfalfa","Fabaceae","nonnative","unknown","forb","planted"
-666,"LATSAT","Lathyrus sativus ",NA,"white pea","Fabaceae","nonnative","annual","forb","unintentional"
+666,"LATSAT","Lathyrus sativus ",NA,"white pea","Fabaceae","nonnative","annual","forb","weed"
 734,"TRIINC","Trifolium incarnatum",NA,"crimson clover","Fabaceae","nonnative","annual","forb","planted"
-652,"PINEDU","Pinus edulis",NA,"pinyon pine","Pinaceae","nonnative","perennial","tree","unintentional"
-428,"POTREC","Potentilla recta",NA,"sulphur cinquefoil","Rosaceae","nonnative","perennial","forb","unintentional"
-726,"POTARG","Potentilla argentea",NA,"silver cinquefoil","Rosaceae","nonnative","perennial","forb","unintentional"
-793,"SORAUC","Sorbus aucuparia",NA,"European mountain ash","Rosaceae","nonnative","perennial","tree","unintentional"
-475,"SANMIN","Sanguisorba minor",NA,"small burnet","Rosaceae","nonnative","perennial","forb","unintentional"
-778,"ULMPUM","Ulmus pumila",NA,"Siberian elm","Ulmaceae","nonnative","perennial","tree","unintentional"
-743,"ACEPLA","Acer platanoides",NA,"Norway maple","Aceraceae","nonnative","perennial","tree","unintentional"
-606,"NEPCAT","Nepeta cataria",NA,"catnip","Lamiaceae","nonnative","perennial","forb","unintentional"
-288,"LAMAMP","Lamium amplexicaule",NA,"henbit deadnettle","Lamiaceae","nonnative","biennial","forb","unintentional"
-469,"SALSCL","Salvia sclarea",NA,"clary","Lamiaceae","nonnative","biennial","forb","unintentional"
-243,"GALTET","Galeopsis tetrahit",NA,"bristlestem hempnettle","Lamiaceae","nonnative","annual","forb","unintentional"
-337,"MENAQU","Mentha aquatica",NA,"peppermint","Lamiaceae","nonnative","perennial","forb","unintentional"
-331,"MARVUL","Marrubium vulgare",NA,"horehound","Lamiaceae","nonnative","perennial","forb","unintentional"
-330,"MALPAR","Malva parviflora",NA,"cheeseweed mallow","Malvaceae","nonnative","perennial","forb","unintentional"
-595,"VIOARV","Viola arvensis","Viola tricolor","European field pansy","Violaceae","nonnative","annual","forb","unintentional"
-49,"ARCMIN","Arctium minus",NA,"common burdock","Asteraceae","nonnative","biennial","forb","unintentional"
-638,"CORLAN","Coreopsis lanceolata",NA,"lanceleaf tickseed","Asteraceae","nonnative","perennial","forb","unintentional"
-648,"RATPIN","Ratibida pinnata ",NA,"pinnate prairie coneflower","Asteraceae","nonnative","perennial","forb","unintentional"
-640,"DRAAMP","Dracopis amplexicaulis ",NA,"clasping coneflower","Asteraceae","nonnative","perennial","forb","unintentional"
-520,"TANVUL","Tanacetum vulgare",NA,"common tansy","Asteraceae","nonnative","perennial","forb","unintentional"
-136,"CICHOR","Cichorium intybus",NA,"chicory","Asteraceae","nonnative","perennial","forb","unintentional"
-332,"MATDIS","Matricaria discoidea","Matricaria matricarioides","pineappleweed","Asteraceae","nonnative","annual","forb","unintentional"
-297,"LEUVUL","Leucanthemum vulgare",NA,"ox-eye daisy","Asteraceae","nonnative","perennial","forb","unintentional"
-763,"SONARV","Sonchus arvensis",NA,"field sowthistle","Asteraceae","nonnative","perennial","forb","unintentional"
-142,"CIRVUL","Cirsium vulgare",NA,"bull thistle","Asteraceae","nonnative","biennial","forb","unintentional"
-287,"LACSER","Lactuca serriola",NA,"prickly lettuce","Asteraceae","nonnative","biennial","forb","unintentional"
-311,"LOGARV","Logfia arvensis","Filago arvensis","field cottonrose","Asteraceae","nonnative","annual","forb","unintentional"
-696,"HIEAUR","Hieracium aurantiacum",NA,"orange hawkweed","Asteraceae","nonnative","perennial","forb","unintentional"
-641,"ECHPUR","Echinacea purpurea",NA,"eastern purple coneflower","Asteraceae","nonnative","perennial","forb","unintentional"
-125,"CENSTO","Centaurea stoebe",NA,"spotted knapweed","Asteraceae","nonnative","perennial","forb","unintentional"
-104,"CARNUT","Carduus nutans",NA,"nodding plumeless thistle","Asteraceae","nonnative","perennial","forb","unintentional"
-612,"PLAMAJ","Plantago major ",NA,"common plantain","Asteraceae","nonnative","perennial","forb","unintentional"
-59,"ARTABS","Artemisia absinthium",NA,"absinthium","Asteraceae","nonnative","perennial","forb","unintentional"
-529,"TRADUB","Tragopogon dubius",NA,"yellow salsify","Asteraceae","nonnative","biennial","forb","unintentional"
-521,"TARLAE","Taraxacum laevigatum",NA,"rock dandelion","Asteraceae","nonnative","perennial","forb","unintentional"
-522,"TAROFF","Taraxacum officinale",NA,"common dandelion","Asteraceae","nonnative","perennial","forb","unintentional"
-608,"TRIPER","Tripleurospermum perforatum","Matricaria maritima L. ssp. inodora (L.) Clapham","scentless false mayweed","Asteraceae","nonnative","annual","forb","unintentional"
-139,"CIRARV","Cirsium arvense",NA,"Canada thistle","Asteraceae","nonnative","perennial","forb","unintentional"
-278,"HYPPER","Hypericum perforatum",NA,"common St. John's wort","Clusiaceae","nonnative","perennial","forb","unintentional"
-643,"OENSPE","Oenothera speciosa ",NA,"pinkladies","Onagraceae","nonnative","perennial","forb","unintentional"
-143,"CLAAMO","Clarkia amoena",NA,"farewell to spring","Onagraceae","nonnative","annual","forb","unintentional"
-465,"SALALB","Salix alba",NA,"white willow","Salicaceae","nonnative","perennial","shrub","unintentional"
-689,"SOLSAR","Solanum sarrachoides","Solanum physalifolium ","hoe nightshade","Solanaceae","nonnative","annual","forb","unintentional"
-277,"HYONIG","Hyoscyamus niger",NA,"henbane","Solanaceae","nonnative","biennial","forb","unintentional"
-501,"SOLDUL","Solanum dulcamara",NA,"climbing nightshade","Solanaceae","nonnative","perennial","vine","unintentional"
-559,"VERBRA","Verbena bracteata",NA,"bracted vervain","Verbenaceae","nonnative","perennial","forb","unintentional"
-190,"ECHVUL","Echium vulgare",NA,"blueweed","Boraginaceae","nonnative","perennial","forb","unintentional"
-355,"MYOMIC","Myosotis micrantha","Myosotis stricta, M. sylvatica","stiff forget-me-not","Boraginaceae","nonnative","annual","forb","unintentional"
-167,"CYNOFF","Cynoglossum officinale",NA,"hound's tongue","Boraginaceae","nonnative","biennial","forb","unintentional"
-84,"LITARV","Lithospermum arvense","Buglossoides arvensis ","corn gromwell","Boraginaceae","nonnative","annual","forb","unintentional"
-353,"MYOASI","Myosotis asiatica","Myosotis sylvatica","woodland forget-me-not","Boraginaceae","nonnative","perennial","forb","unintentional"
-65,"ASPPRO","Asperugo procumbens",NA,"madwort","Boraginaceae","nonnative","annual","forb","unintentional"
-290,"LAPOCC","Lappula occidentalis var. occidentalis","Lappula redowskii","western stickseed","Boraginaceae","nonnative","biennial","forb","unintentional"
-526,"THLARV","Thlaspi arvense",NA,"pennycress","Brassicaceae","nonnative","annual","forb","unintentional"
-294,"LEPDEN","Lepidium densiflorum",NA,"common pepperweed","Brassicaceae","nonnative","biennial","forb","unintentional"
-496,"SISALT","Sisymbrium altissimum",NA,"tumble mustard","Brassicaceae","nonnative","biennial","forb","unintentional"
-295,"LEPPER","Lepidium perfoliatum",NA,"clasping pepperweed","Brassicaceae","nonnative","biennial","forb","unintentional"
-20,"ALYALY","Alyssum alyssoides",NA,"yellow alyssum","Brassicaceae","nonnative","biennial","forb","unintentional"
-90,"CAMMIC","Camelina microcarpa",NA,"little-pod false flax","Brassicaceae","nonnative","biennial","forb","unintentional"
-497,"SISLOE","Sisymbrium loeselii",NA,"small tumbleweed mustard","Brassicaceae","nonnative","biennial","forb","unintentional"
-700,"RORSYL","Rorippa sylvestris",NA,"creeping yellowcress","Brassicaceae","nonnative","perennial","forb","unintentional"
-665,"RAPSAT","Raphanus sativus ",NA,"cultivated radish","Brassicaceae","nonnative","annual","forb","unintentional"
-658,"BRARAP","Brassica rapa",NA,"field mustard","Brassicaceae","nonnative","biennial","forb","unintentional"
-177,"DESSOP","Descurainia sophia",NA,"flixweed","Brassicaceae","nonnative","biennial","forb","unintentional"
-356,"NASOFF","Nasturtium officinale","Rorippa nasturtium-aquaticum","watercress","Brassicaceae","nonnative","perennial","forb","unintentional"
-47,"ARATHA","Arabidopsis thaliana",NA,"mouse-ear cress","Brassicaceae","nonnative","annual","forb","unintentional"
-187,"DRAVER","Draba verna",NA,"spring draba","Brassicaceae","nonnative","annual","forb","unintentional"
-92,"CAPBUR","Capsella bursa-pastoris",NA,"shepherd's puse","Brassicaceae","nonnative","annual","forb","unintentional"
-225,"EROCIC","Erodium cicutarium",NA,"storksbill","Geranianceae","nonnative","biennial","forb","unintentional"
-247,"GERPUS","Geranium pusillum",NA,"small geranium","Geranianceae","nonnative","biennial","forb","unintentional"
-684,"PAPRHO","Papaver rhoeas",NA,"corn poppy","Papaveraceae","nonnative","annual","forb","unintentional"
-229,"ESCCAL","Eschscholzia californica",NA,"California poppy","Papaveraceae","nonnative","annual","forb","unintentional"
-627,"POLHYD","Polygonum hydropiper",NA,"marshpepper knotweed","Polygonaceae","nonnative","annual","forb","unintentional"
-414,"POLCON","Polygonum convolvulus",NA,"black bindweed","Polygonaceae","nonnative","annual","forb","unintentional"
-462,"RUMACE","Rumex acetosella",NA,"common sheep sorrel","Polygonaceae","nonnative","perennial","forb","unintentional"
-385,"POLMAC","Polygonum maculosa","Persicaria maculosa","spotted ladysthumb","Polygonaceae","nonnative","perennial","forb","unintentional"
-679,"POLAVI","Polygonum aviculare",NA,"prostrate knotweed","Polygonaceae","nonnative","annual","forb","unintentional"
-664,"FAGESC","Fagopyrum esculentum ",NA,"buckwheat","Polygonaceae","nonnative","annual","forb","unintentional"
-782,"RUME_SP","Rumex spp.",NA,"dock","Polygonaceae","nonnative","perennial","forb","unintentional"
-463,"RUMCRI","Rumex crispus",NA,"curly dock","Polygonaceae","nonnative","perennial","forb","unintentional"
-685,"AMAALB","Amaranthus albus",NA,"tumble pigweed ","Amaranthaceae","nonnative","annual","forb","unintentional"
-468,"SALTRA","Salsola tragus",NA,"prickly Russian thistle","Amaranthaceae","nonnative","perennial","forb","unintentional"
-285,"KOCSCO","Kochia scoparia",NA,"common kochia","Amaranthaceae","nonnative","annual","forb","unintentional"
-22,"AMARET","Amaranthus retroflexus",NA,"redroot pigweed","Amaranthaceae","nonnative","annual","forb","unintentional"
-23,"AMAR_SP","Amaranthus spp.",NA,"pigweed","Amaranthaceae","nonnative","unknown","forb","unintentional"
-129,"CHEALB","Chenopodium album",NA,"lambsquarters","Amaranthaceae","nonnative","annual","forb","unintentional"
-635,"SALCOL","Salsola collina",NA,"slender Russian thistle","Amaranthaceae","nonnative","annual","forb","unintentional"
-656,"DYSBOT","Dysphania botrys",NA,"Jerusalem oak goosefoot","Amaranthaceae","nonnative","annual","forb","unintentional"
-21,"AMABLI","Amaranthus blitoides",NA,"mat pigweed","Amaranthaceae","nonnative","annual","forb","unintentional"
-637,"CAMCAR","Campanula carpatica",NA,"tussock bellflower","Campanulaceae","nonnative","perennial","forb","unintentional"
-230,"EUPESU","Euphorbia esula",NA,"leafy spurge","Euphorbiaceae","nonnative","perennial","forb","unintentional"
-604,"POROLE","Portulaca oleracea",NA,"little hogweed","Portulacaceae","nonnative","annual","forb","unintentional"
-446,"RANREP","Ranunculus repens",NA,"creeping buttercup","Ranunculaceae","nonnative","perennial","forb","unintentional"
-156,"CONARV","Convolvulus arvensis",NA,"field bindweed","Convolvulaceae","nonnative","perennial","vine","unintentional"
-401,"PLALAN","Plantago lanceolata",NA,"English plantain","Plantaginaceae","nonnative","perennial","forb","unintentional"
-562,"VERVER","Veronica verna",NA,"vernal speedwell","Plantaginaceae","nonnative","annual","forb","unintentional"
-305,"LINVUL","Linaria vulgaris",NA,"yellow toadflax","Plantaginaceae","nonnative","perennial","forb","unintentional"
-557,"VERARV","Veronica arvensis",NA,"corn speedwell","Plantaginaceae","nonnative","annual","forb","unintentional"
-718,"VERSER","Veronica serpyllifolia",NA,"thymeleaf speedwell","Plantaginaceae","nonnative","perennial","forb","unintentional"
-654,"PENEAT","Penstemon eatonii",NA,"firecracker penstemon","Plantaginaceae","nonnative","perennial","forb","unintentional"
-302,"LINDAL","Linaria dalmatica ssp. dalmatica","Linaria genistifolia ssp. dalmatica","dalmatian toadflax","Plantaginaceae","nonnative","perennial","forb","unintentional"
-645,"PENSTR","Penstemon strictus",NA,"Rocky Mountain penstemon","Plantaginaceae","nonnative","perennial","forb","unintentional"
-89,"CALSTA","Callitriche stagnalis ",NA,"pond water-starwort","Callitrichaceae","nonnative","perennial","forb","unintentional"
-513,"STEMED","Stellaria media",NA,"common chickweed","Caryophyllaceae","nonnative","annual","forb","unintentional"
-179,"DIAARM","Dianthus armeria",NA,"Deptford pink","Caryophyllaceae","nonnative","biennial","forb","unintentional"
-660,"CERFON","Cerastium fontanum",NA,"common mouse-ear chickweed","Caryophyllaceae","nonnative","perennial","forb","unintentional"
-701,"SPERUB","Spergularia rubra",NA,"red sandspurry","Caryophyllaceae","nonnative","perennial","forb","unintentional"
-492,"SILLAT","Silene latifolia ssp. alba",NA,"bladder campion","Caryophyllaceae","nonnative","perennial","forb","unintentional"
-274,"HOLUMB","Holosteum umbellatum",NA,"jagged chickweed","Caryophyllaceae","nonnative","annual","forb","unintentional"
-477,"SAPOFF","Saponaria officinalis",NA,"soapwort","Caryophyllaceae","nonnative","perennial","forb","unintentional"
-761,"SAGPRO","Sagina procumbens",NA,"birdeye pearlwort","Caryophyllaceae","nonnative","annual","forb","unintentional"
-52,"ARESER","Arenaria serpyllifolia",NA,"thyme-leaf sandwort","Caryophyllaceae","nonnative","annual","forb","unintentional"
-560,"VERBA_SP","Verbascum spp.",NA,"mullein","Scrophulariaceae","nonnative","biennial","forb","unintentional"
-558,"VERBLA","Verbascum blattaria",NA,"moth mullein","Scrophulariaceae","nonnative","biennial","forb","unintentional"
-678,"LINMOR","Linaria maroccana",NA,"Moroccan toadflax","Scrophulariaceae","nonnative","annual","forb","unintentional"
-561,"VERTHA","Verbascum thapsus",NA,"common mullein","Scrophulariaceae","nonnative","biennial","forb","unintentional"
+652,"PINEDU","Pinus edulis",NA,"pinyon pine","Pinaceae","nonnative","perennial","tree","weed"
+428,"POTREC","Potentilla recta",NA,"sulphur cinquefoil","Rosaceae","nonnative","perennial","forb","weed"
+726,"POTARG","Potentilla argentea",NA,"silver cinquefoil","Rosaceae","nonnative","perennial","forb","weed"
+793,"SORAUC","Sorbus aucuparia",NA,"European mountain ash","Rosaceae","nonnative","perennial","tree","weed"
+475,"SANMIN","Sanguisorba minor",NA,"small burnet","Rosaceae","nonnative","perennial","forb","weed"
+778,"ULMPUM","Ulmus pumila",NA,"Siberian elm","Ulmaceae","nonnative","perennial","tree","weed"
+743,"ACEPLA","Acer platanoides",NA,"Norway maple","Aceraceae","nonnative","perennial","tree","weed"
+606,"NEPCAT","Nepeta cataria",NA,"catnip","Lamiaceae","nonnative","perennial","forb","weed"
+288,"LAMAMP","Lamium amplexicaule",NA,"henbit deadnettle","Lamiaceae","nonnative","biennial","forb","weed"
+469,"SALSCL","Salvia sclarea",NA,"clary","Lamiaceae","nonnative","biennial","forb","weed"
+243,"GALTET","Galeopsis tetrahit",NA,"bristlestem hempnettle","Lamiaceae","nonnative","annual","forb","weed"
+337,"MENAQU","Mentha aquatica",NA,"peppermint","Lamiaceae","nonnative","perennial","forb","weed"
+331,"MARVUL","Marrubium vulgare",NA,"horehound","Lamiaceae","nonnative","perennial","forb","weed"
+330,"MALPAR","Malva parviflora",NA,"cheeseweed mallow","Malvaceae","nonnative","perennial","forb","weed"
+595,"VIOARV","Viola arvensis","Viola tricolor","European field pansy","Violaceae","nonnative","annual","forb","weed"
+49,"ARCMIN","Arctium minus",NA,"common burdock","Asteraceae","nonnative","biennial","forb","weed"
+638,"CORLAN","Coreopsis lanceolata",NA,"lanceleaf tickseed","Asteraceae","nonnative","perennial","forb","weed"
+648,"RATPIN","Ratibida pinnata ",NA,"pinnate prairie coneflower","Asteraceae","nonnative","perennial","forb","weed"
+640,"DRAAMP","Dracopis amplexicaulis ",NA,"clasping coneflower","Asteraceae","nonnative","perennial","forb","weed"
+520,"TANVUL","Tanacetum vulgare",NA,"common tansy","Asteraceae","nonnative","perennial","forb","weed"
+136,"CICHOR","Cichorium intybus",NA,"chicory","Asteraceae","nonnative","perennial","forb","weed"
+332,"MATDIS","Matricaria discoidea","Matricaria matricarioides","pineappleweed","Asteraceae","nonnative","annual","forb","weed"
+297,"LEUVUL","Leucanthemum vulgare",NA,"ox-eye daisy","Asteraceae","nonnative","perennial","forb","weed"
+763,"SONARV","Sonchus arvensis",NA,"field sowthistle","Asteraceae","nonnative","perennial","forb","weed"
+142,"CIRVUL","Cirsium vulgare",NA,"bull thistle","Asteraceae","nonnative","biennial","forb","weed"
+287,"LACSER","Lactuca serriola",NA,"prickly lettuce","Asteraceae","nonnative","biennial","forb","weed"
+311,"LOGARV","Logfia arvensis","Filago arvensis","field cottonrose","Asteraceae","nonnative","annual","forb","weed"
+696,"HIEAUR","Hieracium aurantiacum",NA,"orange hawkweed","Asteraceae","nonnative","perennial","forb","weed"
+641,"ECHPUR","Echinacea purpurea",NA,"eastern purple coneflower","Asteraceae","nonnative","perennial","forb","weed"
+125,"CENSTO","Centaurea stoebe",NA,"spotted knapweed","Asteraceae","nonnative","perennial","forb","weed"
+104,"CARNUT","Carduus nutans",NA,"nodding plumeless thistle","Asteraceae","nonnative","perennial","forb","weed"
+612,"PLAMAJ","Plantago major ",NA,"common plantain","Asteraceae","nonnative","perennial","forb","weed"
+59,"ARTABS","Artemisia absinthium",NA,"absinthium","Asteraceae","nonnative","perennial","forb","weed"
+529,"TRADUB","Tragopogon dubius",NA,"yellow salsify","Asteraceae","nonnative","biennial","forb","weed"
+521,"TARLAE","Taraxacum laevigatum",NA,"rock dandelion","Asteraceae","nonnative","perennial","forb","weed"
+522,"TAROFF","Taraxacum officinale",NA,"common dandelion","Asteraceae","nonnative","perennial","forb","weed"
+608,"TRIPER","Tripleurospermum perforatum","Matricaria maritima L. ssp. inodora (L.) Clapham","scentless false mayweed","Asteraceae","nonnative","annual","forb","weed"
+139,"CIRARV","Cirsium arvense",NA,"Canada thistle","Asteraceae","nonnative","perennial","forb","weed"
+278,"HYPPER","Hypericum perforatum",NA,"common St. John's wort","Clusiaceae","nonnative","perennial","forb","weed"
+643,"OENSPE","Oenothera speciosa ",NA,"pinkladies","Onagraceae","nonnative","perennial","forb","weed"
+143,"CLAAMO","Clarkia amoena",NA,"farewell to spring","Onagraceae","nonnative","annual","forb","weed"
+465,"SALALB","Salix alba",NA,"white willow","Salicaceae","nonnative","perennial","shrub","weed"
+689,"SOLSAR","Solanum sarrachoides","Solanum physalifolium ","hoe nightshade","Solanaceae","nonnative","annual","forb","weed"
+277,"HYONIG","Hyoscyamus niger",NA,"henbane","Solanaceae","nonnative","biennial","forb","weed"
+501,"SOLDUL","Solanum dulcamara",NA,"climbing nightshade","Solanaceae","nonnative","perennial","vine","weed"
+559,"VERBRA","Verbena bracteata",NA,"bracted vervain","Verbenaceae","nonnative","perennial","forb","weed"
+190,"ECHVUL","Echium vulgare",NA,"blueweed","Boraginaceae","nonnative","perennial","forb","weed"
+355,"MYOMIC","Myosotis micrantha","Myosotis stricta, M. sylvatica","stiff forget-me-not","Boraginaceae","nonnative","annual","forb","weed"
+167,"CYNOFF","Cynoglossum officinale",NA,"hound's tongue","Boraginaceae","nonnative","biennial","forb","weed"
+84,"LITARV","Lithospermum arvense","Buglossoides arvensis ","corn gromwell","Boraginaceae","nonnative","annual","forb","weed"
+353,"MYOASI","Myosotis asiatica","Myosotis sylvatica","woodland forget-me-not","Boraginaceae","nonnative","perennial","forb","weed"
+65,"ASPPRO","Asperugo procumbens",NA,"madwort","Boraginaceae","nonnative","annual","forb","weed"
+290,"LAPOCC","Lappula occidentalis var. occidentalis","Lappula redowskii","western stickseed","Boraginaceae","nonnative","biennial","forb","weed"
+526,"THLARV","Thlaspi arvense",NA,"pennycress","Brassicaceae","nonnative","annual","forb","weed"
+294,"LEPDEN","Lepidium densiflorum",NA,"common pepperweed","Brassicaceae","nonnative","biennial","forb","weed"
+496,"SISALT","Sisymbrium altissimum",NA,"tumble mustard","Brassicaceae","nonnative","biennial","forb","weed"
+295,"LEPPER","Lepidium perfoliatum",NA,"clasping pepperweed","Brassicaceae","nonnative","biennial","forb","weed"
+20,"ALYALY","Alyssum alyssoides",NA,"yellow alyssum","Brassicaceae","nonnative","biennial","forb","weed"
+90,"CAMMIC","Camelina microcarpa",NA,"little-pod false flax","Brassicaceae","nonnative","biennial","forb","weed"
+497,"SISLOE","Sisymbrium loeselii",NA,"small tumbleweed mustard","Brassicaceae","nonnative","biennial","forb","weed"
+700,"RORSYL","Rorippa sylvestris",NA,"creeping yellowcress","Brassicaceae","nonnative","perennial","forb","weed"
+665,"RAPSAT","Raphanus sativus ",NA,"cultivated radish","Brassicaceae","nonnative","annual","forb","weed"
+658,"BRARAP","Brassica rapa",NA,"field mustard","Brassicaceae","nonnative","biennial","forb","weed"
+177,"DESSOP","Descurainia sophia",NA,"flixweed","Brassicaceae","nonnative","biennial","forb","weed"
+356,"NASOFF","Nasturtium officinale","Rorippa nasturtium-aquaticum","watercress","Brassicaceae","nonnative","perennial","forb","weed"
+47,"ARATHA","Arabidopsis thaliana",NA,"mouse-ear cress","Brassicaceae","nonnative","annual","forb","weed"
+187,"DRAVER","Draba verna",NA,"spring draba","Brassicaceae","nonnative","annual","forb","weed"
+92,"CAPBUR","Capsella bursa-pastoris",NA,"shepherd's puse","Brassicaceae","nonnative","annual","forb","weed"
+225,"EROCIC","Erodium cicutarium",NA,"storksbill","Geranianceae","nonnative","biennial","forb","weed"
+247,"GERPUS","Geranium pusillum",NA,"small geranium","Geranianceae","nonnative","biennial","forb","weed"
+684,"PAPRHO","Papaver rhoeas",NA,"corn poppy","Papaveraceae","nonnative","annual","forb","weed"
+229,"ESCCAL","Eschscholzia californica",NA,"California poppy","Papaveraceae","nonnative","annual","forb","weed"
+627,"POLHYD","Polygonum hydropiper",NA,"marshpepper knotweed","Polygonaceae","nonnative","annual","forb","weed"
+414,"POLCON","Polygonum convolvulus",NA,"black bindweed","Polygonaceae","nonnative","annual","forb","weed"
+462,"RUMACE","Rumex acetosella",NA,"common sheep sorrel","Polygonaceae","nonnative","perennial","forb","weed"
+385,"POLMAC","Polygonum maculosa","Persicaria maculosa","spotted ladysthumb","Polygonaceae","nonnative","perennial","forb","weed"
+679,"POLAVI","Polygonum aviculare",NA,"prostrate knotweed","Polygonaceae","nonnative","annual","forb","weed"
+664,"FAGESC","Fagopyrum esculentum ",NA,"buckwheat","Polygonaceae","nonnative","annual","forb","weed"
+782,"RUME_SP","Rumex spp.",NA,"dock","Polygonaceae","nonnative","perennial","forb","weed"
+463,"RUMCRI","Rumex crispus",NA,"curly dock","Polygonaceae","nonnative","perennial","forb","weed"
+685,"AMAALB","Amaranthus albus",NA,"tumble pigweed ","Amaranthaceae","nonnative","annual","forb","weed"
+468,"SALTRA","Salsola tragus",NA,"prickly Russian thistle","Amaranthaceae","nonnative","perennial","forb","weed"
+285,"KOCSCO","Kochia scoparia",NA,"common kochia","Amaranthaceae","nonnative","annual","forb","weed"
+22,"AMARET","Amaranthus retroflexus",NA,"redroot pigweed","Amaranthaceae","nonnative","annual","forb","weed"
+23,"AMAR_SP","Amaranthus spp.",NA,"pigweed","Amaranthaceae","nonnative","unknown","forb","weed"
+129,"CHEALB","Chenopodium album",NA,"lambsquarters","Amaranthaceae","nonnative","annual","forb","weed"
+635,"SALCOL","Salsola collina",NA,"slender Russian thistle","Amaranthaceae","nonnative","annual","forb","weed"
+656,"DYSBOT","Dysphania botrys",NA,"Jerusalem oak goosefoot","Amaranthaceae","nonnative","annual","forb","weed"
+21,"AMABLI","Amaranthus blitoides",NA,"mat pigweed","Amaranthaceae","nonnative","annual","forb","weed"
+637,"CAMCAR","Campanula carpatica",NA,"tussock bellflower","Campanulaceae","nonnative","perennial","forb","weed"
+230,"EUPESU","Euphorbia esula",NA,"leafy spurge","Euphorbiaceae","nonnative","perennial","forb","weed"
+604,"POROLE","Portulaca oleracea",NA,"little hogweed","Portulacaceae","nonnative","annual","forb","weed"
+446,"RANREP","Ranunculus repens",NA,"creeping buttercup","Ranunculaceae","nonnative","perennial","forb","weed"
+156,"CONARV","Convolvulus arvensis",NA,"field bindweed","Convolvulaceae","nonnative","perennial","vine","weed"
+401,"PLALAN","Plantago lanceolata",NA,"English plantain","Plantaginaceae","nonnative","perennial","forb","weed"
+562,"VERVER","Veronica verna",NA,"vernal speedwell","Plantaginaceae","nonnative","annual","forb","weed"
+305,"LINVUL","Linaria vulgaris",NA,"yellow toadflax","Plantaginaceae","nonnative","perennial","forb","weed"
+557,"VERARV","Veronica arvensis",NA,"corn speedwell","Plantaginaceae","nonnative","annual","forb","weed"
+718,"VERSER","Veronica serpyllifolia",NA,"thymeleaf speedwell","Plantaginaceae","nonnative","perennial","forb","weed"
+654,"PENEAT","Penstemon eatonii",NA,"firecracker penstemon","Plantaginaceae","nonnative","perennial","forb","weed"
+302,"LINDAL","Linaria dalmatica ssp. dalmatica","Linaria genistifolia ssp. dalmatica","dalmatian toadflax","Plantaginaceae","nonnative","perennial","forb","weed"
+645,"PENSTR","Penstemon strictus",NA,"Rocky Mountain penstemon","Plantaginaceae","nonnative","perennial","forb","weed"
+89,"CALSTA","Callitriche stagnalis ",NA,"pond water-starwort","Callitrichaceae","nonnative","perennial","forb","weed"
+513,"STEMED","Stellaria media",NA,"common chickweed","Caryophyllaceae","nonnative","annual","forb","weed"
+179,"DIAARM","Dianthus armeria",NA,"Deptford pink","Caryophyllaceae","nonnative","biennial","forb","weed"
+660,"CERFON","Cerastium fontanum",NA,"common mouse-ear chickweed","Caryophyllaceae","nonnative","perennial","forb","weed"
+701,"SPERUB","Spergularia rubra",NA,"red sandspurry","Caryophyllaceae","nonnative","perennial","forb","weed"
+492,"SILLAT","Silene latifolia ssp. alba",NA,"bladder campion","Caryophyllaceae","nonnative","perennial","forb","weed"
+274,"HOLUMB","Holosteum umbellatum",NA,"jagged chickweed","Caryophyllaceae","nonnative","annual","forb","weed"
+477,"SAPOFF","Saponaria officinalis",NA,"soapwort","Caryophyllaceae","nonnative","perennial","forb","weed"
+761,"SAGPRO","Sagina procumbens",NA,"birdeye pearlwort","Caryophyllaceae","nonnative","annual","forb","weed"
+52,"ARESER","Arenaria serpyllifolia",NA,"thyme-leaf sandwort","Caryophyllaceae","nonnative","annual","forb","weed"
+560,"VERBA_SP","Verbascum spp.",NA,"mullein","Scrophulariaceae","nonnative","biennial","forb","weed"
+558,"VERBLA","Verbascum blattaria",NA,"moth mullein","Scrophulariaceae","nonnative","biennial","forb","weed"
+678,"LINMOR","Linaria maroccana",NA,"Moroccan toadflax","Scrophulariaceae","nonnative","annual","forb","weed"
+561,"VERTHA","Verbascum thapsus",NA,"common mullein","Scrophulariaceae","nonnative","biennial","forb","weed"

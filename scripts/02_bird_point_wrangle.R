@@ -132,6 +132,10 @@ gp_mgmt_sf<-gp_info_utm %>%
   select(grid_point) %>% 
   left_join(gp_mgmt_summary, by = "grid_point")
 
+## bird team habitats 2011-2020
+str(AVSCI_habitat)
+table(AVSCI_habitat$Hab_AVSCI)
+
 # save as Rdata objects and output shapefiles ---------------------------------------------------
 ## bird grid point simplified habitat codes----
 gp_resto_df<-gp_resto_simple %>% st_drop_geometry()

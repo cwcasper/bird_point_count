@@ -12,6 +12,14 @@ load("processed_data/tabular/foliar_all.RData") # long table, any hit veg
 load("processed_data/tabular/foliar_top.RData") #long table, top hit veg
 
 # exploratory data analysis ----
+## sample sizes, missing data ----
+point_surveys<-foliar_all %>% 
+  distinct(grid_point, survey_sequence) %>% 
+  left_join(gp_mgmt_summary, by="grid_point") %>% 
+  group_by(survey_sequence, hab_2025) %>% 
+  summarise(n_grid_points=n(), .groups = "drop")
+  
+
 ## how does veg data line up with habitat categories
 ## planted vs. native vs. weeds by habitat types ----
 foliar_sum_2010<-foliar_all %>% 
@@ -46,7 +54,8 @@ no_veg<-foliar_top %>%
             # 95% CI using a t-distribution
             ci_lower = mean_nv - qt(0.975, df = n - 1) * se_nv,
             ci_upper = mean_nv + qt(0.975, df = n - 1) * se_nv,
-            .groups = "drop")
+            .groups = "drop") %>% 
+  filter(n>5)
 
 #indicator species analysis-do communities change over time-does management intensity explain it? significance test
 # communitiy similarity analysis-NMDS?
